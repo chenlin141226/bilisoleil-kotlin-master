@@ -1,0 +1,513 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:2:1-186:12
+INJECTED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:2:1-186:12
+INJECTED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:2:1-186:12
+INJECTED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:2:1-186:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\947fbf805aac22ce51bd5868863236c4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\materialsearchview-1.4.0.aar\d39e16dec59732f089f65e65a71fd8c8\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\design-25.4.0.aar\1b9adf51a1b0786b3ac28ad302356f8d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\fe74a7cd695ac887614336fb514299fc\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:cardview-v7:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.4.0.aar\38c41c60dfe9c01f3636ad59cbf5a227\AndroidManifest.xml:17:1-28:12
+MERGED from [com.jakewharton.rxbinding2:rxbinding:2.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\rxbinding-2.0.0.aar\6a5d89baad37679d4f88fcf32ea1de28\AndroidManifest.xml:2:1-8:12
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-components:2.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\rxlifecycle-components-2.0.1.aar\b471d564323d9b106097738b1f35b0ea\AndroidManifest.xml:13:1-19:12
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-android:2.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\rxlifecycle-android-2.0.1.aar\cf2ca423583af5968608f7a9b0fabf49\AndroidManifest.xml:13:1-19:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\45db477e9c27f888cc8705c8e06c1b05\AndroidManifest.xml:15:1-21:12
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.4] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.9.4.aar\4ab5aa65fd0c99cf58aad9e71a65b962\AndroidManifest.xml:2:1-13:12
+MERGED from [jp.wasabeef:glide-transformations:2.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\glide-transformations-2.0.2.aar\3d0b37f4fb98029f72ada9e7728399c0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\stetho-okhttp3-1.4.2.aar\35acb7a4e68e9b9e2d5564459d70aec0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.flyco.tablayout:FlycoTabLayout_Lib:2.1.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\FlycoTabLayout_Lib-2.1.2.aar\7809f50eaae065b360c9c9f5b6177401\AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.hymanme.tagflowlayout:tagflowlayout:0.2.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\tagflowlayout-0.2.2.aar\dc7f99e855edad082e4fb60e071c191d\AndroidManifest.xml:2:1-17:12
+MERGED from [com.youth.banner:banner:1.4.9] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\banner-1.4.9.aar\042e3cdb2ed231750402cb5b6f69ef36\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.16] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\BaseRecyclerViewAdapterHelper-2.9.16.aar\62fbaba03c7ce7f6a866e928f792afab\AndroidManifest.xml:2:1-11:12
+MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.8.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\ijkplayer-java-0.8.0.aar\1aba465161e8618be5c9f8e3749e84c4\AndroidManifest.xml:2:1-9:12
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv7a:0.8.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\ijkplayer-armv7a-0.8.0.aar\8fd83c1709e9560a60ffd4edcb55d668\AndroidManifest.xml:2:1-9:12
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv5:0.8.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\ijkplayer-armv5-0.8.0.aar\d29e4b97fd04fba04e71365450052a72\AndroidManifest.xml:2:1-9:12
+MERGED from [tv.danmaku.ijk.media:ijkplayer-x86:0.8.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\ijkplayer-x86-0.8.0.aar\f619913fabc84da52dd1775b6a3c2eaf\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.ctiao:DanmakuFlameMaster:0.5.6] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\DanmakuFlameMaster-0.5.6.aar\5f8f96dd1f37dafa7c8705929ae43c94\AndroidManifest.xml:17:1-26:12
+MERGED from [com.facebook.stetho:stetho:1.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\stetho-1.4.2.aar\73bcfe4ecbc621066468a1d82deccfc7\AndroidManifest.xml:2:1-13:12
+MERGED from [com.orhanobut:logger:1.15] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\logger-1.15.aar\01497a3c65c16f1874a2298b683431e7\AndroidManifest.xml:2:1-8:12
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\d53e1bceedbe58ec43f3016f38565e2d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c8dcd45b1491787764384760f302ec69\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:transition:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\transition-25.4.0.aar\7bc1eba7cb79a9f117273660ca38a97b\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\3ff72fe191a4010bcd9d2cd3a1f2e1d2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\cad17fafec3f70227c5762513054b799\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\1d3adfcf71db5fdd08abf83b14128af8\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\8b721a81a816afdb57c9c9f03195b59c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\53d9c9fee65ad983ff9361eebe17a89c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\52ede140ae2f313f8851b3c96311e1f4\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\0e726cef8398bfb1772ba7d79a93aef3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\3e5afdf2c591e223bb56d016208a29a6\AndroidManifest.xml:17:1-31:12
+INJECTED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:2:1-186:12
+INJECTED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:2:1-186:12
+INJECTED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:2:1-186:12
+	package
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:3:11-38
+		INJECTED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:2:1-186:12
+		INJECTED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:2:1-186:12
+		INJECTED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:5:5-75
+	android:name
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:5:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:8:22-73
+uses-permission#android.permission.INTERNET
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:9:5-66
+	android:name
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.GET_TASKS
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:10:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:12:22-72
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:13:5-73
+	android:name
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:13:22-71
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:14:5-70
+	android:name
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:14:22-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:15:22-77
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:18:5-67
+	android:name
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:18:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:19:5-73
+	android:name
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:19:22-71
+application
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:21:5-184:19
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\materialsearchview-1.4.0.aar\d39e16dec59732f089f65e65a71fd8c8\AndroidManifest.xml:11:5-20
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\materialsearchview-1.4.0.aar\d39e16dec59732f089f65e65a71fd8c8\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\design-25.4.0.aar\1b9adf51a1b0786b3ac28ad302356f8d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\design-25.4.0.aar\1b9adf51a1b0786b3ac28ad302356f8d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\fe74a7cd695ac887614336fb514299fc\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\fe74a7cd695ac887614336fb514299fc\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.4.0.aar\38c41c60dfe9c01f3636ad59cbf5a227\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.4.0.aar\38c41c60dfe9c01f3636ad59cbf5a227\AndroidManifest.xml:22:5-26:19
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.4] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.9.4.aar\4ab5aa65fd0c99cf58aad9e71a65b962\AndroidManifest.xml:11:5-20
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.4] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.9.4.aar\4ab5aa65fd0c99cf58aad9e71a65b962\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\stetho-okhttp3-1.4.2.aar\35acb7a4e68e9b9e2d5564459d70aec0\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\stetho-okhttp3-1.4.2.aar\35acb7a4e68e9b9e2d5564459d70aec0\AndroidManifest.xml:11:5-20
+MERGED from [com.github.hymanme.tagflowlayout:tagflowlayout:0.2.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\tagflowlayout-0.2.2.aar\dc7f99e855edad082e4fb60e071c191d\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.hymanme.tagflowlayout:tagflowlayout:0.2.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\tagflowlayout-0.2.2.aar\dc7f99e855edad082e4fb60e071c191d\AndroidManifest.xml:11:5-15:19
+MERGED from [com.facebook.stetho:stetho:1.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\stetho-1.4.2.aar\73bcfe4ecbc621066468a1d82deccfc7\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho:1.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\stetho-1.4.2.aar\73bcfe4ecbc621066468a1d82deccfc7\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\d53e1bceedbe58ec43f3016f38565e2d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\d53e1bceedbe58ec43f3016f38565e2d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c8dcd45b1491787764384760f302ec69\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c8dcd45b1491787764384760f302ec69\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:transition:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\transition-25.4.0.aar\7bc1eba7cb79a9f117273660ca38a97b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\transition-25.4.0.aar\7bc1eba7cb79a9f117273660ca38a97b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\3ff72fe191a4010bcd9d2cd3a1f2e1d2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\3ff72fe191a4010bcd9d2cd3a1f2e1d2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\cad17fafec3f70227c5762513054b799\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\cad17fafec3f70227c5762513054b799\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\1d3adfcf71db5fdd08abf83b14128af8\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\1d3adfcf71db5fdd08abf83b14128af8\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\8b721a81a816afdb57c9c9f03195b59c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\8b721a81a816afdb57c9c9f03195b59c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\53d9c9fee65ad983ff9361eebe17a89c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\53d9c9fee65ad983ff9361eebe17a89c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\52ede140ae2f313f8851b3c96311e1f4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\52ede140ae2f313f8851b3c96311e1f4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\0e726cef8398bfb1772ba7d79a93aef3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\0e726cef8398bfb1772ba7d79a93aef3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\3e5afdf2c591e223bb56d016208a29a6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\3e5afdf2c591e223bb56d016208a29a6\AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:27:9-35
+	android:label
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:25:9-41
+	android:roundIcon
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:26:9-54
+	android:icon
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:24:9-43
+	android:allowBackup
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:23:9-35
+	android:theme
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:28:9-44
+	android:name
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:22:9-28
+activity#com.mob.tools.MobUIShell
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:29:9-52:20
+	android:screenOrientation
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:32:13-49
+	android:windowSoftInputMode
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:34:13-67
+	android:configChanges
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:31:13-74
+	android:theme
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:33:13-72
+	android:name
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:30:13-52
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:37:13-44:29
+data
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:38:17-58
+	android:scheme
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:38:23-56
+action#android.intent.action.VIEW
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:40:17-68
+	android:name
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:40:25-66
+category#android.intent.category.BROWSABLE
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:42:17-77
+	android:name
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:42:27-75
+category#android.intent.category.DEFAULT
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:43:17-75
+	android:name
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:43:27-73
+intent-filter#android.intent.category.DEFAULT+com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:47:13-51:29
+action#com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:48:17-91
+	android:name
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:48:25-89
+activity#com.yoyiyi.soleil.module.MainActivity
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:54:9-60:20
+	android:name
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:54:19-54
+activity#com.yoyiyi.soleil.module.SplashActivity
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:61:9-68:20
+	android:name
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:61:19-56
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:63:13-67:29
+action#android.intent.action.MAIN
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:64:17-68
+	android:name
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:64:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:66:17-76
+	android:name
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:66:27-74
+activity#com.yoyiyi.soleil.module.app.BrowerActivity
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:71:9-74:51
+	android:screenOrientation
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:74:13-49
+	android:launchMode
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:73:13-44
+	android:name
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:72:13-54
+activity#com.yoyiyi.soleil.module.region.AllRegionRankActivity
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:77:9-80:51
+	android:screenOrientation
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:80:13-49
+	android:launchMode
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:79:13-44
+	android:name
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:78:13-64
+activity#com.yoyiyi.soleil.module.app.LoginActivity
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:82:9-85:51
+	android:screenOrientation
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:85:13-49
+	android:launchMode
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:84:13-44
+	android:name
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:83:13-53
+activity#com.yoyiyi.soleil.module.region.RegionTypeActivity
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:87:9-90:51
+	android:screenOrientation
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:90:13-49
+	android:launchMode
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:89:13-44
+	android:name
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:88:13-61
+activity#com.yoyiyi.soleil.module.region.AdActivity
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:91:9-94:51
+	android:screenOrientation
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:94:13-49
+	android:launchMode
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:93:13-44
+	android:name
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:92:13-53
+activity#com.yoyiyi.soleil.module.entrance.VipActivity
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:96:9-99:51
+	android:screenOrientation
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:99:13-49
+	android:launchMode
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:98:13-44
+	android:name
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:97:13-56
+activity#com.yoyiyi.soleil.module.entrance.OfflineDownloadActivity
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:101:9-104:51
+	android:screenOrientation
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:104:13-49
+	android:launchMode
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:103:13-44
+	android:name
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:102:13-68
+activity#com.yoyiyi.soleil.module.discover.TopicCenterActivity
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:106:9-109:51
+	android:screenOrientation
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:109:13-49
+	android:launchMode
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:108:13-44
+	android:name
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:107:13-64
+activity#com.yoyiyi.soleil.module.discover.ActivityCenterActivity
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:111:9-114:51
+	android:screenOrientation
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:114:13-49
+	android:launchMode
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:113:13-44
+	android:name
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:112:13-67
+activity#com.yoyiyi.soleil.module.discover.GameCenterActivity
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:116:9-119:51
+	android:screenOrientation
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:119:13-49
+	android:launchMode
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:118:13-44
+	android:name
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:117:13-63
+activity#com.yoyiyi.soleil.module.recommend.AllStationRankActivity
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:120:9-123:51
+	android:screenOrientation
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:123:13-49
+	android:launchMode
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:122:13-44
+	android:name
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:121:13-68
+activity#com.yoyiyi.soleil.module.discover.AllGameActivity
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:126:9-129:51
+	android:screenOrientation
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:129:13-49
+	android:launchMode
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:128:13-44
+	android:name
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:127:13-60
+activity#com.yoyiyi.soleil.module.discover.InterestActivity
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:131:9-134:51
+	android:screenOrientation
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:134:13-49
+	android:launchMode
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:133:13-44
+	android:name
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:132:13-61
+activity#com.yoyiyi.soleil.module.bangumi.BangumiDetailActivity
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:137:9-140:51
+	android:screenOrientation
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:140:13-49
+	android:launchMode
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:139:13-44
+	android:name
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:138:13-65
+activity#com.yoyiyi.soleil.module.bangumi.BangumiScheduleActivity
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:142:9-145:51
+	android:screenOrientation
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:145:13-49
+	android:launchMode
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:144:13-44
+	android:name
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:143:13-67
+activity#com.yoyiyi.soleil.module.bangumi.BangumiIndexActivity
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:147:9-150:51
+	android:screenOrientation
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:150:13-49
+	android:launchMode
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:149:13-44
+	android:name
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:148:13-64
+activity#com.yoyiyi.soleil.module.search.TotalSearchActivity
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:152:9-155:51
+	android:screenOrientation
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:155:13-49
+	android:launchMode
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:154:13-44
+	android:name
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:153:13-62
+activity#com.yoyiyi.soleil.module.app.up.UpDetailActivity
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:157:9-160:51
+	android:screenOrientation
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:160:13-49
+	android:launchMode
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:159:13-44
+	android:name
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:158:13-59
+activity#com.yoyiyi.soleil.module.search.SearchActivity
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:162:9-165:51
+	android:screenOrientation
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:165:13-49
+	android:launchMode
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:164:13-44
+	android:name
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:163:13-57
+activity#com.yoyiyi.soleil.module.app.video.VideoPlayerActivity
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:167:9-175:62
+	android:screenOrientation
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:173:13-50
+	android:label
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:171:13-45
+	android:launchMode
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:172:13-43
+	android:windowSoftInputMode
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:175:13-60
+	android:exported
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:170:13-37
+	android:configChanges
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:169:13-113
+	android:theme
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:174:13-46
+	android:name
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:168:13-65
+activity#com.yoyiyi.soleil.module.app.video.VideoDetailActivity
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:178:9-181:51
+	android:screenOrientation
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:181:13-49
+	android:launchMode
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:180:13-44
+	android:name
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:179:13-65
+service#com.yoyiyi.soleil.utils.net.NetworkService
+ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:183:8-59
+	android:name
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml:183:17-57
+uses-sdk
+INJECTED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml
+INJECTED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\947fbf805aac22ce51bd5868863236c4\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\947fbf805aac22ce51bd5868863236c4\AndroidManifest.xml:20:5-43
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\materialsearchview-1.4.0.aar\d39e16dec59732f089f65e65a71fd8c8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\materialsearchview-1.4.0.aar\d39e16dec59732f089f65e65a71fd8c8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\design-25.4.0.aar\1b9adf51a1b0786b3ac28ad302356f8d\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\design-25.4.0.aar\1b9adf51a1b0786b3ac28ad302356f8d\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\fe74a7cd695ac887614336fb514299fc\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\fe74a7cd695ac887614336fb514299fc\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.4.0.aar\38c41c60dfe9c01f3636ad59cbf5a227\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.4.0.aar\38c41c60dfe9c01f3636ad59cbf5a227\AndroidManifest.xml:20:5-43
+MERGED from [com.jakewharton.rxbinding2:rxbinding:2.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\rxbinding-2.0.0.aar\6a5d89baad37679d4f88fcf32ea1de28\AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding:2.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\rxbinding-2.0.0.aar\6a5d89baad37679d4f88fcf32ea1de28\AndroidManifest.xml:6:5-44
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-components:2.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\rxlifecycle-components-2.0.1.aar\b471d564323d9b106097738b1f35b0ea\AndroidManifest.xml:17:5-44
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-components:2.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\rxlifecycle-components-2.0.1.aar\b471d564323d9b106097738b1f35b0ea\AndroidManifest.xml:17:5-44
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-android:2.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\rxlifecycle-android-2.0.1.aar\cf2ca423583af5968608f7a9b0fabf49\AndroidManifest.xml:17:5-44
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-android:2.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\rxlifecycle-android-2.0.1.aar\cf2ca423583af5968608f7a9b0fabf49\AndroidManifest.xml:17:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\45db477e9c27f888cc8705c8e06c1b05\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\45db477e9c27f888cc8705c8e06c1b05\AndroidManifest.xml:19:5-43
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.4] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.9.4.aar\4ab5aa65fd0c99cf58aad9e71a65b962\AndroidManifest.xml:7:5-9:41
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.4] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.9.4.aar\4ab5aa65fd0c99cf58aad9e71a65b962\AndroidManifest.xml:7:5-9:41
+MERGED from [jp.wasabeef:glide-transformations:2.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\glide-transformations-2.0.2.aar\3d0b37f4fb98029f72ada9e7728399c0\AndroidManifest.xml:8:5-10:41
+MERGED from [jp.wasabeef:glide-transformations:2.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\glide-transformations-2.0.2.aar\3d0b37f4fb98029f72ada9e7728399c0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\stetho-okhttp3-1.4.2.aar\35acb7a4e68e9b9e2d5564459d70aec0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\stetho-okhttp3-1.4.2.aar\35acb7a4e68e9b9e2d5564459d70aec0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.flyco.tablayout:FlycoTabLayout_Lib:2.1.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\FlycoTabLayout_Lib-2.1.2.aar\7809f50eaae065b360c9c9f5b6177401\AndroidManifest.xml:8:5-10:41
+MERGED from [com.flyco.tablayout:FlycoTabLayout_Lib:2.1.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\FlycoTabLayout_Lib-2.1.2.aar\7809f50eaae065b360c9c9f5b6177401\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.hymanme.tagflowlayout:tagflowlayout:0.2.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\tagflowlayout-0.2.2.aar\dc7f99e855edad082e4fb60e071c191d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.hymanme.tagflowlayout:tagflowlayout:0.2.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\tagflowlayout-0.2.2.aar\dc7f99e855edad082e4fb60e071c191d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.youth.banner:banner:1.4.9] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\banner-1.4.9.aar\042e3cdb2ed231750402cb5b6f69ef36\AndroidManifest.xml:7:5-9:41
+MERGED from [com.youth.banner:banner:1.4.9] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\banner-1.4.9.aar\042e3cdb2ed231750402cb5b6f69ef36\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.16] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\BaseRecyclerViewAdapterHelper-2.9.16.aar\62fbaba03c7ce7f6a866e928f792afab\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.16] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\BaseRecyclerViewAdapterHelper-2.9.16.aar\62fbaba03c7ce7f6a866e928f792afab\AndroidManifest.xml:7:5-9:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.8.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\ijkplayer-java-0.8.0.aar\1aba465161e8618be5c9f8e3749e84c4\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.8.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\ijkplayer-java-0.8.0.aar\1aba465161e8618be5c9f8e3749e84c4\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv7a:0.8.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\ijkplayer-armv7a-0.8.0.aar\8fd83c1709e9560a60ffd4edcb55d668\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv7a:0.8.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\ijkplayer-armv7a-0.8.0.aar\8fd83c1709e9560a60ffd4edcb55d668\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv5:0.8.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\ijkplayer-armv5-0.8.0.aar\d29e4b97fd04fba04e71365450052a72\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv5:0.8.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\ijkplayer-armv5-0.8.0.aar\d29e4b97fd04fba04e71365450052a72\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-x86:0.8.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\ijkplayer-x86-0.8.0.aar\f619913fabc84da52dd1775b6a3c2eaf\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-x86:0.8.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\ijkplayer-x86-0.8.0.aar\f619913fabc84da52dd1775b6a3c2eaf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.ctiao:DanmakuFlameMaster:0.5.6] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\DanmakuFlameMaster-0.5.6.aar\5f8f96dd1f37dafa7c8705929ae43c94\AndroidManifest.xml:22:5-24:41
+MERGED from [com.github.ctiao:DanmakuFlameMaster:0.5.6] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\DanmakuFlameMaster-0.5.6.aar\5f8f96dd1f37dafa7c8705929ae43c94\AndroidManifest.xml:22:5-24:41
+MERGED from [com.facebook.stetho:stetho:1.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\stetho-1.4.2.aar\73bcfe4ecbc621066468a1d82deccfc7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho:1.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\stetho-1.4.2.aar\73bcfe4ecbc621066468a1d82deccfc7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.orhanobut:logger:1.15] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\logger-1.15.aar\01497a3c65c16f1874a2298b683431e7\AndroidManifest.xml:6:5-43
+MERGED from [com.orhanobut:logger:1.15] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\logger-1.15.aar\01497a3c65c16f1874a2298b683431e7\AndroidManifest.xml:6:5-43
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\d53e1bceedbe58ec43f3016f38565e2d\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\d53e1bceedbe58ec43f3016f38565e2d\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c8dcd45b1491787764384760f302ec69\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c8dcd45b1491787764384760f302ec69\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:transition:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\transition-25.4.0.aar\7bc1eba7cb79a9f117273660ca38a97b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\transition-25.4.0.aar\7bc1eba7cb79a9f117273660ca38a97b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\3ff72fe191a4010bcd9d2cd3a1f2e1d2\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\3ff72fe191a4010bcd9d2cd3a1f2e1d2\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\cad17fafec3f70227c5762513054b799\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\cad17fafec3f70227c5762513054b799\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\1d3adfcf71db5fdd08abf83b14128af8\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\1d3adfcf71db5fdd08abf83b14128af8\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\8b721a81a816afdb57c9c9f03195b59c\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\8b721a81a816afdb57c9c9f03195b59c\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\53d9c9fee65ad983ff9361eebe17a89c\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\53d9c9fee65ad983ff9361eebe17a89c\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\52ede140ae2f313f8851b3c96311e1f4\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\52ede140ae2f313f8851b3c96311e1f4\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\0e726cef8398bfb1772ba7d79a93aef3\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\0e726cef8398bfb1772ba7d79a93aef3\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\3e5afdf2c591e223bb56d016208a29a6\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\3e5afdf2c591e223bb56d016208a29a6\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml
+INJECTED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\design-25.4.0.aar\1b9adf51a1b0786b3ac28ad302356f8d\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\JaffaCode\my\bilisoleil-kotlin-master\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\design-25.4.0.aar\1b9adf51a1b0786b3ac28ad302356f8d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\fe74a7cd695ac887614336fb514299fc\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\fe74a7cd695ac887614336fb514299fc\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.4.0.aar\38c41c60dfe9c01f3636ad59cbf5a227\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.4.0.aar\38c41c60dfe9c01f3636ad59cbf5a227\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\d53e1bceedbe58ec43f3016f38565e2d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\d53e1bceedbe58ec43f3016f38565e2d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\transition-25.4.0.aar\7bc1eba7cb79a9f117273660ca38a97b\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\transition-25.4.0.aar\7bc1eba7cb79a9f117273660ca38a97b\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\3ff72fe191a4010bcd9d2cd3a1f2e1d2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\3ff72fe191a4010bcd9d2cd3a1f2e1d2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\cad17fafec3f70227c5762513054b799\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\cad17fafec3f70227c5762513054b799\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\1d3adfcf71db5fdd08abf83b14128af8\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\1d3adfcf71db5fdd08abf83b14128af8\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\8b721a81a816afdb57c9c9f03195b59c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\8b721a81a816afdb57c9c9f03195b59c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\53d9c9fee65ad983ff9361eebe17a89c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\53d9c9fee65ad983ff9361eebe17a89c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\52ede140ae2f313f8851b3c96311e1f4\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\52ede140ae2f313f8851b3c96311e1f4\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\0e726cef8398bfb1772ba7d79a93aef3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\0e726cef8398bfb1772ba7d79a93aef3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\3e5afdf2c591e223bb56d016208a29a6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\3e5afdf2c591e223bb56d016208a29a6\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\design-25.4.0.aar\1b9adf51a1b0786b3ac28ad302356f8d\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:25.4.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\design-25.4.0.aar\1b9adf51a1b0786b3ac28ad302356f8d\AndroidManifest.xml:27:13-51

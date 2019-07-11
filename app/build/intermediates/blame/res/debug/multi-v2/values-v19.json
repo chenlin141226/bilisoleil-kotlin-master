@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\JaffaCode\\my\\bilisoleil-kotlin-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v19\\values-v19.xml",
+            "map": [
+                {
+                    "source": "D:\\JaffaCode\\my\\bilisoleil-kotlin-master\\app\\src\\main\\res\\values-v19\\dimens.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "52",
+                        "endOffsets": "103"
+                    }
+                },
+                {
+                    "source": "D:\\JaffaCode\\my\\bilisoleil-kotlin-master\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "8",
+                        "startOffsets": "25",
+                        "endLines": "4",
+                        "endColumns": "16",
+                        "endOffsets": "163"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "108",
+                        "endLines": "5",
+                        "endColumns": "16",
+                        "endOffsets": "246"
+                    }
+                }
+            ]
+        }
+    ]
+}

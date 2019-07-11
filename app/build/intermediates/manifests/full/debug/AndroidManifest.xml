@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.yoyiyi.soleil"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <!-- 蓝牙分享所需的权限 -->
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+
+    <application
+        android:name="com.yoyiyi.soleil.App"
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/BaseAppTheme" >
+        <activity
+            android:name="com.mob.tools.MobUIShell"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateHidden|adjustResize" >
+
+            <!-- QQ和QQ空间分享 QQ登录的回调必须要配置的 -->
+            <intent-filter>
+                <data android:scheme="tencent100371282" />
+
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.BROWSABLE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <!-- 新浪微博客户端分享回调必须配置 -->
+            <intent-filter>
+                <action android:name="com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.yoyiyi.soleil.module.MainActivity" >
+
+            <!--
+             <intent-filter>
+                 <action android:name="android.intent.action.MAIN"/>
+
+                 <category android:name="android.intent.category.LAUNCHER"/>
+             </intent-filter>
+            -->
+        </activity>
+        <activity android:name="com.yoyiyi.soleil.module.SplashActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- 浏览器界面 -->
+        <activity
+            android:name="com.yoyiyi.soleil.module.app.BrowerActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+
+        <!-- 全区排行 -->
+        <activity
+            android:name="com.yoyiyi.soleil.module.region.AllRegionRankActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <!-- 全区排行 -->
+        <activity
+            android:name="com.yoyiyi.soleil.module.app.LoginActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yoyiyi.soleil.module.region.RegionTypeActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yoyiyi.soleil.module.region.AdActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <!-- vip -->
+        <activity
+            android:name="com.yoyiyi.soleil.module.entrance.VipActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <!-- 离线缓存 -->
+        <activity
+            android:name="com.yoyiyi.soleil.module.entrance.OfflineDownloadActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <!-- 话题中心 -->
+        <activity
+            android:name="com.yoyiyi.soleil.module.discover.TopicCenterActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <!-- 活动中心 -->
+        <activity
+            android:name="com.yoyiyi.soleil.module.discover.ActivityCenterActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <!-- 游戏中心 -->
+        <activity
+            android:name="com.yoyiyi.soleil.module.discover.GameCenterActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yoyiyi.soleil.module.recommend.AllStationRankActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+
+        <!-- 全部游戏 -->
+        <activity
+            android:name="com.yoyiyi.soleil.module.discover.AllGameActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <!-- vip -->
+        <activity
+            android:name="com.yoyiyi.soleil.module.discover.InterestActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+
+        <!-- 番剧详情 -->
+        <activity
+            android:name="com.yoyiyi.soleil.module.bangumi.BangumiDetailActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <!-- 番剧时间表 -->
+        <activity
+            android:name="com.yoyiyi.soleil.module.bangumi.BangumiScheduleActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <!-- 番剧索引 -->
+        <activity
+            android:name="com.yoyiyi.soleil.module.bangumi.BangumiIndexActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <!-- 全局搜索 -->
+        <activity
+            android:name="com.yoyiyi.soleil.module.search.TotalSearchActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <!-- up主详情 -->
+        <activity
+            android:name="com.yoyiyi.soleil.module.app.up.UpDetailActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <!-- 搜索 -->
+        <activity
+            android:name="com.yoyiyi.soleil.module.search.SearchActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <!-- 视频播放 -->
+        <activity
+            android:name="com.yoyiyi.soleil.module.app.video.VideoPlayerActivity"
+            android:configChanges="orientation|screenSize|smallestScreenSize|keyboard|keyboardHidden|navigation"
+            android:exported="false"
+            android:label="@string/app_name"
+            android:launchMode="singleTop"
+            android:screenOrientation="landscape"
+            android:theme="@style/Fullscreen"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+
+        <!-- 视频详情 -->
+        <activity
+            android:name="com.yoyiyi.soleil.module.app.video.VideoDetailActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+
+        <service android:name="com.yoyiyi.soleil.utils.net.NetworkService" />
+
+        <meta-data
+            android:name="android.support.VERSION"
+            android:value="25.4.0" />
+    </application>
+
+</manifest>

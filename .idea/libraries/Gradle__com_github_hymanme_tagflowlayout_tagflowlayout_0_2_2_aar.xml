@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.hymanme.tagflowlayout:tagflowlayout:0.2.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tagflowlayout-0.2.2.aar/dc7f99e855edad082e4fb60e071c191d/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tagflowlayout-0.2.2.aar/dc7f99e855edad082e4fb60e071c191d/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.hymanme.tagflowlayout/tagflowlayout/0.2.2/a3e0c427572c40ee6bdcdfd4ac45dd4b8889b920/tagflowlayout-0.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

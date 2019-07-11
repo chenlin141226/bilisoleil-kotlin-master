@@ -1,0 +1,4506 @@
+a org.jetbrains.annotations.NotNull 0
+p com.yoyiyi.soleil.bean.app.Recommend.Data 0
+f 0 0/Body title
+m 0 0/Body getTitle
+f 0 0/Body cover
+m 0 0/Body getCover
+f 0 0/Body uri
+m 0 0/Body getUri
+f 0 0/Body param
+m 0 0/Body getParam
+f 0 0/Body goto
+m 0 0/Body getGoto
+f 0 0/Body index
+m 0 0/Body getIndex
+f 0 0/Body total_count
+m 0 0/Body getTotal_count
+f 0 0/Body mtime
+m 0 0/Body getMtime
+m 0 0/Body component1
+m 0 0/Body component2
+m 0 0/Body component3
+m 0 0/Body component4
+m 0 0/Body component5
+m 0 0/Body component7
+m 0 0/Body component8
+m 0 0/Body component9
+m 0 0/Body copy
+m 0 0/Body copy$default
+p com.yoyiyi.soleil.bean.app.Recommend 1
+f 0 1/Data param
+m 0 1/Data getParam
+f 0 1/Data type
+m 0 1/Data getType
+f 0 1/Data style
+m 0 1/Data getStyle
+f 0 1/Data title
+m 0 1/Data getTitle
+f 0 1/Data body
+m 0 1/Data getBody
+m 0 1/Data component1
+m 0 1/Data component2
+m 0 1/Data component3
+m 0 1/Data component4
+m 0 1/Data component5
+m 0 1/Data copy
+m 0 1/Data copy$default
+p com.yoyiyi.soleil.bean.app 2
+f 0 2/Recommend message
+m 0 2/Recommend getMessage
+f 0 2/Recommend data
+m 0 2/Recommend getData
+m 0 2/Recommend component2
+m 0 2/Recommend component4
+m 0 2/Recommend copy
+m 0 2/Recommend copy$default
+p com.yoyiyi.soleil.bean.app.Splash 3
+f 0 3/Data thumb
+m 0 3/Data getThumb
+f 0 3/Data hash
+m 0 3/Data getHash
+f 0 3/Data uri
+m 0 3/Data getUri
+m 0 3/Data component7
+m 0 3/Data component8
+m 0 3/Data component11
+m 0 3/Data copy
+m 0 3/Data copy$default
+f 0 2/Splash message
+m 0 2/Splash getMessage
+f 0 2/Splash ver
+m 0 2/Splash getVer
+f 0 2/Splash data
+m 0 2/Splash getData
+m 0 2/Splash component2
+m 0 2/Splash component4
+m 0 2/Splash component5
+m 0 2/Splash copy
+m 0 2/Splash copy$default
+p com.yoyiyi.soleil.bean.app.video.VideoDetail.DataBean 4
+m 0 4/RightsBean copy
+m 0 4/RightsBean copy$default
+f 0 4/OwnerBean name
+m 0 4/OwnerBean getName
+f 0 4/OwnerBean face
+m 0 4/OwnerBean getFace
+m 0 4/OwnerBean component2
+m 0 4/OwnerBean component3
+m 0 4/OwnerBean copy
+m 0 4/OwnerBean copy$default
+m 0 4/StatBean copy
+m 0 4/StatBean copy$default
+p com.yoyiyi.soleil.bean.app.video.VideoDetail.DataBean.OwnerExtBean 5
+f 0 5/VipBean dueRemark
+m 0 5/VipBean getDueRemark
+f 0 5/VipBean vipStatusWarn
+m 0 5/VipBean getVipStatusWarn
+m 0 5/VipBean component3
+m 0 5/VipBean component6
+m 0 5/VipBean copy
+m 0 5/VipBean copy$default
+f 0 4/OwnerExtBean vip
+m 0 4/OwnerExtBean getVip
+m 0 4/OwnerExtBean component1
+m 0 4/OwnerExtBean copy
+m 0 4/OwnerExtBean copy$default
+m 0 4/ReqUserBean copy
+m 0 4/ReqUserBean copy$default
+p com.yoyiyi.soleil.bean.app.video.VideoDetail.DataBean.ElecBean.ElecSetBean 6
+f 0 6/ElecListBean title
+m 0 6/ElecListBean getTitle
+m 0 6/ElecListBean component1
+m 0 6/ElecListBean copy
+m 0 6/ElecListBean copy$default
+p com.yoyiyi.soleil.bean.app.video.VideoDetail.DataBean.ElecBean 7
+f 0 7/ElecSetBean elec_list
+m 0 7/ElecSetBean getElec_list
+m 0 7/ElecSetBean component5
+m 0 7/ElecSetBean copy
+m 0 7/ElecSetBean copy$default
+f 0 4/ElecBean elec_set
+m 0 4/ElecBean getElec_set
+m 0 4/ElecBean component5
+m 0 4/ElecBean copy
+m 0 4/ElecBean copy$default
+p com.yoyiyi.soleil.bean.app.video.VideoDetail.DataBean.PagesBean 8
+f 0 8/MetasBean format
+m 0 8/MetasBean getFormat
+m 0 8/MetasBean component2
+m 0 8/MetasBean copy
+m 0 8/MetasBean copy$default
+f 0 4/PagesBean from
+m 0 4/PagesBean getFrom
+f 0 4/PagesBean part
+m 0 4/PagesBean getPart
+f 0 4/PagesBean vid
+m 0 4/PagesBean getVid
+f 0 4/PagesBean weblink
+m 0 4/PagesBean getWeblink
+f 0 4/PagesBean dmlink
+m 0 4/PagesBean getDmlink
+f 0 4/PagesBean metas
+m 0 4/PagesBean getMetas
+m 0 4/PagesBean component3
+m 0 4/PagesBean component4
+m 0 4/PagesBean component6
+m 0 4/PagesBean component7
+m 0 4/PagesBean component8
+m 0 4/PagesBean component9
+m 0 4/PagesBean copy
+m 0 4/PagesBean copy$default
+f 0 4/DislikeReasonsBean reason_name
+m 0 4/DislikeReasonsBean getReason_name
+m 0 4/DislikeReasonsBean component2
+m 0 4/DislikeReasonsBean copy
+m 0 4/DislikeReasonsBean copy$default
+f 0 4/TagBean tag_name
+m 0 4/TagBean getTag_name
+m 0 4/TagBean component2
+m 0 4/TagBean copy
+m 0 4/TagBean copy$default
+p com.yoyiyi.soleil.bean.app.video.VideoDetail.DataBean.RelatesBean 9
+f 0 9/OwnerBeanX name
+m 0 9/OwnerBeanX getName
+f 0 9/OwnerBeanX face
+m 0 9/OwnerBeanX getFace
+m 0 9/OwnerBeanX component2
+m 0 9/OwnerBeanX component3
+m 0 9/OwnerBeanX copy
+m 0 9/OwnerBeanX copy$default
+m 0 9/StatBeanX copy
+m 0 9/StatBeanX copy$default
+f 0 4/RelatesBean pic
+m 0 4/RelatesBean getPic
+f 0 4/RelatesBean title
+m 0 4/RelatesBean getTitle
+f 0 4/RelatesBean owner
+m 0 4/RelatesBean getOwner
+f 0 4/RelatesBean stat
+m 0 4/RelatesBean getStat
+m 0 4/RelatesBean component2
+m 0 4/RelatesBean component3
+m 0 4/RelatesBean component4
+m 0 4/RelatesBean component5
+m 0 4/RelatesBean copy
+m 0 4/RelatesBean copy$default
+p com.yoyiyi.soleil.bean.app.video.VideoDetail 10
+f 0 10/DataBean tname
+m 0 10/DataBean getTname
+f 0 10/DataBean pic
+m 0 10/DataBean getPic
+f 0 10/DataBean title
+m 0 10/DataBean getTitle
+f 0 10/DataBean desc
+m 0 10/DataBean getDesc
+f 0 10/DataBean tags
+m 0 10/DataBean getTags
+f 0 10/DataBean rights
+m 0 10/DataBean getRights
+f 0 10/DataBean owner
+m 0 10/DataBean getOwner
+f 0 10/DataBean stat
+m 0 10/DataBean getStat
+f 0 10/DataBean owner_ext
+m 0 10/DataBean getOwner_ext
+f 0 10/DataBean req_user
+m 0 10/DataBean getReq_user
+f 0 10/DataBean elec
+m 0 10/DataBean getElec
+f 0 10/DataBean pages
+m 0 10/DataBean getPages
+f 0 10/DataBean dislike_reasons
+m 0 10/DataBean getDislike_reasons
+f 0 10/DataBean tag
+m 0 10/DataBean getTag
+f 0 10/DataBean relates
+m 0 10/DataBean getRelates
+m 0 10/DataBean component4
+m 0 10/DataBean component6
+m 0 10/DataBean component7
+m 0 10/DataBean component10
+m 0 10/DataBean component13
+m 0 10/DataBean component15
+m 0 10/DataBean component16
+m 0 10/DataBean component17
+m 0 10/DataBean component18
+m 0 10/DataBean component19
+m 0 10/DataBean component20
+m 0 10/DataBean component21
+m 0 10/DataBean component22
+m 0 10/DataBean component23
+m 0 10/DataBean component24
+m 0 10/DataBean copy
+m 0 10/DataBean copy$default
+p com.yoyiyi.soleil.bean.app.video 11
+f 0 11/VideoDetail data
+m 0 11/VideoDetail getData
+f 0 11/VideoDetail message
+m 0 11/VideoDetail getMessage
+m 0 11/VideoDetail component2
+m 0 11/VideoDetail component3
+m 0 11/VideoDetail copy
+m 0 11/VideoDetail copy$default
+p com.yoyiyi.soleil.bean.app.video.VideoDetailComment.DataBean 12
+m 0 12/PageBean copy
+m 0 12/PageBean copy$default
+f 0 12/UpperBean top
+m 0 12/UpperBean getTop
+m 0 12/UpperBean component2
+m 0 12/UpperBean copy
+m 0 12/UpperBean copy$default
+p com.yoyiyi.soleil.bean.app.video.VideoDetailComment.DataBean.HotsBean.MemberBean 13
+m 0 13/LevelInfoBean copy
+m 0 13/LevelInfoBean copy$default
+f 0 13/PendantBean name
+m 0 13/PendantBean getName
+f 0 13/PendantBean image
+m 0 13/PendantBean getImage
+m 0 13/PendantBean component2
+m 0 13/PendantBean component3
+m 0 13/PendantBean copy
+m 0 13/PendantBean copy$default
+f 0 13/NameplateBean name
+m 0 13/NameplateBean getName
+f 0 13/NameplateBean image
+m 0 13/NameplateBean getImage
+f 0 13/NameplateBean image_small
+m 0 13/NameplateBean getImage_small
+f 0 13/NameplateBean level
+m 0 13/NameplateBean getLevel
+f 0 13/NameplateBean condition
+m 0 13/NameplateBean getCondition
+m 0 13/NameplateBean component2
+m 0 13/NameplateBean component3
+m 0 13/NameplateBean component4
+m 0 13/NameplateBean component5
+m 0 13/NameplateBean component6
+m 0 13/NameplateBean copy
+m 0 13/NameplateBean copy$default
+f 0 13/OfficialVerifyBean desc
+m 0 13/OfficialVerifyBean getDesc
+m 0 13/OfficialVerifyBean component2
+m 0 13/OfficialVerifyBean copy
+m 0 13/OfficialVerifyBean copy$default
+f 0 13/VipBean vipDueDate
+m 0 13/VipBean getVipDueDate
+f 0 13/VipBean dueRemark
+m 0 13/VipBean getDueRemark
+f 0 13/VipBean vipStatusWarn
+m 0 13/VipBean getVipStatusWarn
+m 0 13/VipBean component2
+m 0 13/VipBean component3
+m 0 13/VipBean component6
+m 0 13/VipBean copy
+m 0 13/VipBean copy$default
+p com.yoyiyi.soleil.bean.app.video.VideoDetailComment.DataBean.HotsBean 14
+f 0 14/MemberBean mid
+m 0 14/MemberBean getMid
+f 0 14/MemberBean uname
+m 0 14/MemberBean getUname
+f 0 14/MemberBean sex
+m 0 14/MemberBean getSex
+f 0 14/MemberBean sign
+m 0 14/MemberBean getSign
+f 0 14/MemberBean avatar
+m 0 14/MemberBean getAvatar
+f 0 14/MemberBean rank
+m 0 14/MemberBean getRank
+f 0 14/MemberBean DisplayRank
+m 0 14/MemberBean getDisplayRank
+f 0 14/MemberBean level_info
+m 0 14/MemberBean getLevel_info
+f 0 14/MemberBean pendant
+m 0 14/MemberBean getPendant
+f 0 14/MemberBean nameplate
+m 0 14/MemberBean getNameplate
+f 0 14/MemberBean official_verify
+m 0 14/MemberBean getOfficial_verify
+f 0 14/MemberBean vip
+m 0 14/MemberBean getVip
+f 0 14/MemberBean reg_year
+m 0 14/MemberBean getReg_year
+m 0 14/MemberBean component1
+m 0 14/MemberBean component2
+m 0 14/MemberBean component3
+m 0 14/MemberBean component4
+m 0 14/MemberBean component5
+m 0 14/MemberBean component6
+m 0 14/MemberBean component7
+m 0 14/MemberBean component8
+m 0 14/MemberBean component9
+m 0 14/MemberBean component10
+m 0 14/MemberBean component11
+m 0 14/MemberBean component12
+m 0 14/MemberBean component13
+m 0 14/MemberBean copy
+m 0 14/MemberBean copy$default
+f 0 14/ContentBean message
+m 0 14/ContentBean getMessage
+f 0 14/ContentBean device
+m 0 14/ContentBean getDevice
+f 0 14/ContentBean members
+m 0 14/ContentBean getMembers
+m 0 14/ContentBean component1
+m 0 14/ContentBean component3
+m 0 14/ContentBean component4
+m 0 14/ContentBean copy
+m 0 14/ContentBean copy$default
+f 0 12/HotsBean rpid_str
+m 0 12/HotsBean getRpid_str
+f 0 12/HotsBean root_str
+m 0 12/HotsBean getRoot_str
+f 0 12/HotsBean parent_str
+m 0 12/HotsBean getParent_str
+f 0 12/HotsBean member
+m 0 12/HotsBean getMember
+f 0 12/HotsBean content
+m 0 12/HotsBean getContent
+f 0 12/HotsBean replies
+m 0 12/HotsBean getReplies
+m 0 12/HotsBean component13
+m 0 12/HotsBean component14
+m 0 12/HotsBean component15
+m 0 12/HotsBean component18
+m 0 12/HotsBean component19
+m 0 12/HotsBean component20
+m 0 12/HotsBean copy
+m 0 12/HotsBean copy$default
+p com.yoyiyi.soleil.bean.app.video.VideoDetailComment.DataBean.RepliesBean.MemberBeanX 15
+m 0 15/LevelInfoBeanX copy
+m 0 15/LevelInfoBeanX copy$default
+f 0 15/PendantBeanX name
+m 0 15/PendantBeanX getName
+f 0 15/PendantBeanX image
+m 0 15/PendantBeanX getImage
+m 0 15/PendantBeanX component2
+m 0 15/PendantBeanX component3
+m 0 15/PendantBeanX copy
+m 0 15/PendantBeanX copy$default
+f 0 15/NameplateBeanX name
+m 0 15/NameplateBeanX getName
+f 0 15/NameplateBeanX image
+m 0 15/NameplateBeanX getImage
+f 0 15/NameplateBeanX image_small
+m 0 15/NameplateBeanX getImage_small
+f 0 15/NameplateBeanX level
+m 0 15/NameplateBeanX getLevel
+f 0 15/NameplateBeanX condition
+m 0 15/NameplateBeanX getCondition
+m 0 15/NameplateBeanX component2
+m 0 15/NameplateBeanX component3
+m 0 15/NameplateBeanX component4
+m 0 15/NameplateBeanX component5
+m 0 15/NameplateBeanX component6
+m 0 15/NameplateBeanX copy
+m 0 15/NameplateBeanX copy$default
+f 0 15/OfficialVerifyBeanX desc
+m 0 15/OfficialVerifyBeanX getDesc
+m 0 15/OfficialVerifyBeanX component2
+m 0 15/OfficialVerifyBeanX copy
+m 0 15/OfficialVerifyBeanX copy$default
+f 0 15/VipBeanX vipDueDate
+m 0 15/VipBeanX getVipDueDate
+f 0 15/VipBeanX dueRemark
+m 0 15/VipBeanX getDueRemark
+f 0 15/VipBeanX vipStatusWarn
+m 0 15/VipBeanX getVipStatusWarn
+m 0 15/VipBeanX component2
+m 0 15/VipBeanX component3
+m 0 15/VipBeanX component6
+m 0 15/VipBeanX copy
+m 0 15/VipBeanX copy$default
+p com.yoyiyi.soleil.bean.app.video.VideoDetailComment.DataBean.RepliesBean 16
+f 0 16/MemberBeanX mid
+m 0 16/MemberBeanX getMid
+f 0 16/MemberBeanX uname
+m 0 16/MemberBeanX getUname
+f 0 16/MemberBeanX sex
+m 0 16/MemberBeanX getSex
+f 0 16/MemberBeanX sign
+m 0 16/MemberBeanX getSign
+f 0 16/MemberBeanX avatar
+m 0 16/MemberBeanX getAvatar
+f 0 16/MemberBeanX rank
+m 0 16/MemberBeanX getRank
+f 0 16/MemberBeanX DisplayRank
+m 0 16/MemberBeanX getDisplayRank
+f 0 16/MemberBeanX level_info
+m 0 16/MemberBeanX getLevel_info
+f 0 16/MemberBeanX pendant
+m 0 16/MemberBeanX getPendant
+f 0 16/MemberBeanX nameplate
+m 0 16/MemberBeanX getNameplate
+f 0 16/MemberBeanX official_verify
+m 0 16/MemberBeanX getOfficial_verify
+f 0 16/MemberBeanX vip
+m 0 16/MemberBeanX getVip
+f 0 16/MemberBeanX reg_year
+m 0 16/MemberBeanX getReg_year
+m 0 16/MemberBeanX component1
+m 0 16/MemberBeanX component2
+m 0 16/MemberBeanX component3
+m 0 16/MemberBeanX component4
+m 0 16/MemberBeanX component5
+m 0 16/MemberBeanX component6
+m 0 16/MemberBeanX component7
+m 0 16/MemberBeanX component8
+m 0 16/MemberBeanX component9
+m 0 16/MemberBeanX component10
+m 0 16/MemberBeanX component11
+m 0 16/MemberBeanX component12
+m 0 16/MemberBeanX component13
+m 0 16/MemberBeanX copy
+m 0 16/MemberBeanX copy$default
+f 0 16/ContentBeanX message
+m 0 16/ContentBeanX getMessage
+f 0 16/ContentBeanX device
+m 0 16/ContentBeanX getDevice
+f 0 16/ContentBeanX members
+m 0 16/ContentBeanX getMembers
+m 0 16/ContentBeanX component1
+m 0 16/ContentBeanX component3
+m 0 16/ContentBeanX component4
+m 0 16/ContentBeanX copy
+m 0 16/ContentBeanX copy$default
+f 0 12/RepliesBean rpid_str
+m 0 12/RepliesBean getRpid_str
+f 0 12/RepliesBean root_str
+m 0 12/RepliesBean getRoot_str
+f 0 12/RepliesBean parent_str
+m 0 12/RepliesBean getParent_str
+f 0 12/RepliesBean member
+m 0 12/RepliesBean getMember
+f 0 12/RepliesBean content
+m 0 12/RepliesBean getContent
+f 0 12/RepliesBean replies
+m 0 12/RepliesBean getReplies
+m 0 12/RepliesBean component13
+m 0 12/RepliesBean component14
+m 0 12/RepliesBean component15
+m 0 12/RepliesBean component18
+m 0 12/RepliesBean component19
+m 0 12/RepliesBean component20
+m 0 12/RepliesBean copy
+m 0 12/RepliesBean copy$default
+p com.yoyiyi.soleil.bean.app.video.VideoDetailComment 17
+f 0 17/DataBean notice
+m 0 17/DataBean getNotice
+f 0 17/DataBean page
+m 0 17/DataBean getPage
+f 0 17/DataBean top
+m 0 17/DataBean getTop
+f 0 17/DataBean upper
+m 0 17/DataBean getUpper
+f 0 17/DataBean hots
+m 0 17/DataBean getHots
+f 0 17/DataBean replies
+m 0 17/DataBean getReplies
+m 0 17/DataBean component1
+m 0 17/DataBean component2
+m 0 17/DataBean component3
+m 0 17/DataBean component4
+m 0 17/DataBean component5
+m 0 17/DataBean component6
+m 0 17/DataBean copy
+m 0 17/DataBean copy$default
+f 0 11/VideoDetailComment data
+m 0 11/VideoDetailComment getData
+f 0 11/VideoDetailComment message
+m 0 11/VideoDetailComment getMessage
+m 0 11/VideoDetailComment component2
+m 0 11/VideoDetailComment component3
+m 0 11/VideoDetailComment copy
+m 0 11/VideoDetailComment copy$default
+p com.yoyiyi.soleil.bean.app.video.VideoPlayer 18
+f 0 18/DurlBean url
+m 0 18/DurlBean getUrl
+f 0 18/DurlBean backup_url
+m 0 18/DurlBean getBackup_url
+m 0 18/DurlBean component4
+m 0 18/DurlBean component5
+m 0 18/DurlBean copy
+m 0 18/DurlBean copy$default
+f 0 11/VideoPlayer from
+m 0 11/VideoPlayer getFrom
+f 0 11/VideoPlayer result
+m 0 11/VideoPlayer getResult
+f 0 11/VideoPlayer format
+m 0 11/VideoPlayer getFormat
+f 0 11/VideoPlayer accept_format
+m 0 11/VideoPlayer getAccept_format
+f 0 11/VideoPlayer seek_param
+m 0 11/VideoPlayer getSeek_param
+f 0 11/VideoPlayer seek_type
+m 0 11/VideoPlayer getSeek_type
+f 0 11/VideoPlayer accept_quality
+m 0 11/VideoPlayer getAccept_quality
+f 0 11/VideoPlayer durl
+m 0 11/VideoPlayer getDurl
+m 0 11/VideoPlayer component1
+m 0 11/VideoPlayer component2
+m 0 11/VideoPlayer component3
+m 0 11/VideoPlayer component5
+m 0 11/VideoPlayer component6
+m 0 11/VideoPlayer component7
+m 0 11/VideoPlayer component8
+m 0 11/VideoPlayer component9
+m 0 11/VideoPlayer copy
+m 0 11/VideoPlayer copy$default
+p com.yoyiyi.soleil.network.support 19
+f 0 19/ApiConstants LIVE_BASE_URL
+m 0 19/ApiConstants getLIVE_BASE_URL
+f 0 19/ApiConstants APP_BASE_URL
+m 0 19/ApiConstants getAPP_BASE_URL
+f 0 19/ApiConstants BILI_BASE_URL
+m 0 19/ApiConstants getBILI_BASE_URL
+f 0 19/ApiConstants RANK_BASE_URL
+m 0 19/ApiConstants getRANK_BASE_URL
+f 0 19/ApiConstants API_BASE_URL
+m 0 19/ApiConstants getAPI_BASE_URL
+f 0 19/ApiConstants BANGUMI_BASE_URL
+m 0 19/ApiConstants getBANGUMI_BASE_URL
+f 0 19/ApiConstants SEARCH_BASE_URL
+m 0 19/ApiConstants getSEARCH_BASE_URL
+f 0 19/ApiConstants ACCOUNT_BASE_URL
+m 0 19/ApiConstants getACCOUNT_BASE_URL
+f 0 19/ApiConstants USER_BASE_URL
+m 0 19/ApiConstants getUSER_BASE_URL
+f 0 19/ApiConstants VIP_BASE_URL
+m 0 19/ApiConstants getVIP_BASE_URL
+f 0 19/ApiConstants IM9_BASE_URL
+m 0 19/ApiConstants getIM9_BASE_URL
+f 0 19/ApiConstants COMMENT_BASE_URL
+m 0 19/ApiConstants getCOMMENT_BASE_URL
+f 0 19/ApiConstants COMMON_UA_STR
+m 0 19/ApiConstants getCOMMON_UA_STR
+m 0 19/LoggerInterceptor intercept
+p com.yoyiyi.soleil.bean.bangumi.BangumiDetail.LimitInfoBean 20
+m 0 20/DataBean copy
+m 0 20/DataBean copy$default
+p com.yoyiyi.soleil.bean.bangumi.BangumiDetail 21
+f 0 21/LimitInfoBean data
+m 0 21/LimitInfoBean getData
+f 0 21/LimitInfoBean message
+m 0 21/LimitInfoBean getMessage
+m 0 21/LimitInfoBean component2
+m 0 21/LimitInfoBean component3
+m 0 21/LimitInfoBean copy
+m 0 21/LimitInfoBean copy$default
+p com.yoyiyi.soleil.bean.bangumi.BangumiDetail.RankBean 22
+f 0 22/ListBean face
+m 0 22/ListBean getFace
+f 0 22/ListBean uid
+m 0 22/ListBean getUid
+f 0 22/ListBean uname
+m 0 22/ListBean getUname
+m 0 22/ListBean component1
+m 0 22/ListBean component2
+m 0 22/ListBean component3
+m 0 22/ListBean copy
+m 0 22/ListBean copy$default
+f 0 21/RankBean list
+m 0 21/RankBean getList
+m 0 21/RankBean component3
+m 0 21/RankBean copy
+m 0 21/RankBean copy$default
+m 0 21/RightsBean copy
+m 0 21/RightsBean copy$default
+f 0 21/UserSeasonBean attention
+m 0 21/UserSeasonBean getAttention
+f 0 21/UserSeasonBean last_ep_id
+m 0 21/UserSeasonBean getLast_ep_id
+f 0 21/UserSeasonBean last_ep_index
+m 0 21/UserSeasonBean getLast_ep_index
+f 0 21/UserSeasonBean last_time
+m 0 21/UserSeasonBean getLast_time
+m 0 21/UserSeasonBean component1
+m 0 21/UserSeasonBean component3
+m 0 21/UserSeasonBean component4
+m 0 21/UserSeasonBean component5
+m 0 21/UserSeasonBean copy
+m 0 21/UserSeasonBean copy$default
+f 0 21/ActorBean actor
+m 0 21/ActorBean getActor
+f 0 21/ActorBean role
+m 0 21/ActorBean getRole
+m 0 21/ActorBean component1
+m 0 21/ActorBean component3
+m 0 21/ActorBean copy
+m 0 21/ActorBean copy$default
+p com.yoyiyi.soleil.bean.bangumi.BangumiDetail.EpisodesBean 23
+f 0 23/UpBean data
+m 0 23/UpBean getData
+m 0 23/UpBean component1
+m 0 23/UpBean copy
+m 0 23/UpBean copy$default
+f 0 21/EpisodesBean av_id
+m 0 21/EpisodesBean getAv_id
+f 0 21/EpisodesBean coins
+m 0 21/EpisodesBean getCoins
+f 0 21/EpisodesBean cover
+m 0 21/EpisodesBean getCover
+f 0 21/EpisodesBean danmaku
+m 0 21/EpisodesBean getDanmaku
+f 0 21/EpisodesBean episode_id
+m 0 21/EpisodesBean getEpisode_id
+f 0 21/EpisodesBean index
+m 0 21/EpisodesBean getIndex
+f 0 21/EpisodesBean index_title
+m 0 21/EpisodesBean getIndex_title
+f 0 21/EpisodesBean is_new
+m 0 21/EpisodesBean is_new
+f 0 21/EpisodesBean is_webplay
+m 0 21/EpisodesBean is_webplay
+f 0 21/EpisodesBean mid
+m 0 21/EpisodesBean getMid
+f 0 21/EpisodesBean page
+m 0 21/EpisodesBean getPage
+f 0 21/EpisodesBean up
+m 0 21/EpisodesBean getUp
+f 0 21/EpisodesBean update_time
+m 0 21/EpisodesBean getUpdate_time
+m 0 21/EpisodesBean component1
+m 0 21/EpisodesBean component2
+m 0 21/EpisodesBean component3
+m 0 21/EpisodesBean component4
+m 0 21/EpisodesBean component5
+m 0 21/EpisodesBean component7
+m 0 21/EpisodesBean component8
+m 0 21/EpisodesBean component9
+m 0 21/EpisodesBean component10
+m 0 21/EpisodesBean component11
+m 0 21/EpisodesBean component12
+m 0 21/EpisodesBean component13
+m 0 21/EpisodesBean component14
+m 0 21/EpisodesBean copy
+m 0 21/EpisodesBean copy$default
+f 0 21/SeasonsBean bangumi_id
+m 0 21/SeasonsBean getBangumi_id
+f 0 21/SeasonsBean cover
+m 0 21/SeasonsBean getCover
+f 0 21/SeasonsBean is_finish
+m 0 21/SeasonsBean is_finish
+f 0 21/SeasonsBean newest_ep_id
+m 0 21/SeasonsBean getNewest_ep_id
+f 0 21/SeasonsBean newest_ep_index
+m 0 21/SeasonsBean getNewest_ep_index
+f 0 21/SeasonsBean season_id
+m 0 21/SeasonsBean getSeason_id
+f 0 21/SeasonsBean title
+m 0 21/SeasonsBean getTitle
+f 0 21/SeasonsBean total_count
+m 0 21/SeasonsBean getTotal_count
+f 0 21/SeasonsBean is_new
+m 0 21/SeasonsBean is_new
+m 0 21/SeasonsBean component1
+m 0 21/SeasonsBean component2
+m 0 21/SeasonsBean component3
+m 0 21/SeasonsBean component4
+m 0 21/SeasonsBean component5
+m 0 21/SeasonsBean component6
+m 0 21/SeasonsBean component8
+m 0 21/SeasonsBean component9
+m 0 21/SeasonsBean component10
+m 0 21/SeasonsBean copy
+m 0 21/SeasonsBean copy$default
+f 0 21/TagsBean cover
+m 0 21/TagsBean getCover
+f 0 21/TagsBean tag_id
+m 0 21/TagsBean getTag_id
+f 0 21/TagsBean tag_name
+m 0 21/TagsBean getTag_name
+m 0 21/TagsBean component1
+m 0 21/TagsBean component2
+m 0 21/TagsBean component3
+m 0 21/TagsBean copy
+m 0 21/TagsBean copy$default
+p com.yoyiyi.soleil.bean.bangumi 24
+f 0 24/BangumiDetail alias
+m 0 24/BangumiDetail getAlias
+f 0 24/BangumiDetail allow_bp
+m 0 24/BangumiDetail getAllow_bp
+f 0 24/BangumiDetail allow_download
+m 0 24/BangumiDetail getAllow_download
+f 0 24/BangumiDetail area
+m 0 24/BangumiDetail getArea
+f 0 24/BangumiDetail bangumi_id
+m 0 24/BangumiDetail getBangumi_id
+f 0 24/BangumiDetail bangumi_title
+m 0 24/BangumiDetail getBangumi_title
+f 0 24/BangumiDetail brief
+m 0 24/BangumiDetail getBrief
+f 0 24/BangumiDetail coins
+m 0 24/BangumiDetail getCoins
+f 0 24/BangumiDetail copyright
+m 0 24/BangumiDetail getCopyright
+f 0 24/BangumiDetail cover
+m 0 24/BangumiDetail getCover
+f 0 24/BangumiDetail danmaku_count
+m 0 24/BangumiDetail getDanmaku_count
+f 0 24/BangumiDetail evaluate
+m 0 24/BangumiDetail getEvaluate
+f 0 24/BangumiDetail favorites
+m 0 24/BangumiDetail getFavorites
+f 0 24/BangumiDetail is_finish
+m 0 24/BangumiDetail is_finish
+f 0 24/BangumiDetail jp_title
+m 0 24/BangumiDetail getJp_title
+f 0 24/BangumiDetail limit_info
+m 0 24/BangumiDetail getLimit_info
+f 0 24/BangumiDetail newest_ep_id
+m 0 24/BangumiDetail getNewest_ep_id
+f 0 24/BangumiDetail newest_ep_index
+m 0 24/BangumiDetail getNewest_ep_index
+f 0 24/BangumiDetail play_count
+m 0 24/BangumiDetail getPlay_count
+f 0 24/BangumiDetail pub_time
+m 0 24/BangumiDetail getPub_time
+f 0 24/BangumiDetail rank
+m 0 24/BangumiDetail getRank
+f 0 24/BangumiDetail rights
+m 0 24/BangumiDetail getRights
+f 0 24/BangumiDetail season_id
+m 0 24/BangumiDetail getSeason_id
+f 0 24/BangumiDetail season_title
+m 0 24/BangumiDetail getSeason_title
+f 0 24/BangumiDetail share_url
+m 0 24/BangumiDetail getShare_url
+f 0 24/BangumiDetail squareCover
+m 0 24/BangumiDetail getSquareCover
+f 0 24/BangumiDetail staff
+m 0 24/BangumiDetail getStaff
+f 0 24/BangumiDetail title
+m 0 24/BangumiDetail getTitle
+f 0 24/BangumiDetail total_count
+m 0 24/BangumiDetail getTotal_count
+f 0 24/BangumiDetail user_season
+m 0 24/BangumiDetail getUser_season
+f 0 24/BangumiDetail watchingCount
+m 0 24/BangumiDetail getWatchingCount
+f 0 24/BangumiDetail weekday
+m 0 24/BangumiDetail getWeekday
+f 0 24/BangumiDetail actor
+m 0 24/BangumiDetail getActor
+f 0 24/BangumiDetail episodes
+m 0 24/BangumiDetail getEpisodes
+f 0 24/BangumiDetail related_seasons
+m 0 24/BangumiDetail getRelated_seasons
+f 0 24/BangumiDetail seasons
+m 0 24/BangumiDetail getSeasons
+f 0 24/BangumiDetail tag2s
+m 0 24/BangumiDetail getTag2s
+f 0 24/BangumiDetail tags
+m 0 24/BangumiDetail getTags
+m 0 24/BangumiDetail component1
+m 0 24/BangumiDetail component2
+m 0 24/BangumiDetail component3
+m 0 24/BangumiDetail component4
+m 0 24/BangumiDetail component6
+m 0 24/BangumiDetail component7
+m 0 24/BangumiDetail component8
+m 0 24/BangumiDetail component9
+m 0 24/BangumiDetail component10
+m 0 24/BangumiDetail component11
+m 0 24/BangumiDetail component12
+m 0 24/BangumiDetail component14
+m 0 24/BangumiDetail component15
+m 0 24/BangumiDetail component17
+m 0 24/BangumiDetail component19
+m 0 24/BangumiDetail component20
+m 0 24/BangumiDetail component21
+m 0 24/BangumiDetail component22
+m 0 24/BangumiDetail component23
+m 0 24/BangumiDetail component24
+m 0 24/BangumiDetail component25
+m 0 24/BangumiDetail component26
+m 0 24/BangumiDetail component27
+m 0 24/BangumiDetail component29
+m 0 24/BangumiDetail component30
+m 0 24/BangumiDetail component31
+m 0 24/BangumiDetail component32
+m 0 24/BangumiDetail component33
+m 0 24/BangumiDetail component34
+m 0 24/BangumiDetail component35
+m 0 24/BangumiDetail component38
+m 0 24/BangumiDetail component39
+m 0 24/BangumiDetail component40
+m 0 24/BangumiDetail component41
+m 0 24/BangumiDetail component42
+m 0 24/BangumiDetail component43
+m 0 24/BangumiDetail component44
+m 0 24/BangumiDetail component45
+m 0 24/BangumiDetail copy
+m 0 24/BangumiDetail copy$default
+p com.yoyiyi.soleil.bean.bangumi.BangumiDetailComment.DataBean 25
+m 0 25/PageBean copy
+m 0 25/PageBean copy$default
+m 0 25/UpperBean copy
+m 0 25/UpperBean copy$default
+p com.yoyiyi.soleil.bean.bangumi.BangumiDetailComment.DataBean.HotsBean.MemberBean 26
+f 0 26/LevelInfoBean next_exp
+m 0 26/LevelInfoBean getNext_exp
+m 0 26/LevelInfoBean component4
+m 0 26/LevelInfoBean copy
+m 0 26/LevelInfoBean copy$default
+f 0 26/PendantBean name
+m 0 26/PendantBean getName
+f 0 26/PendantBean image
+m 0 26/PendantBean getImage
+m 0 26/PendantBean component2
+m 0 26/PendantBean component3
+m 0 26/PendantBean copy
+m 0 26/PendantBean copy$default
+f 0 26/NameplateBean name
+m 0 26/NameplateBean getName
+f 0 26/NameplateBean image
+m 0 26/NameplateBean getImage
+f 0 26/NameplateBean image_small
+m 0 26/NameplateBean getImage_small
+f 0 26/NameplateBean level
+m 0 26/NameplateBean getLevel
+f 0 26/NameplateBean condition
+m 0 26/NameplateBean getCondition
+m 0 26/NameplateBean component2
+m 0 26/NameplateBean component3
+m 0 26/NameplateBean component4
+m 0 26/NameplateBean component5
+m 0 26/NameplateBean component6
+m 0 26/NameplateBean copy
+m 0 26/NameplateBean copy$default
+f 0 26/OfficialVerifyBean desc
+m 0 26/OfficialVerifyBean getDesc
+m 0 26/OfficialVerifyBean component2
+m 0 26/OfficialVerifyBean copy
+m 0 26/OfficialVerifyBean copy$default
+f 0 26/VipBean dueRemark
+m 0 26/VipBean getDueRemark
+f 0 26/VipBean vipStatusWarn
+m 0 26/VipBean getVipStatusWarn
+m 0 26/VipBean component3
+m 0 26/VipBean component6
+m 0 26/VipBean copy
+m 0 26/VipBean copy$default
+p com.yoyiyi.soleil.bean.bangumi.BangumiDetailComment.DataBean.HotsBean 27
+f 0 27/MemberBean mid
+m 0 27/MemberBean getMid
+f 0 27/MemberBean uname
+m 0 27/MemberBean getUname
+f 0 27/MemberBean sex
+m 0 27/MemberBean getSex
+f 0 27/MemberBean sign
+m 0 27/MemberBean getSign
+f 0 27/MemberBean avatar
+m 0 27/MemberBean getAvatar
+f 0 27/MemberBean rank
+m 0 27/MemberBean getRank
+f 0 27/MemberBean DisplayRank
+m 0 27/MemberBean getDisplayRank
+f 0 27/MemberBean level_info
+m 0 27/MemberBean getLevel_info
+f 0 27/MemberBean pendant
+m 0 27/MemberBean getPendant
+f 0 27/MemberBean nameplate
+m 0 27/MemberBean getNameplate
+f 0 27/MemberBean official_verify
+m 0 27/MemberBean getOfficial_verify
+f 0 27/MemberBean vip
+m 0 27/MemberBean getVip
+m 0 27/MemberBean component1
+m 0 27/MemberBean component2
+m 0 27/MemberBean component3
+m 0 27/MemberBean component4
+m 0 27/MemberBean component5
+m 0 27/MemberBean component6
+m 0 27/MemberBean component7
+m 0 27/MemberBean component8
+m 0 27/MemberBean component9
+m 0 27/MemberBean component10
+m 0 27/MemberBean component11
+m 0 27/MemberBean component12
+m 0 27/MemberBean copy
+m 0 27/MemberBean copy$default
+f 0 27/ContentBean message
+m 0 27/ContentBean getMessage
+f 0 27/ContentBean device
+m 0 27/ContentBean getDevice
+f 0 27/ContentBean members
+m 0 27/ContentBean getMembers
+m 0 27/ContentBean component1
+m 0 27/ContentBean component3
+m 0 27/ContentBean component4
+m 0 27/ContentBean copy
+m 0 27/ContentBean copy$default
+f 0 25/HotsBean rpid_str
+m 0 25/HotsBean getRpid_str
+f 0 25/HotsBean root_str
+m 0 25/HotsBean getRoot_str
+f 0 25/HotsBean parent_str
+m 0 25/HotsBean getParent_str
+f 0 25/HotsBean member
+m 0 25/HotsBean getMember
+f 0 25/HotsBean content
+m 0 25/HotsBean getContent
+f 0 25/HotsBean replies
+m 0 25/HotsBean getReplies
+m 0 25/HotsBean component13
+m 0 25/HotsBean component14
+m 0 25/HotsBean component15
+m 0 25/HotsBean component18
+m 0 25/HotsBean component19
+m 0 25/HotsBean component20
+m 0 25/HotsBean copy
+m 0 25/HotsBean copy$default
+p com.yoyiyi.soleil.bean.bangumi.BangumiDetailComment.DataBean.RepliesBean.MemberBeanX 28
+f 0 28/LevelInfoBeanX next_exp
+m 0 28/LevelInfoBeanX getNext_exp
+m 0 28/LevelInfoBeanX component4
+m 0 28/LevelInfoBeanX copy
+m 0 28/LevelInfoBeanX copy$default
+f 0 28/PendantBeanX name
+m 0 28/PendantBeanX getName
+f 0 28/PendantBeanX image
+m 0 28/PendantBeanX getImage
+m 0 28/PendantBeanX component2
+m 0 28/PendantBeanX component3
+m 0 28/PendantBeanX copy
+m 0 28/PendantBeanX copy$default
+f 0 28/NameplateBeanX name
+m 0 28/NameplateBeanX getName
+f 0 28/NameplateBeanX image
+m 0 28/NameplateBeanX getImage
+f 0 28/NameplateBeanX image_small
+m 0 28/NameplateBeanX getImage_small
+f 0 28/NameplateBeanX level
+m 0 28/NameplateBeanX getLevel
+f 0 28/NameplateBeanX condition
+m 0 28/NameplateBeanX getCondition
+m 0 28/NameplateBeanX component2
+m 0 28/NameplateBeanX component3
+m 0 28/NameplateBeanX component4
+m 0 28/NameplateBeanX component5
+m 0 28/NameplateBeanX component6
+m 0 28/NameplateBeanX copy
+m 0 28/NameplateBeanX copy$default
+f 0 28/OfficialVerifyBeanX desc
+m 0 28/OfficialVerifyBeanX getDesc
+m 0 28/OfficialVerifyBeanX component2
+m 0 28/OfficialVerifyBeanX copy
+m 0 28/OfficialVerifyBeanX copy$default
+f 0 28/VipBeanX dueRemark
+m 0 28/VipBeanX getDueRemark
+f 0 28/VipBeanX vipStatusWarn
+m 0 28/VipBeanX getVipStatusWarn
+m 0 28/VipBeanX component3
+m 0 28/VipBeanX component6
+m 0 28/VipBeanX copy
+m 0 28/VipBeanX copy$default
+p com.yoyiyi.soleil.bean.bangumi.BangumiDetailComment.DataBean.RepliesBean 29
+f 0 29/MemberBeanX mid
+m 0 29/MemberBeanX getMid
+f 0 29/MemberBeanX uname
+m 0 29/MemberBeanX getUname
+f 0 29/MemberBeanX sex
+m 0 29/MemberBeanX getSex
+f 0 29/MemberBeanX sign
+m 0 29/MemberBeanX getSign
+f 0 29/MemberBeanX avatar
+m 0 29/MemberBeanX getAvatar
+f 0 29/MemberBeanX rank
+m 0 29/MemberBeanX getRank
+f 0 29/MemberBeanX DisplayRank
+m 0 29/MemberBeanX getDisplayRank
+f 0 29/MemberBeanX level_info
+m 0 29/MemberBeanX getLevel_info
+f 0 29/MemberBeanX pendant
+m 0 29/MemberBeanX getPendant
+f 0 29/MemberBeanX nameplate
+m 0 29/MemberBeanX getNameplate
+f 0 29/MemberBeanX official_verify
+m 0 29/MemberBeanX getOfficial_verify
+f 0 29/MemberBeanX vip
+m 0 29/MemberBeanX getVip
+m 0 29/MemberBeanX component1
+m 0 29/MemberBeanX component2
+m 0 29/MemberBeanX component3
+m 0 29/MemberBeanX component4
+m 0 29/MemberBeanX component5
+m 0 29/MemberBeanX component6
+m 0 29/MemberBeanX component7
+m 0 29/MemberBeanX component8
+m 0 29/MemberBeanX component9
+m 0 29/MemberBeanX component10
+m 0 29/MemberBeanX component11
+m 0 29/MemberBeanX component12
+m 0 29/MemberBeanX copy
+m 0 29/MemberBeanX copy$default
+f 0 29/ContentBeanX message
+m 0 29/ContentBeanX getMessage
+f 0 29/ContentBeanX device
+m 0 29/ContentBeanX getDevice
+f 0 29/ContentBeanX members
+m 0 29/ContentBeanX getMembers
+m 0 29/ContentBeanX component1
+m 0 29/ContentBeanX component3
+m 0 29/ContentBeanX component4
+m 0 29/ContentBeanX copy
+m 0 29/ContentBeanX copy$default
+f 0 25/RepliesBean rpid_str
+m 0 25/RepliesBean getRpid_str
+f 0 25/RepliesBean root_str
+m 0 25/RepliesBean getRoot_str
+f 0 25/RepliesBean parent_str
+m 0 25/RepliesBean getParent_str
+f 0 25/RepliesBean member
+m 0 25/RepliesBean getMember
+f 0 25/RepliesBean content
+m 0 25/RepliesBean getContent
+f 0 25/RepliesBean replies
+m 0 25/RepliesBean getReplies
+m 0 25/RepliesBean component13
+m 0 25/RepliesBean component14
+m 0 25/RepliesBean component15
+m 0 25/RepliesBean component18
+m 0 25/RepliesBean component19
+m 0 25/RepliesBean component20
+m 0 25/RepliesBean copy
+m 0 25/RepliesBean copy$default
+p com.yoyiyi.soleil.bean.bangumi.BangumiDetailComment 30
+f 0 30/DataBean page
+m 0 30/DataBean getPage
+f 0 30/DataBean upper
+m 0 30/DataBean getUpper
+f 0 30/DataBean hots
+m 0 30/DataBean getHots
+f 0 30/DataBean replies
+m 0 30/DataBean getReplies
+m 0 30/DataBean component1
+m 0 30/DataBean component2
+m 0 30/DataBean component3
+m 0 30/DataBean component4
+m 0 30/DataBean copy
+m 0 30/DataBean copy$default
+f 0 24/BangumiDetailComment data
+m 0 24/BangumiDetailComment getData
+f 0 24/BangumiDetailComment message
+m 0 24/BangumiDetailComment getMessage
+m 0 24/BangumiDetailComment component2
+m 0 24/BangumiDetailComment component3
+m 0 24/BangumiDetailComment copy
+m 0 24/BangumiDetailComment copy$default
+p com.yoyiyi.soleil.bean.bangumi.BangumiDetailRecommend.ListBean 31
+f 0 31/TagsBean tag_name
+m 0 31/TagsBean getTag_name
+p com.yoyiyi.soleil.bean.bangumi.BangumiDetailRecommend 32
+f 0 32/ListBean bangumi_id
+m 0 32/ListBean getBangumi_id
+f 0 32/ListBean cover
+m 0 32/ListBean getCover
+f 0 32/ListBean follow
+m 0 32/ListBean getFollow
+f 0 32/ListBean isfinish
+m 0 32/ListBean getIsfinish
+f 0 32/ListBean newest_ep_index
+m 0 32/ListBean getNewest_ep_index
+f 0 32/ListBean pub_time
+m 0 32/ListBean getPub_time
+f 0 32/ListBean season_id
+m 0 32/ListBean getSeason_id
+f 0 32/ListBean title
+m 0 32/ListBean getTitle
+f 0 32/ListBean total_count
+m 0 32/ListBean getTotal_count
+f 0 32/ListBean tags
+m 0 32/ListBean getTags
+f 0 24/BangumiDetailRecommend season_id
+m 0 24/BangumiDetailRecommend getSeason_id
+f 0 24/BangumiDetailRecommend title
+m 0 24/BangumiDetailRecommend getTitle
+f 0 24/BangumiDetailRecommend list
+m 0 24/BangumiDetailRecommend getList
+p com.yoyiyi.soleil.bean.bangumi.BangumiIndex 33
+f 0 33/CategoryBean cover
+m 0 33/CategoryBean getCover
+f 0 33/CategoryBean tag_id
+m 0 33/CategoryBean getTag_id
+f 0 33/CategoryBean tag_name
+m 0 33/CategoryBean getTag_name
+m 0 33/CategoryBean component1
+m 0 33/CategoryBean component2
+m 0 33/CategoryBean component3
+m 0 33/CategoryBean copy
+m 0 33/CategoryBean copy$default
+f 0 24/BangumiIndex category
+m 0 24/BangumiIndex getCategory
+f 0 24/BangumiIndex years
+m 0 24/BangumiIndex getYears
+m 0 24/BangumiIndex component1
+m 0 24/BangumiIndex component2
+m 0 24/BangumiIndex copy
+m 0 24/BangumiIndex copy$default
+f 0 24/BangumiSchedule cover
+m 0 24/BangumiSchedule getCover
+f 0 24/BangumiSchedule ep_index
+m 0 24/BangumiSchedule getEp_index
+f 0 24/BangumiSchedule ontime
+m 0 24/BangumiSchedule getOntime
+f 0 24/BangumiSchedule pub_date
+m 0 24/BangumiSchedule getPub_date
+f 0 24/BangumiSchedule pub_time
+m 0 24/BangumiSchedule getPub_time
+f 0 24/BangumiSchedule square_cover
+m 0 24/BangumiSchedule getSquare_cover
+f 0 24/BangumiSchedule title
+m 0 24/BangumiSchedule getTitle
+m 0 24/BangumiSchedule component2
+m 0 24/BangumiSchedule component6
+m 0 24/BangumiSchedule component11
+m 0 24/BangumiSchedule component12
+m 0 24/BangumiSchedule component13
+m 0 24/BangumiSchedule component17
+m 0 24/BangumiSchedule component18
+m 0 24/BangumiSchedule copy
+m 0 24/BangumiSchedule copy$default
+p com.yoyiyi.soleil.ext 34
+m 0 34/AppExtKt getComponent
+p com.yoyiyi.soleil.bean.dynamic.Dynamic.ItemBean.RecentBean.TagBean 35
+m 0 35/CountBean copy
+m 0 35/CountBean copy$default
+p com.yoyiyi.soleil.bean.dynamic.Dynamic.ItemBean.RecentBean 36
+f 0 36/TagBean count
+m 0 36/TagBean getCount
+f 0 36/TagBean tag_name
+m 0 36/TagBean getTag_name
+m 0 36/TagBean component1
+m 0 36/TagBean component3
+m 0 36/TagBean copy
+m 0 36/TagBean copy$default
+p com.yoyiyi.soleil.bean.dynamic.Dynamic.ItemBean 37
+f 0 37/RecentBean cover
+m 0 37/RecentBean getCover
+f 0 37/RecentBean desc
+m 0 37/RecentBean getDesc
+f 0 37/RecentBean face
+m 0 37/RecentBean getFace
+f 0 37/RecentBean goto
+m 0 37/RecentBean getGoto
+f 0 37/RecentBean name
+m 0 37/RecentBean getName
+f 0 37/RecentBean param
+m 0 37/RecentBean getParam
+f 0 37/RecentBean tag
+m 0 37/RecentBean getTag
+f 0 37/RecentBean title
+m 0 37/RecentBean getTitle
+f 0 37/RecentBean tname
+m 0 37/RecentBean getTname
+f 0 37/RecentBean uri
+m 0 37/RecentBean getUri
+m 0 37/RecentBean component2
+m 0 37/RecentBean component5
+m 0 37/RecentBean component7
+m 0 37/RecentBean component9
+m 0 37/RecentBean component12
+m 0 37/RecentBean component13
+m 0 37/RecentBean component17
+m 0 37/RecentBean component19
+m 0 37/RecentBean component20
+m 0 37/RecentBean component21
+m 0 37/RecentBean copy
+m 0 37/RecentBean copy$default
+p com.yoyiyi.soleil.bean.dynamic.Dynamic 38
+f 0 38/ItemBean title
+m 0 38/ItemBean getTitle
+f 0 38/ItemBean cover
+m 0 38/ItemBean getCover
+f 0 38/ItemBean uri
+m 0 38/ItemBean getUri
+f 0 38/ItemBean param
+m 0 38/ItemBean getParam
+f 0 38/ItemBean gotoX
+m 0 38/ItemBean getGotoX
+f 0 38/ItemBean desc
+m 0 38/ItemBean getDesc
+f 0 38/ItemBean tname
+m 0 38/ItemBean getTname
+f 0 38/ItemBean tag
+m 0 38/ItemBean getTag
+f 0 38/ItemBean name
+m 0 38/ItemBean getName
+f 0 38/ItemBean face
+m 0 38/ItemBean getFace
+f 0 38/ItemBean index
+m 0 38/ItemBean getIndex
+f 0 38/ItemBean index_title
+m 0 38/ItemBean getIndex_title
+f 0 38/ItemBean recent
+m 0 38/ItemBean getRecent
+m 0 38/ItemBean component3
+m 0 38/ItemBean component4
+m 0 38/ItemBean component5
+m 0 38/ItemBean component6
+m 0 38/ItemBean component7
+m 0 38/ItemBean component8
+m 0 38/ItemBean component14
+m 0 38/ItemBean component15
+m 0 38/ItemBean component19
+m 0 38/ItemBean component20
+m 0 38/ItemBean component27
+m 0 38/ItemBean component28
+m 0 38/ItemBean component30
+m 0 38/ItemBean copy
+m 0 38/ItemBean copy$default
+p com.yoyiyi.soleil.bean.dynamic 39
+f 0 39/Dynamic item
+m 0 39/Dynamic getItem
+m 0 39/Dynamic component1
+m 0 39/Dynamic copy
+m 0 39/Dynamic copy$default
+p com.yoyiyi.soleil.di.module 40
+m 0 40/ActivityModule provideActivity
+f 0 40/ActivityModule activity
+m 0 40/ActivityModule getActivity
+m 0 40/ApiModule createRetrofit
+m 0 40/ApiModule provideOkHttpClient
+m 0 40/ApiModule provideRetrofitBuilder
+m 0 40/ApiModule provideRetrofitHelper
+m 0 40/ApiModule provideAppRetrofit
+m 0 40/ApiModule provideAppService
+m 0 40/ApiModule provideLiveRetrofit
+m 0 40/ApiModule provideLiveService
+m 0 40/ApiModule provideBangumiRetrofit
+m 0 40/ApiModule provideBangumiService
+m 0 40/ApiModule provideRankRetrofit
+m 0 40/ApiModule provideRankService
+m 0 40/ApiModule provideApiRetrofit
+m 0 40/ApiModule provideApiService
+m 0 40/ApiModule provideIm9Retrofit
+m 0 40/ApiModule provideIm9Service
+m 0 40/AppModule provideContext
+f 0 40/AppModule context
+m 0 40/AppModule getContext
+m 0 40/FragmentModule provideActivity
+f 0 40/FragmentModule fragment
+m 0 40/FragmentModule getFragment
+p com.yoyiyi.soleil.mvp.presenter.home 41
+f 0 41/LivePresenter retrofitHelper
+m 0 41/LivePresenter getRetrofitHelper
+p com.yoyiyi.soleil.network.helper.OkHttpHelper 42
+m 0 42/RewriteCacheControlInterceptor intercept
+p com.yoyiyi.soleil.network.helper 43
+f 0 43/OkHttpHelper mOkHttpClient
+m 0 43/OkHttpHelper getMOkHttpClient
+m 0 43/OkHttpHelper getOkHttpClient
+m 0 43/OkHttpHelper getCache
+m 0 43/RetrofitHelper getSplash
+m 0 43/RetrofitHelper getLivePartition
+m 0 43/RetrofitHelper getLiveRecommend
+m 0 43/RetrofitHelper getRegion
+m 0 43/RetrofitHelper getHotSearchTag
+m 0 43/RetrofitHelper getActivityCenter
+m 0 43/RetrofitHelper getVideoPlayer
+m 0 43/RetrofitHelper getUpDetail
+m 0 43/RetrofitHelper getVideoDetail
+m 0 43/RetrofitHelper getVideoDetailComment
+m 0 43/RetrofitHelper getAllRegionRank
+m 0 43/RetrofitHelper getLiveEntrance
+m 0 43/RetrofitHelper getRegionType
+m 0 43/RetrofitHelper getRegionRecommend
+m 0 43/RetrofitHelper getTopicCenter
+m 0 43/RetrofitHelper getSearch
+m 0 43/RetrofitHelper getUp
+m 0 43/RetrofitHelper getMovie
+m 0 43/RetrofitHelper getSeason
+m 0 43/RetrofitHelper getSearchArchive
+m 0 43/RetrofitHelper getAllStationRank
+m 0 43/RetrofitHelper getChaseBangumi
+m 0 43/RetrofitHelper getRecommendBangumi
+m 0 43/RetrofitHelper getBangumiSchedule
+m 0 43/RetrofitHelper getBangumiIndex
+m 0 43/RetrofitHelper getBangumiDetail
+m 0 43/RetrofitHelper getBangumiDetailRecommend
+m 0 43/RetrofitHelper getBangumiDetailComment
+m 0 43/RetrofitHelper getInterestCategrory
+m 0 43/RetrofitHelper getCommunity
+m 0 43/RetrofitHelper getInterestAd
+m 0 43/UrlHelper getFaceUrl
+m 0 43/UrlHelper getFaceUrlByUrl
+m 0 43/UrlHelper getClearVideoPreviewUrl
+p com.yoyiyi.soleil 44
+f 0 44/App appComponent$delegate
+m 0 44/App getAppComponent
+f 0 44/App instance
+p com.yoyiyi.soleil.App 45
+m 0 45/Companion getInstance
+p com.yoyiyi.soleil.bean.live.support 46
+f 0 46/LiveEnter title
+m 0 46/LiveEnter getTitle
+p com.yoyiyi.soleil.bean.user.UpDetail.DataBean.ArchiveBean 47
+f 0 47/ItemBean cover
+m 0 47/ItemBean getCover
+f 0 47/ItemBean goto
+m 0 47/ItemBean getGoto
+f 0 47/ItemBean param
+m 0 47/ItemBean getParam
+f 0 47/ItemBean title
+m 0 47/ItemBean getTitle
+f 0 47/ItemBean uri
+m 0 47/ItemBean getUri
+m 0 47/ItemBean component1
+m 0 47/ItemBean component5
+m 0 47/ItemBean component6
+m 0 47/ItemBean component8
+m 0 47/ItemBean component9
+m 0 47/ItemBean copy
+m 0 47/ItemBean copy$default
+p com.yoyiyi.soleil.bean.user.UpDetail.DataBean 48
+f 0 48/ArchiveBean item
+m 0 48/ArchiveBean getItem
+m 0 48/ArchiveBean component2
+m 0 48/ArchiveBean copy
+m 0 48/ArchiveBean copy$default
+p com.yoyiyi.soleil.bean.user.UpDetail.DataBean.CardBean 49
+m 0 49/LevelInfoBean copy
+m 0 49/LevelInfoBean copy$default
+f 0 49/NameplateBean condition
+m 0 49/NameplateBean getCondition
+f 0 49/NameplateBean image
+m 0 49/NameplateBean getImage
+f 0 49/NameplateBean image_small
+m 0 49/NameplateBean getImage_small
+f 0 49/NameplateBean level
+m 0 49/NameplateBean getLevel
+f 0 49/NameplateBean name
+m 0 49/NameplateBean getName
+m 0 49/NameplateBean component1
+m 0 49/NameplateBean component2
+m 0 49/NameplateBean component3
+m 0 49/NameplateBean component4
+m 0 49/NameplateBean component5
+m 0 49/NameplateBean copy
+m 0 49/NameplateBean copy$default
+f 0 49/OfficialVerifyBean desc
+m 0 49/OfficialVerifyBean getDesc
+m 0 49/OfficialVerifyBean component1
+m 0 49/OfficialVerifyBean copy
+m 0 49/OfficialVerifyBean copy$default
+f 0 49/PendantBean image
+m 0 49/PendantBean getImage
+f 0 49/PendantBean name
+m 0 49/PendantBean getName
+m 0 49/PendantBean component2
+m 0 49/PendantBean component3
+m 0 49/PendantBean copy
+m 0 49/PendantBean copy$default
+f 0 49/VipBean dueRemark
+m 0 49/VipBean getDueRemark
+f 0 49/VipBean vipStatusWarn
+m 0 49/VipBean getVipStatusWarn
+m 0 49/VipBean component2
+m 0 49/VipBean component5
+m 0 49/VipBean copy
+m 0 49/VipBean copy$default
+f 0 48/CardBean DisplayRank
+m 0 48/CardBean getDisplayRank
+f 0 48/CardBean birthday
+m 0 48/CardBean getBirthday
+f 0 48/CardBean description
+m 0 48/CardBean getDescription
+f 0 48/CardBean face
+m 0 48/CardBean getFace
+f 0 48/CardBean level_info
+m 0 48/CardBean getLevel_info
+f 0 48/CardBean mid
+m 0 48/CardBean getMid
+f 0 48/CardBean name
+m 0 48/CardBean getName
+f 0 48/CardBean nameplate
+m 0 48/CardBean getNameplate
+f 0 48/CardBean official_verify
+m 0 48/CardBean getOfficial_verify
+f 0 48/CardBean pendant
+m 0 48/CardBean getPendant
+f 0 48/CardBean place
+m 0 48/CardBean getPlace
+f 0 48/CardBean rank
+m 0 48/CardBean getRank
+f 0 48/CardBean sex
+m 0 48/CardBean getSex
+f 0 48/CardBean sign
+m 0 48/CardBean getSign
+f 0 48/CardBean vip
+m 0 48/CardBean getVip
+m 0 48/CardBean component1
+m 0 48/CardBean component5
+m 0 48/CardBean component6
+m 0 48/CardBean component7
+m 0 48/CardBean component10
+m 0 48/CardBean component11
+m 0 48/CardBean component12
+m 0 48/CardBean component13
+m 0 48/CardBean component14
+m 0 48/CardBean component15
+m 0 48/CardBean component16
+m 0 48/CardBean component17
+m 0 48/CardBean component19
+m 0 48/CardBean component20
+m 0 48/CardBean component22
+m 0 48/CardBean copy
+m 0 48/CardBean copy$default
+p com.yoyiyi.soleil.bean.user.UpDetail.DataBean.ElecBean.ElecSetBean 50
+f 0 50/ElecListBean title
+m 0 50/ElecListBean getTitle
+m 0 50/ElecListBean component3
+m 0 50/ElecListBean copy
+m 0 50/ElecListBean copy$default
+p com.yoyiyi.soleil.bean.user.UpDetail.DataBean.ElecBean 51
+f 0 51/ElecSetBean elec_list
+m 0 51/ElecSetBean getElec_list
+m 0 51/ElecSetBean component5
+m 0 51/ElecSetBean copy
+m 0 51/ElecSetBean copy$default
+f 0 48/ElecBean elec_set
+m 0 48/ElecBean getElec_set
+m 0 48/ElecBean component3
+m 0 48/ElecBean copy
+m 0 48/ElecBean copy$default
+p com.yoyiyi.soleil.bean.user.UpDetail.DataBean.FavouriteBean.ItemBeanX 52
+f 0 52/CoverBean pic
+m 0 52/CoverBean getPic
+m 0 52/CoverBean component2
+m 0 52/CoverBean copy
+m 0 52/CoverBean copy$default
+p com.yoyiyi.soleil.bean.user.UpDetail.DataBean.FavouriteBean 53
+f 0 53/ItemBeanX name
+m 0 53/ItemBeanX getName
+f 0 53/ItemBeanX cover
+m 0 53/ItemBeanX getCover
+m 0 53/ItemBeanX component8
+m 0 53/ItemBeanX component10
+m 0 53/ItemBeanX copy
+m 0 53/ItemBeanX copy$default
+f 0 48/FavouriteBean item
+m 0 48/FavouriteBean getItem
+m 0 48/FavouriteBean component2
+m 0 48/FavouriteBean copy
+m 0 48/FavouriteBean copy$default
+f 0 48/ImagesBean imgUrl
+m 0 48/ImagesBean getImgUrl
+m 0 48/ImagesBean component1
+m 0 48/ImagesBean copy
+m 0 48/ImagesBean copy$default
+f 0 48/LiveBean cover
+m 0 48/LiveBean getCover
+f 0 48/LiveBean title
+m 0 48/LiveBean getTitle
+f 0 48/LiveBean url
+m 0 48/LiveBean getUrl
+m 0 48/LiveBean component1
+m 0 48/LiveBean component7
+m 0 48/LiveBean component8
+m 0 48/LiveBean copy
+m 0 48/LiveBean copy$default
+m 0 48/SettingBean copy
+m 0 48/SettingBean copy$default
+p com.yoyiyi.soleil.bean.user.UpDetail 54
+f 0 54/DataBean archive
+m 0 54/DataBean getArchive
+f 0 54/DataBean card
+m 0 54/DataBean getCard
+f 0 54/DataBean elec
+m 0 54/DataBean getElec
+f 0 54/DataBean favourite
+m 0 54/DataBean getFavourite
+f 0 54/DataBean images
+m 0 54/DataBean getImages
+f 0 54/DataBean live
+m 0 54/DataBean getLive
+f 0 54/DataBean setting
+m 0 54/DataBean getSetting
+m 0 54/DataBean component1
+m 0 54/DataBean component2
+m 0 54/DataBean component3
+m 0 54/DataBean component4
+m 0 54/DataBean component5
+m 0 54/DataBean component6
+m 0 54/DataBean component8
+m 0 54/DataBean copy
+m 0 54/DataBean copy$default
+p com.yoyiyi.soleil.bean.user 55
+f 0 55/UpDetail data
+m 0 55/UpDetail getData
+f 0 55/UpDetail message
+m 0 55/UpDetail getMessage
+m 0 55/UpDetail component2
+m 0 55/UpDetail component3
+m 0 55/UpDetail copy
+m 0 55/UpDetail copy$default
+p com.yoyiyi.soleil.bean.user.UserDetail.CardBean 56
+f 0 56/LevelInfoBean next_exp
+m 0 56/LevelInfoBean getNext_exp
+m 0 56/LevelInfoBean component4
+m 0 56/LevelInfoBean copy
+m 0 56/LevelInfoBean copy$default
+f 0 56/PendantBean name
+m 0 56/PendantBean getName
+f 0 56/PendantBean image
+m 0 56/PendantBean getImage
+m 0 56/PendantBean component2
+m 0 56/PendantBean component3
+m 0 56/PendantBean copy
+m 0 56/PendantBean copy$default
+f 0 56/NameplateBean name
+m 0 56/NameplateBean getName
+f 0 56/NameplateBean image
+m 0 56/NameplateBean getImage
+f 0 56/NameplateBean image_small
+m 0 56/NameplateBean getImage_small
+f 0 56/NameplateBean level
+m 0 56/NameplateBean getLevel
+f 0 56/NameplateBean condition
+m 0 56/NameplateBean getCondition
+m 0 56/NameplateBean component2
+m 0 56/NameplateBean component3
+m 0 56/NameplateBean component4
+m 0 56/NameplateBean component5
+m 0 56/NameplateBean component6
+m 0 56/NameplateBean copy
+m 0 56/NameplateBean copy$default
+f 0 56/OfficialVerifyBean desc
+m 0 56/OfficialVerifyBean getDesc
+m 0 56/OfficialVerifyBean component2
+m 0 56/OfficialVerifyBean copy
+m 0 56/OfficialVerifyBean copy$default
+p com.yoyiyi.soleil.bean.user.UserDetail 57
+f 0 57/CardBean mid
+m 0 57/CardBean getMid
+f 0 57/CardBean name
+m 0 57/CardBean getName
+f 0 57/CardBean sex
+m 0 57/CardBean getSex
+f 0 57/CardBean rank
+m 0 57/CardBean getRank
+f 0 57/CardBean face
+m 0 57/CardBean getFace
+f 0 57/CardBean DisplayRank
+m 0 57/CardBean getDisplayRank
+f 0 57/CardBean birthday
+m 0 57/CardBean getBirthday
+f 0 57/CardBean place
+m 0 57/CardBean getPlace
+f 0 57/CardBean description
+m 0 57/CardBean getDescription
+f 0 57/CardBean sign
+m 0 57/CardBean getSign
+f 0 57/CardBean level_info
+m 0 57/CardBean getLevel_info
+f 0 57/CardBean pendant
+m 0 57/CardBean getPendant
+f 0 57/CardBean nameplate
+m 0 57/CardBean getNameplate
+f 0 57/CardBean official_verify
+m 0 57/CardBean getOfficial_verify
+f 0 57/CardBean attentions
+m 0 57/CardBean getAttentions
+m 0 57/CardBean component1
+m 0 57/CardBean component2
+m 0 57/CardBean component4
+m 0 57/CardBean component5
+m 0 57/CardBean component6
+m 0 57/CardBean component8
+m 0 57/CardBean component11
+m 0 57/CardBean component12
+m 0 57/CardBean component13
+m 0 57/CardBean component18
+m 0 57/CardBean component19
+m 0 57/CardBean component20
+m 0 57/CardBean component21
+m 0 57/CardBean component22
+m 0 57/CardBean component23
+m 0 57/CardBean copy
+m 0 57/CardBean copy$default
+f 0 55/UserDetail card
+m 0 55/UserDetail getCard
+m 0 55/UserDetail component2
+m 0 55/UserDetail copy
+m 0 55/UserDetail copy$default
+p com.yoyiyi.soleil.bean.region.AllRegionRank.RankBean 58
+f 0 58/ListBean aid
+m 0 58/ListBean getAid
+f 0 58/ListBean author
+m 0 58/ListBean getAuthor
+f 0 58/ListBean create
+m 0 58/ListBean getCreate
+f 0 58/ListBean description
+m 0 58/ListBean getDescription
+f 0 58/ListBean duration
+m 0 58/ListBean getDuration
+m 0 58/ListBean component1
+m 0 58/ListBean component2
+m 0 58/ListBean component5
+m 0 58/ListBean component6
+m 0 58/ListBean component7
+m 0 58/ListBean copy
+m 0 58/ListBean copy$default
+p com.yoyiyi.soleil.bean.region.AllRegionRank 59
+f 0 59/RankBean list
+m 0 59/RankBean getList
+m 0 59/RankBean component1
+m 0 59/RankBean copy
+m 0 59/RankBean copy$default
+p com.yoyiyi.soleil.bean.region 60
+f 0 60/AllRegionRank rank
+m 0 60/AllRegionRank getRank
+m 0 60/AllRegionRank component1
+m 0 60/AllRegionRank copy
+m 0 60/AllRegionRank copy$default
+p com.yoyiyi.soleil.bean.region.Region.Banner 61
+f 0 61/Top title
+m 0 61/Top getTitle
+f 0 61/Top image
+m 0 61/Top getImage
+f 0 61/Top hash
+m 0 61/Top getHash
+f 0 61/Top uri
+m 0 61/Top getUri
+f 0 61/Top request_id
+m 0 61/Top getRequest_id
+m 0 61/Top component2
+m 0 61/Top component3
+m 0 61/Top component4
+m 0 61/Top component5
+m 0 61/Top component7
+m 0 61/Top copy
+m 0 61/Top copy$default
+p com.yoyiyi.soleil.bean.region.Region 62
+f 0 62/Banner top
+m 0 62/Banner getTop
+m 0 62/Banner component1
+m 0 62/Banner copy
+m 0 62/Banner copy$default
+f 0 62/Body title
+m 0 62/Body getTitle
+f 0 62/Body cover
+m 0 62/Body getCover
+f 0 62/Body uri
+m 0 62/Body getUri
+f 0 62/Body param
+m 0 62/Body getParam
+f 0 62/Body goto
+m 0 62/Body getGoto
+f 0 62/Body index
+m 0 62/Body getIndex
+f 0 62/Body total_count
+m 0 62/Body getTotal_count
+f 0 62/Body mtime
+m 0 62/Body getMtime
+m 0 62/Body component1
+m 0 62/Body component2
+m 0 62/Body component3
+m 0 62/Body component4
+m 0 62/Body component5
+m 0 62/Body component7
+m 0 62/Body component8
+m 0 62/Body component9
+m 0 62/Body copy
+m 0 62/Body copy$default
+f 0 60/Region param
+m 0 60/Region getParam
+f 0 60/Region type
+m 0 60/Region getType
+f 0 60/Region style
+m 0 60/Region getStyle
+f 0 60/Region title
+m 0 60/Region getTitle
+f 0 60/Region banner
+m 0 60/Region getBanner
+f 0 60/Region body
+m 0 60/Region getBody
+m 0 60/Region component1
+m 0 60/Region component2
+m 0 60/Region component3
+m 0 60/Region component4
+m 0 60/Region component5
+m 0 60/Region component6
+m 0 60/Region copy
+m 0 60/Region copy$default
+f 0 60/RegionEnter title
+m 0 60/RegionEnter getTitle
+m 0 60/RegionEnter component1
+m 0 60/RegionEnter copy
+m 0 60/RegionEnter copy$default
+p com.yoyiyi.soleil.bean.region.RegionRecommend.BannerBean 63
+f 0 63/TopBean title
+m 0 63/TopBean getTitle
+f 0 63/TopBean image
+m 0 63/TopBean getImage
+f 0 63/TopBean hash
+m 0 63/TopBean getHash
+f 0 63/TopBean uri
+m 0 63/TopBean getUri
+f 0 63/TopBean request_id
+m 0 63/TopBean getRequest_id
+f 0 63/TopBean ad_cb
+m 0 63/TopBean getAd_cb
+f 0 63/TopBean click_url
+m 0 63/TopBean getClick_url
+f 0 63/TopBean client_ip
+m 0 63/TopBean getClient_ip
+p com.yoyiyi.soleil.bean.region.RegionRecommend 64
+f 0 64/BannerBean top
+m 0 64/BannerBean getTop
+m 0 64/BannerBean component1
+m 0 64/BannerBean copy
+m 0 64/BannerBean copy$default
+f 0 64/RecommendBean title
+m 0 64/RecommendBean getTitle
+f 0 64/RecommendBean cover
+m 0 64/RecommendBean getCover
+f 0 64/RecommendBean uri
+m 0 64/RecommendBean getUri
+f 0 64/RecommendBean param
+m 0 64/RecommendBean getParam
+f 0 64/RecommendBean goto
+m 0 64/RecommendBean getGoto
+f 0 64/RecommendBean name
+m 0 64/RecommendBean getName
+f 0 64/RecommendBean rname
+m 0 64/RecommendBean getRname
+m 0 64/RecommendBean component1
+m 0 64/RecommendBean component2
+m 0 64/RecommendBean component3
+m 0 64/RecommendBean component4
+m 0 64/RecommendBean component5
+m 0 64/RecommendBean component6
+m 0 64/RecommendBean component14
+m 0 64/RecommendBean copy
+m 0 64/RecommendBean copy$default
+f 0 64/NewBean title
+m 0 64/NewBean getTitle
+f 0 64/NewBean cover
+m 0 64/NewBean getCover
+f 0 64/NewBean uri
+m 0 64/NewBean getUri
+f 0 64/NewBean param
+m 0 64/NewBean getParam
+f 0 64/NewBean goto
+m 0 64/NewBean getGoto
+f 0 64/NewBean name
+m 0 64/NewBean getName
+f 0 64/NewBean rname
+m 0 64/NewBean getRname
+m 0 64/NewBean component1
+m 0 64/NewBean component2
+m 0 64/NewBean component3
+m 0 64/NewBean component4
+m 0 64/NewBean component5
+m 0 64/NewBean component7
+m 0 64/NewBean component11
+m 0 64/NewBean copy
+m 0 64/NewBean copy$default
+f 0 64/DynamicBean title
+m 0 64/DynamicBean getTitle
+f 0 64/DynamicBean cover
+m 0 64/DynamicBean getCover
+f 0 64/DynamicBean uri
+m 0 64/DynamicBean getUri
+f 0 64/DynamicBean param
+m 0 64/DynamicBean getParam
+f 0 64/DynamicBean goto
+m 0 64/DynamicBean getGoto
+f 0 64/DynamicBean name
+m 0 64/DynamicBean getName
+f 0 64/DynamicBean rname
+m 0 64/DynamicBean getRname
+f 0 60/RegionRecommend banner
+m 0 60/RegionRecommend getBanner
+f 0 60/RegionRecommend recommend
+m 0 60/RegionRecommend getRecommend
+f 0 60/RegionRecommend new
+m 0 60/RegionRecommend getNew
+f 0 60/RegionRecommend dynamic
+m 0 60/RegionRecommend getDynamic
+m 0 60/RegionRecommend component1
+m 0 60/RegionRecommend component2
+m 0 60/RegionRecommend component3
+m 0 60/RegionRecommend component4
+m 0 60/RegionRecommend copy
+m 0 60/RegionRecommend copy$default
+p com.yoyiyi.soleil.bean.region.RegionTagType 65
+f 0 65/Children name
+m 0 65/Children getName
+f 0 65/Children logo
+m 0 65/Children getLogo
+f 0 65/Children goto
+m 0 65/Children getGoto
+f 0 65/Children param
+m 0 65/Children getParam
+f 0 65/Children CREATOR
+m 0 65/Children component3
+m 0 65/Children component4
+m 0 65/Children component5
+m 0 65/Children component6
+m 0 65/Children copy
+m 0 65/Children copy$default
+f 0 60/RegionTagType name
+m 0 60/RegionTagType getName
+f 0 60/RegionTagType logo
+m 0 60/RegionTagType getLogo
+f 0 60/RegionTagType goto
+m 0 60/RegionTagType getGoto
+f 0 60/RegionTagType param
+m 0 60/RegionTagType getParam
+f 0 60/RegionTagType children
+m 0 60/RegionTagType getChildren
+f 0 60/RegionTagType CREATOR
+m 0 60/RegionTagType component3
+m 0 60/RegionTagType component4
+m 0 60/RegionTagType component5
+m 0 60/RegionTagType component6
+m 0 60/RegionTagType component7
+m 0 60/RegionTagType copy
+m 0 60/RegionTagType copy$default
+p com.yoyiyi.soleil.bean.region.RegionType 66
+f 0 66/RecommendBean title
+m 0 66/RecommendBean getTitle
+f 0 66/RecommendBean cover
+m 0 66/RecommendBean getCover
+f 0 66/RecommendBean uri
+m 0 66/RecommendBean getUri
+f 0 66/RecommendBean param
+m 0 66/RecommendBean getParam
+f 0 66/RecommendBean goto
+m 0 66/RecommendBean getGoto
+f 0 66/RecommendBean name
+m 0 66/RecommendBean getName
+m 0 66/RecommendBean component1
+m 0 66/RecommendBean component2
+m 0 66/RecommendBean component3
+m 0 66/RecommendBean component4
+m 0 66/RecommendBean component5
+m 0 66/RecommendBean component6
+m 0 66/RecommendBean copy
+m 0 66/RecommendBean copy$default
+f 0 66/NewBean title
+m 0 66/NewBean getTitle
+f 0 66/NewBean cover
+m 0 66/NewBean getCover
+f 0 66/NewBean uri
+m 0 66/NewBean getUri
+f 0 66/NewBean param
+m 0 66/NewBean getParam
+f 0 66/NewBean goto
+m 0 66/NewBean getGoto
+f 0 66/NewBean name
+m 0 66/NewBean getName
+m 0 66/NewBean component1
+m 0 66/NewBean component2
+m 0 66/NewBean component3
+m 0 66/NewBean component4
+m 0 66/NewBean component5
+m 0 66/NewBean component6
+m 0 66/NewBean copy
+m 0 66/NewBean copy$default
+f 0 60/RegionType recommend
+m 0 60/RegionType getRecommend
+f 0 60/RegionType new
+m 0 60/RegionType getNew
+m 0 60/RegionType component1
+m 0 60/RegionType component2
+m 0 60/RegionType copy
+m 0 60/RegionType copy$default
+p com.yoyiyi.soleil.bean.search.Movie.DataBean 67
+f 0 67/ItemsBean title
+m 0 67/ItemsBean getTitle
+f 0 67/ItemsBean cover
+m 0 67/ItemsBean getCover
+f 0 67/ItemsBean uri
+m 0 67/ItemsBean getUri
+f 0 67/ItemsBean param
+m 0 67/ItemsBean getParam
+f 0 67/ItemsBean goto
+m 0 67/ItemsBean getGoto
+f 0 67/ItemsBean desc
+m 0 67/ItemsBean getDesc
+f 0 67/ItemsBean screen_date
+m 0 67/ItemsBean getScreen_date
+f 0 67/ItemsBean area
+m 0 67/ItemsBean getArea
+f 0 67/ItemsBean cover_mark
+m 0 67/ItemsBean getCover_mark
+f 0 67/ItemsBean actors
+m 0 67/ItemsBean getActors
+f 0 67/ItemsBean staff
+m 0 67/ItemsBean getStaff
+m 0 67/ItemsBean component1
+m 0 67/ItemsBean component2
+m 0 67/ItemsBean component3
+m 0 67/ItemsBean component4
+m 0 67/ItemsBean component5
+m 0 67/ItemsBean component8
+m 0 67/ItemsBean component9
+m 0 67/ItemsBean component10
+m 0 67/ItemsBean component11
+m 0 67/ItemsBean component12
+m 0 67/ItemsBean component13
+m 0 67/ItemsBean copy
+m 0 67/ItemsBean copy$default
+p com.yoyiyi.soleil.bean.search.Movie 68
+f 0 68/DataBean trackid
+m 0 68/DataBean getTrackid
+f 0 68/DataBean items
+m 0 68/DataBean getItems
+m 0 68/DataBean component1
+m 0 68/DataBean component3
+m 0 68/DataBean copy
+m 0 68/DataBean copy$default
+p com.yoyiyi.soleil.bean.search 69
+f 0 69/Movie data
+m 0 69/Movie getData
+f 0 69/Movie message
+m 0 69/Movie getMessage
+m 0 69/Movie component2
+m 0 69/Movie component3
+m 0 69/Movie copy
+m 0 69/Movie copy$default
+p com.yoyiyi.soleil.bean.search.Search.DataBean.ItemsBean 70
+f 0 70/ArchiveBean author
+m 0 70/ArchiveBean getAuthor
+f 0 70/ArchiveBean cover
+m 0 70/ArchiveBean getCover
+f 0 70/ArchiveBean desc
+m 0 70/ArchiveBean getDesc
+f 0 70/ArchiveBean duration
+m 0 70/ArchiveBean getDuration
+f 0 70/ArchiveBean gotoX
+m 0 70/ArchiveBean getGotoX
+f 0 70/ArchiveBean param
+m 0 70/ArchiveBean getParam
+f 0 70/ArchiveBean title
+m 0 70/ArchiveBean getTitle
+f 0 70/ArchiveBean uri
+m 0 70/ArchiveBean getUri
+m 0 70/ArchiveBean component2
+m 0 70/ArchiveBean component3
+m 0 70/ArchiveBean component5
+m 0 70/ArchiveBean component6
+m 0 70/ArchiveBean component7
+m 0 70/ArchiveBean component8
+m 0 70/ArchiveBean component12
+m 0 70/ArchiveBean component14
+m 0 70/ArchiveBean copy
+m 0 70/ArchiveBean copy$default
+f 0 70/MovieBean actors
+m 0 70/MovieBean getActors
+f 0 70/MovieBean area
+m 0 70/MovieBean getArea
+f 0 70/MovieBean cover
+m 0 70/MovieBean getCover
+f 0 70/MovieBean cover_mark
+m 0 70/MovieBean getCover_mark
+f 0 70/MovieBean desc
+m 0 70/MovieBean getDesc
+f 0 70/MovieBean goto
+m 0 70/MovieBean getGoto
+f 0 70/MovieBean param
+m 0 70/MovieBean getParam
+f 0 70/MovieBean screen_date
+m 0 70/MovieBean getScreen_date
+f 0 70/MovieBean staff
+m 0 70/MovieBean getStaff
+f 0 70/MovieBean title
+m 0 70/MovieBean getTitle
+f 0 70/MovieBean uri
+m 0 70/MovieBean getUri
+m 0 70/MovieBean component1
+m 0 70/MovieBean component2
+m 0 70/MovieBean component4
+m 0 70/MovieBean component5
+m 0 70/MovieBean component6
+m 0 70/MovieBean component7
+m 0 70/MovieBean component9
+m 0 70/MovieBean component10
+m 0 70/MovieBean component11
+m 0 70/MovieBean component14
+m 0 70/MovieBean component16
+m 0 70/MovieBean copy
+m 0 70/MovieBean copy$default
+f 0 70/SeasonBean cat_desc
+m 0 70/SeasonBean getCat_desc
+f 0 70/SeasonBean cover
+m 0 70/SeasonBean getCover
+f 0 70/SeasonBean goto
+m 0 70/SeasonBean getGoto
+f 0 70/SeasonBean index
+m 0 70/SeasonBean getIndex
+f 0 70/SeasonBean newest_cat
+m 0 70/SeasonBean getNewest_cat
+f 0 70/SeasonBean newest_season
+m 0 70/SeasonBean getNewest_season
+f 0 70/SeasonBean param
+m 0 70/SeasonBean getParam
+f 0 70/SeasonBean title
+m 0 70/SeasonBean getTitle
+f 0 70/SeasonBean uri
+m 0 70/SeasonBean getUri
+m 0 70/SeasonBean component2
+m 0 70/SeasonBean component3
+m 0 70/SeasonBean component5
+m 0 70/SeasonBean component6
+m 0 70/SeasonBean component7
+m 0 70/SeasonBean component8
+m 0 70/SeasonBean component9
+m 0 70/SeasonBean component12
+m 0 70/SeasonBean component14
+m 0 70/SeasonBean copy
+m 0 70/SeasonBean copy$default
+p com.yoyiyi.soleil.bean.search.Search.DataBean 71
+f 0 71/ItemsBean archive
+m 0 71/ItemsBean getArchive
+f 0 71/ItemsBean movie
+m 0 71/ItemsBean getMovie
+f 0 71/ItemsBean season
+m 0 71/ItemsBean getSeason
+m 0 71/ItemsBean component1
+m 0 71/ItemsBean component2
+m 0 71/ItemsBean component3
+m 0 71/ItemsBean copy
+m 0 71/ItemsBean copy$default
+f 0 71/NavBean name
+m 0 71/NavBean getName
+m 0 71/NavBean component1
+m 0 71/NavBean copy
+m 0 71/NavBean copy$default
+p com.yoyiyi.soleil.bean.search.Search 72
+f 0 72/DataBean items
+m 0 72/DataBean getItems
+f 0 72/DataBean trackid
+m 0 72/DataBean getTrackid
+f 0 72/DataBean nav
+m 0 72/DataBean getNav
+m 0 72/DataBean component1
+m 0 72/DataBean component3
+m 0 72/DataBean component4
+m 0 72/DataBean copy
+m 0 72/DataBean copy$default
+f 0 69/Search data
+m 0 69/Search getData
+f 0 69/Search message
+m 0 69/Search getMessage
+m 0 69/Search component2
+m 0 69/Search component3
+m 0 69/Search copy
+m 0 69/Search copy$default
+p com.yoyiyi.soleil.bean.search.SearchArchive.ItemsBean 73
+f 0 73/ArchiveBean title
+m 0 73/ArchiveBean getTitle
+f 0 73/ArchiveBean cover
+m 0 73/ArchiveBean getCover
+f 0 73/ArchiveBean uri
+m 0 73/ArchiveBean getUri
+f 0 73/ArchiveBean param
+m 0 73/ArchiveBean getParam
+f 0 73/ArchiveBean goto
+m 0 73/ArchiveBean getGoto
+f 0 73/ArchiveBean author
+m 0 73/ArchiveBean getAuthor
+f 0 73/ArchiveBean desc
+m 0 73/ArchiveBean getDesc
+f 0 73/ArchiveBean duration
+m 0 73/ArchiveBean getDuration
+m 0 73/ArchiveBean component1
+m 0 73/ArchiveBean component2
+m 0 73/ArchiveBean component3
+m 0 73/ArchiveBean component4
+m 0 73/ArchiveBean component5
+m 0 73/ArchiveBean component8
+m 0 73/ArchiveBean component11
+m 0 73/ArchiveBean component12
+m 0 73/ArchiveBean copy
+m 0 73/ArchiveBean copy$default
+p com.yoyiyi.soleil.bean.search.SearchArchive 74
+f 0 74/ItemsBean archive
+m 0 74/ItemsBean getArchive
+m 0 74/ItemsBean component1
+m 0 74/ItemsBean copy
+m 0 74/ItemsBean copy$default
+f 0 74/NavBean name
+m 0 74/NavBean getName
+m 0 74/NavBean component1
+m 0 74/NavBean copy
+m 0 74/NavBean copy$default
+f 0 69/SearchArchive trackid
+m 0 69/SearchArchive getTrackid
+f 0 69/SearchArchive items
+m 0 69/SearchArchive getItems
+f 0 69/SearchArchive nav
+m 0 69/SearchArchive getNav
+m 0 69/SearchArchive component1
+m 0 69/SearchArchive component3
+m 0 69/SearchArchive component4
+m 0 69/SearchArchive copy
+m 0 69/SearchArchive copy$default
+p com.yoyiyi.soleil.bean.search.Season.DataBean 75
+f 0 75/ItemsBean cat_desc
+m 0 75/ItemsBean getCat_desc
+f 0 75/ItemsBean cover
+m 0 75/ItemsBean getCover
+f 0 75/ItemsBean goto
+m 0 75/ItemsBean getGoto
+f 0 75/ItemsBean index
+m 0 75/ItemsBean getIndex
+f 0 75/ItemsBean newest_cat
+m 0 75/ItemsBean getNewest_cat
+f 0 75/ItemsBean newest_season
+m 0 75/ItemsBean getNewest_season
+f 0 75/ItemsBean param
+m 0 75/ItemsBean getParam
+f 0 75/ItemsBean title
+m 0 75/ItemsBean getTitle
+f 0 75/ItemsBean uri
+m 0 75/ItemsBean getUri
+m 0 75/ItemsBean component2
+m 0 75/ItemsBean component3
+m 0 75/ItemsBean component5
+m 0 75/ItemsBean component6
+m 0 75/ItemsBean component7
+m 0 75/ItemsBean component8
+m 0 75/ItemsBean component9
+m 0 75/ItemsBean component12
+m 0 75/ItemsBean component14
+m 0 75/ItemsBean copy
+m 0 75/ItemsBean copy$default
+p com.yoyiyi.soleil.bean.search.Season 76
+f 0 76/DataBean trackid
+m 0 76/DataBean getTrackid
+f 0 76/DataBean items
+m 0 76/DataBean getItems
+m 0 76/DataBean component2
+m 0 76/DataBean component3
+m 0 76/DataBean copy
+m 0 76/DataBean copy$default
+f 0 69/Season data
+m 0 69/Season getData
+f 0 69/Season message
+m 0 69/Season getMessage
+m 0 69/Season component2
+m 0 69/Season component3
+m 0 69/Season copy
+m 0 69/Season copy$default
+p com.yoyiyi.soleil.bean.search.Up.DataBean.ItemsBean 77
+f 0 77/OfficialVerifyBean desc
+m 0 77/OfficialVerifyBean getDesc
+m 0 77/OfficialVerifyBean component2
+m 0 77/OfficialVerifyBean copy
+m 0 77/OfficialVerifyBean copy$default
+p com.yoyiyi.soleil.bean.search.Up.DataBean 78
+f 0 78/ItemsBean title
+m 0 78/ItemsBean getTitle
+f 0 78/ItemsBean cover
+m 0 78/ItemsBean getCover
+f 0 78/ItemsBean uri
+m 0 78/ItemsBean getUri
+f 0 78/ItemsBean param
+m 0 78/ItemsBean getParam
+f 0 78/ItemsBean goto
+m 0 78/ItemsBean getGoto
+f 0 78/ItemsBean sign
+m 0 78/ItemsBean getSign
+f 0 78/ItemsBean official_verify
+m 0 78/ItemsBean getOfficial_verify
+m 0 78/ItemsBean component1
+m 0 78/ItemsBean component2
+m 0 78/ItemsBean component3
+m 0 78/ItemsBean component4
+m 0 78/ItemsBean component5
+m 0 78/ItemsBean component8
+m 0 78/ItemsBean component10
+m 0 78/ItemsBean copy
+m 0 78/ItemsBean copy$default
+p com.yoyiyi.soleil.bean.search.Up 79
+f 0 79/DataBean trackid
+m 0 79/DataBean getTrackid
+f 0 79/DataBean items
+m 0 79/DataBean getItems
+m 0 79/DataBean component1
+m 0 79/DataBean component3
+m 0 79/DataBean copy
+m 0 79/DataBean copy$default
+f 0 69/Up data
+m 0 69/Up getData
+f 0 69/Up message
+m 0 69/Up getMessage
+m 0 69/Up component2
+m 0 69/Up component3
+m 0 69/Up copy
+m 0 69/Up copy$default
+p com.yoyiyi.soleil.network.api 80
+m 0 80/ApiService getActivityCenter
+m 0 80/ApiService getTopicCenter
+m 0 80/ApiService getBangumiDetailComment
+m 0 80/ApiService getVideoDetailComment
+m 0 80/AppService getSplash
+m 0 80/AppService getRecommend
+m 0 80/AppService getRegion
+m 0 80/AppService getChaseBangumi
+m 0 80/AppService getRecommendBangumi
+m 0 80/AppService getSearchArchive
+m 0 80/AppService getRegionRecommend
+m 0 80/AppService getRegionType
+m 0 80/AppService getVideoDetail
+m 0 80/AppService getUpDetail
+m 0 80/AppService getSearch
+m 0 80/AppService getUp
+m 0 80/AppService getSeason
+m 0 80/AppService getMovie
+m 0 80/AppService getHotSearchTag
+m 0 80/AppService getVideoPlayer
+m 0 80/BangumiService getChaseBangumi
+m 0 80/BangumiService getRecommendBangumi
+m 0 80/BangumiService getBangumiSchedule
+m 0 80/BangumiService getBangumiIndex
+m 0 80/BangumiService getBangumiDetailRecommend
+m 0 80/BangumiService getBangumiDetail
+m 0 80/Im9Service getInterestCategrory
+m 0 80/Im9Service getCommunity
+m 0 80/Im9Service getInterestAd
+m 0 80/LiveService getLiveRecommend
+m 0 80/LiveService getLivePartition
+m 0 80/LiveService getLiveEntrance
+m 0 80/RankService getAllRegionRank
+m 0 80/RankService getAllStationRank
+p com.yoyiyi.soleil.constant 81
+f 0 81/Constants IS_LOGINED_FLAG
+f 0 81/Constants EXTRA_KEYWORD
+f 0 81/Constants EXTRA_PARCELABLE
+f 0 81/Constants EXTRA_TITLE
+f 0 81/Constants EXTRA_TID
+f 0 81/Constants EXTRA_BUNDLE
+f 0 81/Constants EXTRA_RID
+f 0 81/Constants EXTRA_POSITION
+f 0 81/Constants EXTRA_TYPE
+f 0 81/Constants EXTRA_URL
+f 0 81/Constants SHOP_URL
+f 0 81/Constants VIP_URL
+f 0 81/Constants BLACK_URL
+f 0 81/Constants BLACK_BOARD_URL
+f 0 81/Constants EXTRA_SETTING
+f 0 81/Constants EXTRA_IMAGE
+p com.yoyiyi.soleil.base 82
+f 0 82/BaseInjectActivity mPresenter
+m 0 82/BaseInjectActivity getMPresenter
+m 0 82/BaseInjectActivity getActivityModule
+m 0 82/BaseInjectActivity getActivityComponent
+f 0 82/BaseInjectFragment mPresenter
+m 0 82/BaseInjectFragment getMPresenter
+m 0 82/BaseInjectFragment getFragmentModule
+m 0 82/BaseInjectFragment getFragmentComponent
+p com.yoyiyi.soleil.di.component 83
+m 0 83/ActivityComponent getActivity
+m 0 83/AppComponent getContext
+m 0 83/AppComponent getRetrofitHelper
+m 0 83/FragmentComponent getActivity
+p com.yoyiyi.soleil.bean.recommend.AllStationRank.RankBean 84
+f 0 84/ListBean typename
+m 0 84/ListBean getTypename
+f 0 84/ListBean title
+m 0 84/ListBean getTitle
+f 0 84/ListBean subtitle
+m 0 84/ListBean getSubtitle
+f 0 84/ListBean play
+m 0 84/ListBean getPlay
+f 0 84/ListBean author
+m 0 84/ListBean getAuthor
+f 0 84/ListBean description
+m 0 84/ListBean getDescription
+f 0 84/ListBean create
+m 0 84/ListBean getCreate
+f 0 84/ListBean pic
+m 0 84/ListBean getPic
+f 0 84/ListBean duration
+m 0 84/ListBean getDuration
+m 0 84/ListBean component2
+m 0 84/ListBean component3
+m 0 84/ListBean component4
+m 0 84/ListBean component5
+m 0 84/ListBean component10
+m 0 84/ListBean component11
+m 0 84/ListBean component12
+m 0 84/ListBean component13
+m 0 84/ListBean component15
+m 0 84/ListBean copy
+m 0 84/ListBean copy$default
+p com.yoyiyi.soleil.bean.recommend.AllStationRank 85
+f 0 85/RankBean list
+m 0 85/RankBean getList
+m 0 85/RankBean component1
+m 0 85/RankBean copy
+m 0 85/RankBean copy$default
+p com.yoyiyi.soleil.bean.recommend 86
+f 0 86/AllStationRank rank
+m 0 86/AllStationRank getRank
+m 0 86/AllStationRank component1
+m 0 86/AllStationRank copy
+m 0 86/AllStationRank copy$default
+p com.yoyiyi.soleil.bean.recommend.Recommend.Tag 87
+m 0 87/Count copy
+m 0 87/Count copy$default
+p com.yoyiyi.soleil.bean.recommend.Recommend 88
+f 0 88/Tag tag_name
+m 0 88/Tag getTag_name
+f 0 88/Tag count
+m 0 88/Tag getCount
+m 0 88/Tag component2
+m 0 88/Tag component3
+m 0 88/Tag copy
+m 0 88/Tag copy$default
+f 0 88/BannerItem title
+m 0 88/BannerItem getTitle
+f 0 88/BannerItem image
+m 0 88/BannerItem getImage
+f 0 88/BannerItem hash
+m 0 88/BannerItem getHash
+f 0 88/BannerItem uri
+m 0 88/BannerItem getUri
+f 0 88/BannerItem request_id
+m 0 88/BannerItem getRequest_id
+f 0 88/BannerItem ad_cb
+m 0 88/BannerItem getAd_cb
+f 0 88/BannerItem client_ip
+m 0 88/BannerItem getClient_ip
+f 0 88/BannerItem click_url
+m 0 88/BannerItem getClick_url
+m 0 88/BannerItem component2
+m 0 88/BannerItem component3
+m 0 88/BannerItem component4
+m 0 88/BannerItem component5
+m 0 88/BannerItem component6
+m 0 88/BannerItem component14
+m 0 88/BannerItem component15
+m 0 88/BannerItem component17
+m 0 88/BannerItem copy
+m 0 88/BannerItem copy$default
+f 0 88/DislikeReasons reason_name
+m 0 88/DislikeReasons getReason_name
+m 0 88/DislikeReasons component2
+m 0 88/DislikeReasons copy
+m 0 88/DislikeReasons copy$default
+f 0 86/Recommend param
+m 0 86/Recommend getParam
+f 0 86/Recommend goto
+m 0 86/Recommend getGoto
+f 0 86/Recommend title
+m 0 86/Recommend getTitle
+f 0 86/Recommend cover
+m 0 86/Recommend getCover
+f 0 86/Recommend uri
+m 0 86/Recommend getUri
+f 0 86/Recommend desc
+m 0 86/Recommend getDesc
+f 0 86/Recommend tname
+m 0 86/Recommend getTname
+f 0 86/Recommend tag
+m 0 86/Recommend getTag
+f 0 86/Recommend name
+m 0 86/Recommend getName
+f 0 86/Recommend face
+m 0 86/Recommend getFace
+f 0 86/Recommend area
+m 0 86/Recommend getArea
+f 0 86/Recommend banner_item
+m 0 86/Recommend getBanner_item
+f 0 86/Recommend dislike_reasons
+m 0 86/Recommend getDislike_reasons
+m 0 86/Recommend component1
+m 0 86/Recommend component2
+m 0 86/Recommend component4
+m 0 86/Recommend component5
+m 0 86/Recommend component6
+m 0 86/Recommend component7
+m 0 86/Recommend component15
+m 0 86/Recommend component16
+m 0 86/Recommend component20
+m 0 86/Recommend component21
+m 0 86/Recommend component23
+m 0 86/Recommend component26
+m 0 86/Recommend component27
+m 0 86/Recommend copy
+m 0 86/Recommend copy$default
+p com.yoyiyi.soleil.bean.discover.ActivityCenter 89
+f 0 89/ListBean cover
+m 0 89/ListBean getCover
+f 0 89/ListBean link
+m 0 89/ListBean getLink
+f 0 89/ListBean title
+m 0 89/ListBean getTitle
+m 0 89/ListBean component1
+m 0 89/ListBean component2
+m 0 89/ListBean component3
+m 0 89/ListBean copy
+m 0 89/ListBean copy$default
+p com.yoyiyi.soleil.bean.discover 90
+f 0 90/ActivityCenter list
+m 0 90/ActivityCenter getList
+m 0 90/ActivityCenter component4
+m 0 90/ActivityCenter copy
+m 0 90/ActivityCenter copy$default
+p com.yoyiyi.soleil.bean.discover.Community.ResultBean 91
+f 0 91/CommunityInfoBean community_avatar
+m 0 91/CommunityInfoBean getCommunity_avatar
+f 0 91/CommunityInfoBean community_name
+m 0 91/CommunityInfoBean getCommunity_name
+f 0 91/CommunityInfoBean community_url
+m 0 91/CommunityInfoBean getCommunity_url
+m 0 91/CommunityInfoBean component2
+m 0 91/CommunityInfoBean component4
+m 0 91/CommunityInfoBean component5
+m 0 91/CommunityInfoBean copy
+m 0 91/CommunityInfoBean copy$default
+p com.yoyiyi.soleil.bean.discover.Community.ResultBean.PostInfoBean 92
+f 0 92/PostImageListBean image_id
+m 0 92/PostImageListBean getImage_id
+f 0 92/PostImageListBean image_url
+m 0 92/PostImageListBean getImage_url
+f 0 92/PostImageListBean img_suffix
+m 0 92/PostImageListBean getImg_suffix
+m 0 92/PostImageListBean component3
+m 0 92/PostImageListBean component4
+m 0 92/PostImageListBean component5
+m 0 92/PostImageListBean copy
+m 0 92/PostImageListBean copy$default
+f 0 91/PostInfoBean author_avatar
+m 0 91/PostInfoBean getAuthor_avatar
+f 0 91/PostInfoBean author_name
+m 0 91/PostInfoBean getAuthor_name
+f 0 91/PostInfoBean last_reply_author
+m 0 91/PostInfoBean getLast_reply_author
+f 0 91/PostInfoBean post_summary
+m 0 91/PostInfoBean getPost_summary
+f 0 91/PostInfoBean post_title
+m 0 91/PostInfoBean getPost_title
+f 0 91/PostInfoBean post_image_list
+m 0 91/PostInfoBean getPost_image_list
+f 0 91/PostInfoBean tags
+m 0 91/PostInfoBean getTags
+p com.yoyiyi.soleil.bean.discover.Community 93
+f 0 93/ResultBean community_info
+m 0 93/ResultBean getCommunity_info
+f 0 93/ResultBean post_info
+m 0 93/ResultBean getPost_info
+m 0 93/ResultBean component1
+m 0 93/ResultBean component2
+m 0 93/ResultBean copy
+m 0 93/ResultBean copy$default
+f 0 90/Community result
+m 0 90/Community getResult
+m 0 90/Community component1
+m 0 90/Community copy
+m 0 90/Community copy$default
+p com.yoyiyi.soleil.bean.discover.GameCenter 94
+f 0 94/GreetingsBean context
+m 0 94/GreetingsBean getContext
+m 0 94/GreetingsBean component1
+m 0 94/GreetingsBean copy
+m 0 94/GreetingsBean copy$default
+f 0 94/BookGiftBean name
+m 0 94/BookGiftBean getName
+f 0 94/BookGiftBean image
+m 0 94/BookGiftBean getImage
+f 0 94/BookGiftBean link
+m 0 94/BookGiftBean getLink
+m 0 94/BookGiftBean component2
+m 0 94/BookGiftBean component3
+m 0 94/BookGiftBean component4
+m 0 94/BookGiftBean copy
+m 0 94/BookGiftBean copy$default
+f 0 94/GameListBean title
+m 0 94/GameListBean getTitle
+f 0 94/GameListBean summary
+m 0 94/GameListBean getSummary
+f 0 94/GameListBean android_sign
+m 0 94/GameListBean getAndroid_sign
+f 0 94/GameListBean android_pkg_name
+m 0 94/GameListBean getAndroid_pkg_name
+f 0 94/GameListBean download_link
+m 0 94/GameListBean getDownload_link
+f 0 94/GameListBean download_link2
+m 0 94/GameListBean getDownload_link2
+f 0 94/GameListBean icon
+m 0 94/GameListBean getIcon
+m 0 94/GameListBean component2
+m 0 94/GameListBean component3
+m 0 94/GameListBean component4
+m 0 94/GameListBean component5
+m 0 94/GameListBean component8
+m 0 94/GameListBean component9
+m 0 94/GameListBean component10
+m 0 94/GameListBean copy
+m 0 94/GameListBean copy$default
+f 0 90/GameCenter greetings
+m 0 90/GameCenter getGreetings
+f 0 90/GameCenter publicities
+m 0 90/GameCenter getPublicities
+f 0 90/GameCenter last_play
+m 0 90/GameCenter getLast_play
+f 0 90/GameCenter book_gift
+m 0 90/GameCenter getBook_gift
+f 0 90/GameCenter game_list
+m 0 90/GameCenter getGame_list
+m 0 90/GameCenter component4
+m 0 90/GameCenter component5
+m 0 90/GameCenter component6
+m 0 90/GameCenter component7
+m 0 90/GameCenter component8
+m 0 90/GameCenter copy
+m 0 90/GameCenter copy$default
+p com.yoyiyi.soleil.bean.discover.HotSearchTag 95
+f 0 95/ListBean keyword
+m 0 95/ListBean getKeyword
+f 0 95/ListBean status
+m 0 95/ListBean getStatus
+m 0 95/ListBean component1
+m 0 95/ListBean component2
+m 0 95/ListBean copy
+m 0 95/ListBean copy$default
+f 0 90/HotSearchTag trackid
+m 0 90/HotSearchTag getTrackid
+f 0 90/HotSearchTag list
+m 0 90/HotSearchTag getList
+m 0 90/HotSearchTag component1
+m 0 90/HotSearchTag component2
+m 0 90/HotSearchTag copy
+m 0 90/HotSearchTag copy$default
+p com.yoyiyi.soleil.bean.discover.InterestAd 96
+f 0 96/ResultBean ads_title
+m 0 96/ResultBean getAds_title
+f 0 96/ResultBean ads_image
+m 0 96/ResultBean getAds_image
+f 0 96/ResultBean ads_image_link
+m 0 96/ResultBean getAds_image_link
+m 0 96/ResultBean component1
+m 0 96/ResultBean component2
+m 0 96/ResultBean component3
+m 0 96/ResultBean copy
+m 0 96/ResultBean copy$default
+f 0 90/InterestAd result
+m 0 90/InterestAd getResult
+m 0 90/InterestAd component2
+m 0 90/InterestAd copy
+m 0 90/InterestAd copy$default
+p com.yoyiyi.soleil.bean.discover.InterestCategrory 97
+f 0 97/ResultBean name
+m 0 97/ResultBean getName
+f 0 97/ResultBean avatar
+m 0 97/ResultBean getAvatar
+m 0 97/ResultBean component2
+m 0 97/ResultBean component3
+m 0 97/ResultBean copy
+m 0 97/ResultBean copy$default
+f 0 90/InterestCategrory result
+m 0 90/InterestCategrory getResult
+m 0 90/InterestCategrory component1
+m 0 90/InterestCategrory copy
+m 0 90/InterestCategrory copy$default
+p com.yoyiyi.soleil.bean.discover.TopicCenter 98
+f 0 98/ListBean cover
+m 0 98/ListBean getCover
+f 0 98/ListBean link
+m 0 98/ListBean getLink
+f 0 98/ListBean title
+m 0 98/ListBean getTitle
+m 0 98/ListBean component1
+m 0 98/ListBean component2
+m 0 98/ListBean component3
+m 0 98/ListBean copy
+m 0 98/ListBean copy$default
+f 0 90/TopicCenter list
+m 0 90/TopicCenter getList
+m 0 90/TopicCenter component4
+m 0 90/TopicCenter copy
+m 0 90/TopicCenter copy$default
+p com.yoyiyi.soleil.rx 99
+f 0 99/RxBus bus
+m 0 99/RxBus getBus
+m 0 99/RxBus toFlowable
+m 0 99/RxBus toDefaultFlowable
+m 0 99/RxUtilsKt rxSchedulerHelper
+m 0 99/RxUtilsKt createData
+m 0 99/RxUtilsKt handleResult
+m 0 99/RxUtilsKt handleListResult
+p com.yoyiyi.soleil.bean.chase.ChaseBangumi.Follows 100
+f 0 100/NewEp episode_id
+m 0 100/NewEp getEpisode_id
+f 0 100/NewEp index
+m 0 100/NewEp getIndex
+f 0 100/NewEp update_time
+m 0 100/NewEp getUpdate_time
+m 0 100/NewEp component1
+m 0 100/NewEp component3
+m 0 100/NewEp component4
+m 0 100/NewEp copy
+m 0 100/NewEp copy$default
+f 0 100/UserSeason attention
+m 0 100/UserSeason getAttention
+f 0 100/UserSeason last_ep_id
+m 0 100/UserSeason getLast_ep_id
+f 0 100/UserSeason last_ep_index
+m 0 100/UserSeason getLast_ep_index
+f 0 100/UserSeason last_time
+m 0 100/UserSeason getLast_time
+m 0 100/UserSeason component1
+m 0 100/UserSeason component3
+m 0 100/UserSeason component4
+m 0 100/UserSeason component5
+m 0 100/UserSeason copy
+m 0 100/UserSeason copy$default
+p com.yoyiyi.soleil.bean.chase.ChaseBangumi 101
+f 0 101/Follows brief
+m 0 101/Follows getBrief
+f 0 101/Follows cover
+m 0 101/Follows getCover
+f 0 101/Follows is_finish
+m 0 101/Follows is_finish
+f 0 101/Follows new_ep
+m 0 101/Follows getNew_ep
+f 0 101/Follows newest_ep_id
+m 0 101/Follows getNewest_ep_id
+f 0 101/Follows newest_ep_index
+m 0 101/Follows getNewest_ep_index
+f 0 101/Follows pub_time
+m 0 101/Follows getPub_time
+f 0 101/Follows season_id
+m 0 101/Follows getSeason_id
+f 0 101/Follows squareCover
+m 0 101/Follows getSquareCover
+f 0 101/Follows title
+m 0 101/Follows getTitle
+f 0 101/Follows total_count
+m 0 101/Follows getTotal_count
+f 0 101/Follows trailerAid
+m 0 101/Follows getTrailerAid
+f 0 101/Follows user_season
+m 0 101/Follows getUser_season
+f 0 101/Follows weekday
+m 0 101/Follows getWeekday
+m 0 101/Follows component1
+m 0 101/Follows component2
+m 0 101/Follows component4
+m 0 101/Follows component7
+m 0 101/Follows component8
+m 0 101/Follows component9
+m 0 101/Follows component10
+m 0 101/Follows component11
+m 0 101/Follows component13
+m 0 101/Follows component14
+m 0 101/Follows component15
+m 0 101/Follows component16
+m 0 101/Follows component17
+m 0 101/Follows component18
+m 0 101/Follows copy
+m 0 101/Follows copy$default
+p com.yoyiyi.soleil.bean.chase 102
+f 0 102/ChaseBangumi delay_notice
+m 0 102/ChaseBangumi getDelay_notice
+f 0 102/ChaseBangumi follows
+m 0 102/ChaseBangumi getFollows
+m 0 102/ChaseBangumi component3
+m 0 102/ChaseBangumi component4
+m 0 102/ChaseBangumi copy
+m 0 102/ChaseBangumi copy$default
+p com.yoyiyi.soleil.bean.chase.RecommendBangumi 103
+f 0 103/Ad img
+m 0 103/Ad getImg
+f 0 103/Ad link
+m 0 103/Ad getLink
+f 0 103/Ad title
+m 0 103/Ad getTitle
+m 0 103/Ad component1
+m 0 103/Ad component3
+m 0 103/Ad component4
+m 0 103/Ad copy
+m 0 103/Ad copy$default
+p com.yoyiyi.soleil.bean.chase.RecommendBangumi.RecommendCn 104
+f 0 104/Foot cover
+m 0 104/Foot getCover
+f 0 104/Foot desc
+m 0 104/Foot getDesc
+f 0 104/Foot link
+m 0 104/Foot getLink
+f 0 104/Foot onDt
+m 0 104/Foot getOnDt
+f 0 104/Foot title
+m 0 104/Foot getTitle
+m 0 104/Foot component1
+m 0 104/Foot component3
+m 0 104/Foot component6
+m 0 104/Foot component7
+m 0 104/Foot component8
+m 0 104/Foot copy
+m 0 104/Foot copy$default
+f 0 104/Recommend cover
+m 0 104/Recommend getCover
+f 0 104/Recommend favourites
+m 0 104/Recommend getFavourites
+f 0 104/Recommend newest_ep_index
+m 0 104/Recommend getNewest_ep_index
+f 0 104/Recommend title
+m 0 104/Recommend getTitle
+m 0 104/Recommend component1
+m 0 104/Recommend component2
+m 0 104/Recommend component7
+m 0 104/Recommend component11
+m 0 104/Recommend copy
+m 0 104/Recommend copy$default
+f 0 103/RecommendCn foot
+m 0 103/RecommendCn getFoot
+f 0 103/RecommendCn recommend
+m 0 103/RecommendCn getRecommend
+m 0 103/RecommendCn component1
+m 0 103/RecommendCn component2
+m 0 103/RecommendCn copy
+m 0 103/RecommendCn copy$default
+p com.yoyiyi.soleil.bean.chase.RecommendBangumi.RecommendJp 105
+f 0 105/Foot cover
+m 0 105/Foot getCover
+f 0 105/Foot desc
+m 0 105/Foot getDesc
+f 0 105/Foot link
+m 0 105/Foot getLink
+f 0 105/Foot onDt
+m 0 105/Foot getOnDt
+f 0 105/Foot title
+m 0 105/Foot getTitle
+m 0 105/Foot component1
+m 0 105/Foot component3
+m 0 105/Foot component6
+m 0 105/Foot component7
+m 0 105/Foot component8
+m 0 105/Foot copy
+m 0 105/Foot copy$default
+f 0 105/Recommend cover
+m 0 105/Recommend getCover
+f 0 105/Recommend favourites
+m 0 105/Recommend getFavourites
+f 0 105/Recommend newest_ep_index
+m 0 105/Recommend getNewest_ep_index
+f 0 105/Recommend title
+m 0 105/Recommend getTitle
+m 0 105/Recommend component1
+m 0 105/Recommend component2
+m 0 105/Recommend component7
+m 0 105/Recommend component11
+m 0 105/Recommend copy
+m 0 105/Recommend copy$default
+f 0 103/RecommendJp foot
+m 0 103/RecommendJp getFoot
+f 0 103/RecommendJp recommend
+m 0 103/RecommendJp getRecommend
+m 0 103/RecommendJp component1
+m 0 103/RecommendJp component2
+m 0 103/RecommendJp copy
+m 0 103/RecommendJp copy$default
+f 0 102/RecommendBangumi recommend_cn
+m 0 102/RecommendBangumi getRecommend_cn
+f 0 102/RecommendBangumi recommend_jp
+m 0 102/RecommendBangumi getRecommend_jp
+f 0 102/RecommendBangumi ad
+m 0 102/RecommendBangumi getAd
+m 0 102/RecommendBangumi component1
+m 0 102/RecommendBangumi component2
+m 0 102/RecommendBangumi component3
+m 0 102/RecommendBangumi copy
+m 0 102/RecommendBangumi copy$default
+p com.yoyiyi.soleil.bean.live.LiveEntrance 106
+f 0 106/EntranceIconBean src
+m 0 106/EntranceIconBean getSrc
+m 0 106/EntranceIconBean component2
+m 0 106/EntranceIconBean copy
+m 0 106/EntranceIconBean copy$default
+p com.yoyiyi.soleil.bean.live 107
+f 0 107/LiveEntrance entrance_icon
+m 0 107/LiveEntrance getEntrance_icon
+f 0 107/LiveEntrance name
+m 0 107/LiveEntrance getName
+m 0 107/LiveEntrance component1
+m 0 107/LiveEntrance component3
+m 0 107/LiveEntrance copy
+m 0 107/LiveEntrance copy$default
+p com.yoyiyi.soleil.bean.live.LivePartition 108
+f 0 108/Banner img
+m 0 108/Banner getImg
+f 0 108/Banner link
+m 0 108/Banner getLink
+f 0 108/Banner remark
+m 0 108/Banner getRemark
+f 0 108/Banner title
+m 0 108/Banner getTitle
+m 0 108/Banner component1
+m 0 108/Banner component2
+m 0 108/Banner component3
+m 0 108/Banner component4
+m 0 108/Banner copy
+m 0 108/Banner copy$default
+p com.yoyiyi.soleil.bean.live.LivePartition.EntranceIcons 109
+f 0 109/EntranceIcon height
+m 0 109/EntranceIcon getHeight
+f 0 109/EntranceIcon src
+m 0 109/EntranceIcon getSrc
+f 0 109/EntranceIcon width
+m 0 109/EntranceIcon getWidth
+m 0 109/EntranceIcon component1
+m 0 109/EntranceIcon component2
+m 0 109/EntranceIcon component3
+m 0 109/EntranceIcon copy
+m 0 109/EntranceIcon copy$default
+f 0 108/EntranceIcons entrance_icon
+m 0 108/EntranceIcons getEntrance_icon
+f 0 108/EntranceIcons name
+m 0 108/EntranceIcons getName
+m 0 108/EntranceIcons component1
+m 0 108/EntranceIcons component3
+m 0 108/EntranceIcons copy
+m 0 108/EntranceIcons copy$default
+p com.yoyiyi.soleil.bean.live.LivePartition.Navigator 110
+f 0 110/EntranceIcon height
+m 0 110/EntranceIcon getHeight
+f 0 110/EntranceIcon src
+m 0 110/EntranceIcon getSrc
+f 0 110/EntranceIcon width
+m 0 110/EntranceIcon getWidth
+m 0 110/EntranceIcon component1
+m 0 110/EntranceIcon component2
+m 0 110/EntranceIcon component3
+m 0 110/EntranceIcon copy
+m 0 110/EntranceIcon copy$default
+f 0 108/Navigator entrance_icon
+m 0 108/Navigator getEntrance_icon
+f 0 108/Navigator name
+m 0 108/Navigator getName
+m 0 108/Navigator component1
+m 0 108/Navigator component3
+m 0 108/Navigator copy
+m 0 108/Navigator copy$default
+p com.yoyiyi.soleil.bean.live.LivePartition.Partitions.Partition 111
+f 0 111/SubIcon height
+m 0 111/SubIcon getHeight
+f 0 111/SubIcon src
+m 0 111/SubIcon getSrc
+f 0 111/SubIcon width
+m 0 111/SubIcon getWidth
+m 0 111/SubIcon component1
+m 0 111/SubIcon component2
+m 0 111/SubIcon component3
+m 0 111/SubIcon copy
+m 0 111/SubIcon copy$default
+p com.yoyiyi.soleil.bean.live.LivePartition.Partitions 112
+f 0 112/Partition area
+m 0 112/Partition getArea
+f 0 112/Partition name
+m 0 112/Partition getName
+f 0 112/Partition sub_icon
+m 0 112/Partition getSub_icon
+m 0 112/Partition component1
+m 0 112/Partition component4
+m 0 112/Partition component5
+m 0 112/Partition copy
+m 0 112/Partition copy$default
+p com.yoyiyi.soleil.bean.live.LivePartition.Partitions.Lives 113
+f 0 113/Cover src
+m 0 113/Cover getSrc
+m 0 113/Cover component2
+m 0 113/Cover copy
+m 0 113/Cover copy$default
+f 0 113/Owner face
+m 0 113/Owner getFace
+f 0 113/Owner name
+m 0 113/Owner getName
+m 0 113/Owner component1
+m 0 113/Owner component3
+m 0 113/Owner copy
+m 0 113/Owner copy$default
+f 0 112/Lives accept_quality
+m 0 112/Lives getAccept_quality
+f 0 112/Lives area
+m 0 112/Lives getArea
+f 0 112/Lives cover
+m 0 112/Lives getCover
+f 0 112/Lives owner
+m 0 112/Lives getOwner
+f 0 112/Lives playurl
+m 0 112/Lives getPlayurl
+f 0 112/Lives title
+m 0 112/Lives getTitle
+m 0 112/Lives component1
+m 0 112/Lives component2
+m 0 112/Lives component6
+m 0 112/Lives component9
+m 0 112/Lives component10
+m 0 112/Lives component12
+m 0 112/Lives copy
+m 0 112/Lives copy$default
+f 0 108/Partitions partition
+m 0 108/Partitions getPartition
+f 0 108/Partitions lives
+m 0 108/Partitions getLives
+m 0 108/Partitions component1
+m 0 108/Partitions component2
+m 0 108/Partitions copy
+m 0 108/Partitions copy$default
+f 0 107/LivePartition banner
+m 0 107/LivePartition getBanner
+f 0 107/LivePartition entranceIcons
+m 0 107/LivePartition getEntranceIcons
+f 0 107/LivePartition navigator
+m 0 107/LivePartition getNavigator
+f 0 107/LivePartition partitions
+m 0 107/LivePartition getPartitions
+m 0 107/LivePartition component1
+m 0 107/LivePartition component2
+m 0 107/LivePartition component3
+m 0 107/LivePartition component4
+m 0 107/LivePartition copy
+m 0 107/LivePartition copy$default
+p com.yoyiyi.soleil.bean.live.LiveRecommend.RecommendData.Partition 114
+f 0 114/SubIcon height
+m 0 114/SubIcon getHeight
+f 0 114/SubIcon src
+m 0 114/SubIcon getSrc
+f 0 114/SubIcon width
+m 0 114/SubIcon getWidth
+m 0 114/SubIcon component1
+m 0 114/SubIcon component2
+m 0 114/SubIcon component3
+m 0 114/SubIcon copy
+m 0 114/SubIcon copy$default
+p com.yoyiyi.soleil.bean.live.LiveRecommend.RecommendData 115
+f 0 115/Partition area
+m 0 115/Partition getArea
+f 0 115/Partition name
+m 0 115/Partition getName
+f 0 115/Partition sub_icon
+m 0 115/Partition getSub_icon
+m 0 115/Partition component1
+m 0 115/Partition component4
+m 0 115/Partition component5
+m 0 115/Partition copy
+m 0 115/Partition copy$default
+p com.yoyiyi.soleil.bean.live.LiveRecommend.RecommendData.BannerData 116
+f 0 116/Cover src
+m 0 116/Cover getSrc
+m 0 116/Cover component2
+m 0 116/Cover copy
+m 0 116/Cover copy$default
+f 0 116/Owner face
+m 0 116/Owner getFace
+f 0 116/Owner name
+m 0 116/Owner getName
+m 0 116/Owner component1
+m 0 116/Owner component3
+m 0 116/Owner copy
+m 0 116/Owner copy$default
+f 0 115/BannerData accept_quality
+m 0 115/BannerData getAccept_quality
+f 0 115/BannerData area
+m 0 115/BannerData getArea
+f 0 115/BannerData cover
+m 0 115/BannerData getCover
+f 0 115/BannerData owner
+m 0 115/BannerData getOwner
+f 0 115/BannerData playurl
+m 0 115/BannerData getPlayurl
+f 0 115/BannerData title
+m 0 115/BannerData getTitle
+m 0 115/BannerData component1
+m 0 115/BannerData component2
+m 0 115/BannerData component6
+m 0 115/BannerData component9
+m 0 115/BannerData component10
+m 0 115/BannerData component12
+m 0 115/BannerData copy
+m 0 115/BannerData copy$default
+p com.yoyiyi.soleil.bean.live.LiveRecommend.RecommendData.Lives 117
+f 0 117/Cover src
+m 0 117/Cover getSrc
+m 0 117/Cover component2
+m 0 117/Cover copy
+m 0 117/Cover copy$default
+f 0 117/Owner face
+m 0 117/Owner getFace
+f 0 117/Owner name
+m 0 117/Owner getName
+m 0 117/Owner component1
+m 0 117/Owner component3
+m 0 117/Owner copy
+m 0 117/Owner copy$default
+f 0 115/Lives accept_quality
+m 0 115/Lives getAccept_quality
+f 0 115/Lives area
+m 0 115/Lives getArea
+f 0 115/Lives cover
+m 0 115/Lives getCover
+f 0 115/Lives owner
+m 0 115/Lives getOwner
+f 0 115/Lives playurl
+m 0 115/Lives getPlayurl
+f 0 115/Lives title
+m 0 115/Lives getTitle
+m 0 115/Lives component1
+m 0 115/Lives component2
+m 0 115/Lives component6
+m 0 115/Lives component9
+m 0 115/Lives component10
+m 0 115/Lives component12
+m 0 115/Lives copy
+m 0 115/Lives copy$default
+p com.yoyiyi.soleil.bean.live.LiveRecommend 118
+f 0 118/RecommendData partition
+m 0 118/RecommendData getPartition
+f 0 118/RecommendData banner_data
+m 0 118/RecommendData getBanner_data
+f 0 118/RecommendData lives
+m 0 118/RecommendData getLives
+m 0 118/RecommendData component1
+m 0 118/RecommendData component2
+m 0 118/RecommendData component3
+m 0 118/RecommendData copy
+m 0 118/RecommendData copy$default
+f 0 107/LiveRecommend recommend_data
+m 0 107/LiveRecommend getRecommend_data
+m 0 107/LiveRecommend component1
+m 0 107/LiveRecommend copy
+m 0 107/LiveRecommend copy$default
+p com.yoyiyi.soleil.module.home.RecommendFragment 119
+m 0 119/Companion newInstance
+p com.yoyiyi.soleil.module.home.ChaseBangumiFragment 120
+m 0 120/Companion newInstance
+p com.yoyiyi.soleil.module.home.HomeFragment 121
+m 0 121/Companion newInstance
+p com.yoyiyi.soleil.module.home.LiveFragment 122
+m 0 122/Companion newInstance
+p com.yoyiyi.soleil.module.home.DynamicFragment 123
+m 0 123/Companion newInstance
+p com.yoyiyi.soleil.module.home.RegionFragment 124
+m 0 124/Companion newInstance
+p com.yoyiyi.soleil.module.home.DiscoverFragment 125
+m 0 125/Companion newInstance
+p com.yoyiyi.soleil.module.app.up.SubmitedVideoFragment 126
+m 0 126/Companion newInstance
+p com.yoyiyi.soleil.module.app.up.BangumiFragment 127
+m 0 127/Companion newInstance
+p com.yoyiyi.soleil.module.app.up.FavouriteFragment 128
+m 0 128/Companion newInstance
+p com.yoyiyi.soleil.module.app.up.CoinsVideoFragment 129
+m 0 129/Companion newInstance
+p com.yoyiyi.soleil.module.app.up.GroupFragment 130
+m 0 130/Companion newInstance
+p com.yoyiyi.soleil.module.app.up.PlayGamesFragment 131
+m 0 131/Companion newInstance
+p com.yoyiyi.soleil.module.app.up.ArchiveFragment 132
+m 0 132/Companion newInstance
+p com.yoyiyi.soleil.module.app.up 133
+f 0 133/UpDetailActivity mName
+m 0 133/UpDetailActivity getMName
+p com.yoyiyi.soleil.adapter.home 134
+m 0 134/MainAdapter getPageTitle
+m 0 82/BaseFragment getSupportActivity
+f 0 82/BaseRefreshFragment mList
+m 0 82/BaseRefreshFragment getMList
+p com.yoyiyi.soleil.module 135
+f 0 135/SplashActivity mPresenter
+m 0 135/SplashActivity getMPresenter
+p com.yoyiyi.soleil.module.app.video.CommentFragment 136
+m 0 136/Companion newInstance
+p com.yoyiyi.soleil.module.app.video.SummaryFragment 137
+m 0 137/Companion newInstance
+p com.yoyiyi.soleil.module.search 138
+f 0 138/BaseSearchFragment mList
+m 0 138/BaseSearchFragment getMList
+p com.yoyiyi.soleil.module.search.TotalSearchActivity 139
+m 0 139/SearchNavAdapter getItem
+m 0 139/SearchNavAdapter getPageTitle
+p com.yoyiyi.soleil.module.search.SeasonFragment 140
+m 0 140/Companion newsInstance
+p com.yoyiyi.soleil.module.search.MovieFragment 141
+m 0 141/Companion newsInstance
+p com.yoyiyi.soleil.module.search.UpFragment 142
+m 0 142/Companion newsInstance
+p com.yoyiyi.soleil.module.search.ArchiveFragment 143
+m 0 143/Companion newsInstance
+p com.yoyiyi.soleil.module.bangumi.BangumiScheduleActivity 144
+f 0 144/Week week
+m 0 144/Week getWeek
+p com.yoyiyi.soleil.module.region.AllRegionRankFragment 145
+m 0 145/Companion newInstance
+p com.yoyiyi.soleil.module.region.RegionTypeFragment 146
+m 0 146/Companion newInstance
+p com.yoyiyi.soleil.module.region.RegionTypeRecommendFragment 147
+m 0 147/Companion newInstance
+p com.yoyiyi.soleil.module.region.BaseRegionActivity 148
+m 0 148/BaseRegionTypeAdapter getItem
+m 0 148/BaseRegionTypeAdapter getPageTitle
+p com.yoyiyi.soleil.module.region 149
+f 0 149/BaseRegionActivity mList
+m 0 149/BaseRegionActivity getMList
+f 0 149/BaseRegionActivity mTitles
+m 0 149/BaseRegionActivity getMTitles
+f 0 149/BaseRegionActivity mFragment
+m 0 149/BaseRegionActivity getMFragment
+f 0 149/RegionTypeActivity mRegionType
+m 0 149/RegionTypeActivity getMRegionType
+f 0 149/RegionTypeActivity mTitle
+m 0 149/RegionTypeActivity getMTitle
+p com.yoyiyi.soleil.module.recommend.AllStationRankFragment 150
+m 0 150/Companion newInstance
+a javax.inject.Inject 1
+p com.yoyiyi.soleil.mvp.presenter.recommend 151
+m 1 151/AllStationRankPresenter <init>
+p com.yoyiyi.soleil.mvp.presenter.search 152
+m 1 152/ArchivePresenter <init>
+m 1 152/MoviePresenter <init>
+m 1 152/SearchPresenter <init>
+m 1 152/SeasonPresenter <init>
+m 1 152/TotalSearchPresenter <init>
+m 1 152/UpPresenter <init>
+p com.yoyiyi.soleil.mvp.presenter.app.up 153
+m 1 153/ArchivePresenter <init>
+m 1 153/FavouritePresenter <init>
+m 1 153/SubmitedVideoPresenter <init>
+m 1 153/UpDetailPresenter <init>
+p com.yoyiyi.soleil.mvp.presenter.region 154
+m 1 154/AllRegionRankPositionPresenter <init>
+m 1 154/AllRegionRankPresenter <init>
+m 1 154/LivePresenter <init>
+m 1 154/RegionTypePresenter <init>
+m 1 154/RegionTypeRecommendPresenter <init>
+m 1 41/ChaseBangumiPresenter <init>
+m 1 41/DiscoverPresenter <init>
+m 1 41/DynamicPresenter <init>
+m 1 41/LivePresenter <init>
+m 1 41/RecommendPresenter <init>
+m 1 41/RegionPresenter <init>
+p com.yoyiyi.soleil.mvp.presenter.app 155
+m 1 155/NothingPresenter <init>
+m 1 155/SplashPresenter <init>
+f 1 82/BaseInjectActivity mPresenter
+f 1 82/BaseInjectFragment mPresenter
+p com.yoyiyi.soleil.mvp.presenter.app.video 156
+m 1 156/CommentPresenter <init>
+m 1 156/SummaryPresenter <init>
+m 1 156/VideoDetailPresenter <init>
+m 1 156/VideoPlayerPresenter <init>
+p com.yoyiyi.soleil.mvp.presenter.bangumi 157
+m 1 157/BangumiDetailPresenter <init>
+m 1 157/BangumiIndexPresenter <init>
+m 1 157/BangumiSchedulePresenter <init>
+p com.yoyiyi.soleil.mvp.presenter.discover 158
+m 1 158/ActivityCenterPresenter <init>
+m 1 158/GameCenterPresenter <init>
+m 1 158/InterestPresenter <init>
+m 1 158/TopicCenterPresenter <init>
+f 1 135/SplashActivity mPresenter
+a org.jetbrains.annotations.Nullable 2
+f 2 11/MulComment hotsBean
+m 2 11/MulComment getHotsBean
+f 2 11/MulComment repliesBean
+m 2 11/MulComment getRepliesBean
+f 2 11/MulSummary desc
+m 2 11/MulSummary getDesc
+f 2 11/MulSummary title
+m 2 11/MulSummary getTitle
+f 2 11/MulSummary tags
+m 2 11/MulSummary getTags
+f 2 11/MulSummary state
+m 2 11/MulSummary getState
+f 2 11/MulSummary relates
+m 2 11/MulSummary getRelates
+f 2 11/MulSummary owner
+m 2 11/MulSummary getOwner
+f 2 24/MulBangumiDetail hotsBean
+m 2 24/MulBangumiDetail getHotsBean
+f 2 24/MulBangumiDetail repliesBean
+m 2 24/MulBangumiDetail getRepliesBean
+f 2 24/MulBangumiDetail bangumiRecommendList
+m 2 24/MulBangumiDetail getBangumiRecommendList
+f 2 24/MulBangumiDetail evaluate
+m 2 24/MulBangumiDetail getEvaluate
+f 2 24/MulBangumiDetail tagsBeanList
+m 2 24/MulBangumiDetail getTagsBeanList
+f 2 24/MulBangumiDetail totalCount
+m 2 24/MulBangumiDetail getTotalCount
+f 2 24/MulBangumiDetail playCount
+m 2 24/MulBangumiDetail getPlayCount
+f 2 24/MulBangumiDetail favorites
+m 2 24/MulBangumiDetail getFavorites
+f 2 24/MulBangumiDetail isFinish
+m 2 24/MulBangumiDetail isFinish
+f 2 24/MulBangumiDetail cover
+m 2 24/MulBangumiDetail getCover
+f 2 24/MulBangumiDetail episodesBeans
+m 2 24/MulBangumiDetail getEpisodesBeans
+f 2 24/MulBangumiDetail seasonsBeanList
+m 2 24/MulBangumiDetail getSeasonsBeanList
+f 2 24/MulBangumiDetail seasonsTitle
+m 2 24/MulBangumiDetail getSeasonsTitle
+f 2 24/MulBangumiDetail listBeanList
+m 2 24/MulBangumiDetail getListBeanList
+p com.yoyiyi.soleil.event.Event 159
+f 2 159/VideoDetailEvent videoDetail
+m 2 159/VideoDetailEvent getVideoDetail
+f 2 159/VideoDetailCommentEvent videoDetailComment
+m 2 159/VideoDetailCommentEvent getVideoDetailComment
+f 2 159/UpDetailArchiveEvent archive
+m 2 159/UpDetailArchiveEvent getArchive
+f 2 159/UpDetailArchiveEvent setting
+m 2 159/UpDetailArchiveEvent getSetting
+f 2 159/UpDetailArchiveEvent favourite
+m 2 159/UpDetailArchiveEvent getFavourite
+f 2 159/UpDetailArchiveEvent live
+m 2 159/UpDetailArchiveEvent getLive
+f 2 159/UpDetailSubmitedVideoEvent archivList
+m 2 159/UpDetailSubmitedVideoEvent getArchivList
+f 2 159/UpDetailFavourteEvent favouriteList
+m 2 159/UpDetailFavourteEvent getFavouriteList
+f 2 159/SearchArchiveEvent itemBean
+m 2 159/SearchArchiveEvent getItemBean
+f 2 39/MulDynamic child
+m 2 39/MulDynamic getChild
+f 2 39/MulDynamic group
+m 2 39/MulDynamic getGroup
+f 2 39/MulDynamic recent
+m 2 39/MulDynamic getRecent
+m 2 42/UserAgentInterceptor intercept
+f 2 55/MulUpDetail title
+m 2 55/MulUpDetail getTitle
+f 2 55/MulUpDetail archiveBean
+m 2 55/MulUpDetail getArchiveBean
+f 2 55/MulUpDetail favouriteBean
+m 2 55/MulUpDetail getFavouriteBean
+f 2 55/MulUpDetail favourite
+m 2 55/MulUpDetail getFavourite
+f 2 55/MulUpDetail archive
+m 2 55/MulUpDetail getArchive
+f 2 55/MulUpDetail setting
+m 2 55/MulUpDetail getSetting
+f 2 55/MulUpDetail live
+m 2 55/MulUpDetail getLive
+f 2 58/ListBean pic
+m 2 58/ListBean getPic
+f 2 58/ListBean subtitle
+m 2 58/ListBean getSubtitle
+f 2 58/ListBean title
+m 2 58/ListBean getTitle
+f 2 58/ListBean typename
+m 2 58/ListBean getTypename
+m 2 58/ListBean component10
+m 2 58/ListBean component14
+m 2 58/ListBean component15
+m 2 58/ListBean component16
+f 2 69/MulSearchArchive archive
+m 2 69/MulSearchArchive getArchive
+f 2 69/MulSearchArchive movie
+m 2 69/MulSearchArchive getMovie
+f 2 69/MulSearchArchive season
+m 2 69/MulSearchArchive getSeason
+f 2 82/RxPresenter mView
+m 2 82/RxPresenter getMView
+f 2 82/RxPresenter mCompositeDisposable
+m 2 82/RxPresenter getMCompositeDisposable
+f 2 86/MulRecommend recommend
+m 2 86/MulRecommend getRecommend
+f 2 86/MulRecommend data
+m 2 86/MulRecommend getData
+p com.yoyiyi.soleil.bean.discover.Ceshi.DataBean.ResultBean 160
+f 2 160/CommunityInfoBean community_name
+m 2 160/CommunityInfoBean getCommunity_name
+f 2 160/CommunityInfoBean community_url
+m 2 160/CommunityInfoBean getCommunity_url
+f 2 160/CommunityInfoBean community_avatar
+m 2 160/CommunityInfoBean getCommunity_avatar
+p com.yoyiyi.soleil.bean.discover.Ceshi.DataBean.ResultBean.PostInfoBean 161
+f 2 161/PostImageListBean img_suffix
+m 2 161/PostImageListBean getImg_suffix
+f 2 161/PostImageListBean image_id
+m 2 161/PostImageListBean getImage_id
+f 2 161/PostImageListBean image_url
+m 2 161/PostImageListBean getImage_url
+f 2 160/PostInfoBean post_title
+m 2 160/PostInfoBean getPost_title
+f 2 160/PostInfoBean post_summary
+m 2 160/PostInfoBean getPost_summary
+f 2 160/PostInfoBean author_name
+m 2 160/PostInfoBean getAuthor_name
+f 2 160/PostInfoBean author_avatar
+m 2 160/PostInfoBean getAuthor_avatar
+f 2 160/PostInfoBean last_reply_author
+m 2 160/PostInfoBean getLast_reply_author
+f 2 160/PostInfoBean post_image_list
+m 2 160/PostInfoBean getPost_image_list
+f 2 160/PostInfoBean tags
+m 2 160/PostInfoBean getTags
+p com.yoyiyi.soleil.bean.discover.Ceshi.DataBean 162
+f 2 162/ResultBean community_info
+m 2 162/ResultBean getCommunity_info
+f 2 162/ResultBean post_info
+m 2 162/ResultBean getPost_info
+p com.yoyiyi.soleil.bean.discover.Ceshi 163
+f 2 163/DataBean result
+m 2 163/DataBean getResult
+f 2 90/Ceshi ts
+m 2 90/Ceshi getTs
+f 2 90/Ceshi data
+m 2 90/Ceshi getData
+f 2 90/MulInterest interestCategroryList
+m 2 90/MulInterest getInterestCategroryList
+f 2 90/MulInterest community
+m 2 90/MulInterest getCommunity
+f 2 90/MulInterest interestAdList
+m 2 90/MulInterest getInterestAdList
+p com.yoyiyi.soleil.network.response 164
+f 2 164/HttpListResponse data
+m 2 164/HttpListResponse getData
+f 2 164/HttpListResponse result
+m 2 164/HttpListResponse getResult
+f 2 164/HttpListResponse message
+m 2 164/HttpListResponse getMessage
+f 2 164/HttpResponse data
+m 2 164/HttpResponse getData
+f 2 164/HttpResponse result
+m 2 164/HttpResponse getResult
+f 2 164/HttpResponse message
+m 2 164/HttpResponse getMessage
+f 2 164/HttpResponse rank
+m 2 164/HttpResponse getRank
+p com.yoyiyi.soleil.module.home 165
+f 2 165/BaseHomeFragment mToolbar
+m 2 165/BaseHomeFragment getMToolbar
+m 2 134/MainAdapter getItem
+f 2 82/BaseFragment mRootView
+m 2 82/BaseFragment getMRootView
+f 2 82/BaseFragment mActivity
+m 2 82/BaseFragment getMActivity
+f 2 82/BaseFragment mInflater
+m 2 82/BaseFragment getMInflater
+f 2 82/BaseFragment mContext
+m 2 82/BaseFragment getMContext
+f 2 82/BaseFragment mError
+m 2 82/BaseFragment getMError
+m 2 82/BaseFragment onCreateView
+m 2 82/BaseFragment getApplicationContext
+f 2 82/BaseRefreshFragment mRecycler
+m 2 82/BaseRefreshFragment getMRecycler
+f 2 82/BaseRefreshFragment mRefresh
+m 2 82/BaseRefreshFragment getMRefresh
+f 2 82/BaseActivity mToolbar
+m 2 82/BaseActivity getMToolbar
+f 2 82/BaseActivity mContext
+m 2 82/BaseActivity getMContext
+f 2 82/BaseActivity mError
+m 2 82/BaseActivity getMError
+f 2 82/BaseRefreshActivity mRecycler
+m 2 82/BaseRefreshActivity getMRecycler
+f 2 82/BaseRefreshActivity mRefresh
+m 2 82/BaseRefreshActivity getMRefresh
+f 2 82/BaseRefreshActivity mList
+m 2 82/BaseRefreshActivity getMList
+p com.yoyiyi.soleil.module.discover 166
+m 2 166/MineFragment onCreateView
+m 2 166/HomeFragment onCreateView
+f 2 138/BaseSearchFragment mIvSearchLoad
+m 2 138/BaseSearchFragment getMIvSearchLoad
+f 2 138/BaseSearchFragment mAnimationDrawable
+m 2 138/BaseSearchFragment getMAnimationDrawable
+f 2 138/BaseSearchFragment mRecycler
+m 2 138/BaseSearchFragment getMRecycler
+f 2 149/BaseRegionActivity mTvTitle
+m 2 149/BaseRegionActivity getMTvTitle
+f 2 149/BaseRegionActivity mIvBack
+m 2 149/BaseRegionActivity getMIvBack
+f 2 149/BaseRegionActivity mSlidingTabLayout
+m 2 149/BaseRegionActivity getMSlidingTabLayout
+f 2 149/BaseRegionActivity mViewPager
+m 2 149/BaseRegionActivity getMViewPager
+f 2 107/MulLive title
+m 2 107/MulLive getTitle
+f 2 107/MulLive url
+m 2 107/MulLive getUrl
+f 2 107/MulLive count
+m 2 107/MulLive getCount
+f 2 107/MulLive hasMore
+m 2 107/MulLive getHasMore
+f 2 107/MulLive bannerData
+m 2 107/MulLive getBannerData
+f 2 107/MulLive bannerBeanList
+m 2 107/MulLive getBannerBeanList
+f 2 107/MulLive recommendLives
+m 2 107/MulLive getRecommendLives
+f 2 107/MulLive partityLives
+m 2 107/MulLive getPartityLives
+a kotlin.jvm.Throws 3
+m 3 19/LoggerInterceptor intercept
+m 3 42/UserAgentInterceptor intercept
+m 3 42/RewriteCacheControlInterceptor intercept
+a android.annotation.SuppressLint 4
+m 4 165/BaseHomeFragment initToolbar
+m 4 133/UpDetailActivity initUpInfo
+m 4 82/BaseFragment initRefreshLayout
+m 4 135/MainActivity switchFragmentIndex
+m 4 135/MainActivity initVariables
+p com.yoyiyi.soleil.module.app.video 167
+m 4 167/VideoPlayerActivity initMediaPlayer
+p com.yoyiyi.soleil.module.app 168
+m 4 168/BrowerActivity initWebView$app_debug
+m 4 149/BaseRegionActivity initToolbar
+p com.yoyiyi.soleil.module.entrance 169
+m 4 169/OfflineDownloadActivity initWidget
+a javax.inject.Qualifier 5
+p com.yoyiyi.soleil.di.qualifier 170
+c 5 170/AccountUrl
+c 5 170/ApiUrl
+c 5 170/AppUrl
+c 5 170/BangumiUrl
+c 5 170/BiliUrl
+c 5 170/Im9Url
+c 5 170/LiveUrl
+c 5 170/RankUrl
+c 5 170/SearchUrl
+c 5 170/UserUrl
+c 5 170/VipUrl
+a kotlin.annotation.MustBeDocumented 6
+c 6 170/AccountUrl
+c 6 170/ApiUrl
+c 6 170/AppUrl
+c 6 170/BangumiUrl
+c 6 170/BiliUrl
+c 6 170/Im9Url
+c 6 170/LiveUrl
+c 6 170/RankUrl
+c 6 170/SearchUrl
+c 6 170/UserUrl
+c 6 170/VipUrl
+a kotlin.annotation.Retention 7
+c 7 170/AccountUrl
+c 7 170/ApiUrl
+c 7 170/AppUrl
+c 7 170/BangumiUrl
+c 7 170/BiliUrl
+c 7 170/Im9Url
+c 7 170/LiveUrl
+c 7 170/RankUrl
+c 7 170/SearchUrl
+c 7 170/UserUrl
+c 7 170/VipUrl
+p com.yoyiyi.soleil.di.scope 171
+c 7 171/ActivityScope
+c 7 171/FragmentScope
+a java.lang.annotation.Documented 8
+c 8 170/AccountUrl
+c 8 170/ApiUrl
+c 8 170/AppUrl
+c 8 170/BangumiUrl
+c 8 170/BiliUrl
+c 8 170/Im9Url
+c 8 170/LiveUrl
+c 8 170/RankUrl
+c 8 170/SearchUrl
+c 8 170/UserUrl
+c 8 170/VipUrl
+a java.lang.annotation.Retention 9
+c 9 170/AccountUrl
+c 9 170/ApiUrl
+c 9 170/AppUrl
+c 9 170/BangumiUrl
+c 9 170/BiliUrl
+c 9 170/Im9Url
+c 9 170/LiveUrl
+c 9 170/RankUrl
+c 9 170/SearchUrl
+c 9 170/UserUrl
+c 9 170/VipUrl
+c 9 171/ActivityScope
+c 9 171/FragmentScope
+a javax.inject.Scope 10
+c 10 171/ActivityScope
+c 10 171/FragmentScope
+a android.support.annotation.RequiresApi 11
+p com.yoyiyi.soleil.adapter.bangumi 172
+m 11 172/BangumiScheduleSection onBindHeaderViewHolder
+m 11 172/BangumiScheduleSection setWeekData
+a dagger.Module 12
+c 12 40/ActivityModule
+c 12 40/ApiModule
+c 12 40/AppModule
+c 12 40/FragmentModule
+a dagger.Provides 13
+m 13 40/ActivityModule provideActivity
+m 13 40/ApiModule provideOkHttpClient
+m 13 40/ApiModule provideRetrofitBuilder
+m 13 40/ApiModule provideRetrofitHelper
+m 13 40/ApiModule provideAppRetrofit
+m 13 40/ApiModule provideAppService
+m 13 40/ApiModule provideLiveRetrofit
+m 13 40/ApiModule provideLiveService
+m 13 40/ApiModule provideBangumiRetrofit
+m 13 40/ApiModule provideBangumiService
+m 13 40/ApiModule provideRankRetrofit
+m 13 40/ApiModule provideRankService
+m 13 40/ApiModule provideApiRetrofit
+m 13 40/ApiModule provideApiService
+m 13 40/ApiModule provideIm9Retrofit
+m 13 40/ApiModule provideIm9Service
+m 13 40/AppModule provideContext
+m 13 40/FragmentModule provideActivity
+a com.yoyiyi.soleil.di.scope.ActivityScope 14
+m 14 40/ActivityModule provideActivity
+c 14 83/ActivityComponent
+a javax.inject.Singleton 15
+m 15 40/ApiModule provideOkHttpClient
+m 15 40/ApiModule provideRetrofitBuilder
+m 15 40/ApiModule provideRetrofitHelper
+m 15 40/ApiModule provideAppRetrofit
+m 15 40/ApiModule provideAppService
+m 15 40/ApiModule provideLiveRetrofit
+m 15 40/ApiModule provideLiveService
+m 15 40/ApiModule provideBangumiRetrofit
+m 15 40/ApiModule provideBangumiService
+m 15 40/ApiModule provideRankRetrofit
+m 15 40/ApiModule provideRankService
+m 15 40/ApiModule provideApiRetrofit
+m 15 40/ApiModule provideApiService
+m 15 40/ApiModule provideIm9Retrofit
+m 15 40/ApiModule provideIm9Service
+c 15 83/AppComponent
+a com.yoyiyi.soleil.di.qualifier.AppUrl 16
+m 16 40/ApiModule provideAppRetrofit
+a com.yoyiyi.soleil.di.qualifier.LiveUrl 17
+m 17 40/ApiModule provideLiveRetrofit
+a com.yoyiyi.soleil.di.qualifier.BangumiUrl 18
+m 18 40/ApiModule provideBangumiRetrofit
+a com.yoyiyi.soleil.di.qualifier.RankUrl 19
+m 19 40/ApiModule provideRankRetrofit
+a com.yoyiyi.soleil.di.qualifier.ApiUrl 20
+m 20 40/ApiModule provideApiRetrofit
+a com.yoyiyi.soleil.di.qualifier.Im9Url 21
+m 21 40/ApiModule provideIm9Retrofit
+a com.yoyiyi.soleil.di.scope.FragmentScope 22
+m 22 40/FragmentModule provideActivity
+c 22 83/FragmentComponent
+a kotlin.jvm.Volatile 23
+f 23 43/OkHttpHelper mOkHttpClient
+f 23 165/ChaseBangumiFragment mChaseBangumi
+a kotlin.Suppress 24
+c 24 44/App
+c 24 165/DiscoverFragment
+a kotlin.jvm.Synchronized 25
+m 25 44/App exitApp
+a kotlin.jvm.JvmField 26
+f 26 65/Children CREATOR
+f 26 60/RegionTagType CREATOR
+a retrofit2.http.GET 27
+m 27 80/ApiService getActivityCenter
+m 27 80/ApiService getTopicCenter
+m 27 80/ApiService getBangumiDetailComment
+m 27 80/ApiService getVideoDetailComment
+m 27 80/AppService getSplash
+m 27 80/AppService getRecommend
+m 27 80/AppService getRegion
+m 27 80/AppService getChaseBangumi
+m 27 80/AppService getRecommendBangumi
+m 27 80/AppService getSearchArchive
+m 27 80/AppService getRegionRecommend
+m 27 80/AppService getRegionType
+m 27 80/AppService getVideoDetail
+m 27 80/AppService getUpDetail
+m 27 80/AppService getSearch
+m 27 80/AppService getUp
+m 27 80/AppService getSeason
+m 27 80/AppService getMovie
+m 27 80/AppService getHotSearchTag
+m 27 80/AppService getVideoPlayer
+m 27 80/BangumiService getChaseBangumi
+m 27 80/BangumiService getRecommendBangumi
+m 27 80/BangumiService getBangumiSchedule
+m 27 80/BangumiService getBangumiIndex
+m 27 80/BangumiService getBangumiDetailRecommend
+m 27 80/BangumiService getBangumiDetail
+m 27 80/Im9Service getInterestCategrory
+m 27 80/Im9Service getCommunity
+m 27 80/Im9Service getInterestAd
+m 27 80/LiveService getLiveRecommend
+m 27 80/LiveService getLivePartition
+m 27 80/LiveService getLiveEntrance
+m 27 80/RankService getAllRegionRank
+m 27 80/RankService getAllStationRank
+a dagger.Component 28
+c 28 83/ActivityComponent
+c 28 83/AppComponent
+c 28 83/FragmentComponent
+d 2/Recommend
+d 1/Data
+d 0/Body
+d 2/Splash
+d 3/Data
+d 151/AllStationRankPresenter
+d 11/MulComment
+p com.yoyiyi.soleil.bean.app.video.MulComment 173
+d 173/Companion
+d 11/MulSummary
+p com.yoyiyi.soleil.bean.app.video.MulSummary 174
+d 174/Companion
+d 11/VideoDetail
+d 10/DataBean
+d 4/RightsBean
+d 4/OwnerBean
+d 4/StatBean
+d 4/OwnerExtBean
+d 5/VipBean
+d 4/ReqUserBean
+d 4/ElecBean
+d 7/ElecSetBean
+d 6/ElecListBean
+d 4/PagesBean
+d 8/MetasBean
+d 4/DislikeReasonsBean
+d 4/TagBean
+d 4/RelatesBean
+d 9/OwnerBeanX
+d 9/StatBeanX
+d 11/VideoDetailComment
+d 17/DataBean
+d 12/PageBean
+d 12/UpperBean
+d 12/HotsBean
+d 14/MemberBean
+d 13/LevelInfoBean
+d 13/PendantBean
+d 13/NameplateBean
+d 13/OfficialVerifyBean
+d 13/VipBean
+d 14/ContentBean
+d 12/RepliesBean
+d 16/MemberBeanX
+d 15/LevelInfoBeanX
+d 15/PendantBeanX
+d 15/NameplateBeanX
+d 15/OfficialVerifyBeanX
+d 15/VipBeanX
+d 16/ContentBeanX
+d 11/VideoPlayer
+d 18/DurlBean
+d 19/ApiConstants
+d 19/LoggerInterceptor
+d 152/ArchivePresenter
+d 152/MoviePresenter
+d 152/SearchPresenter
+d 152/SeasonPresenter
+d 152/TotalSearchPresenter
+d 152/UpPresenter
+p com.yoyiyi.soleil.network.exception 175
+d 175/ApiException
+d 170/AccountUrl
+d 170/ApiUrl
+d 170/AppUrl
+d 170/BangumiUrl
+d 170/BiliUrl
+d 170/Im9Url
+d 170/LiveUrl
+d 170/RankUrl
+d 170/SearchUrl
+d 170/UserUrl
+d 170/VipUrl
+d 24/BangumiDetail
+d 21/LimitInfoBean
+d 20/DataBean
+d 21/RankBean
+d 22/ListBean
+d 21/RightsBean
+d 21/UserSeasonBean
+d 21/ActorBean
+d 21/EpisodesBean
+d 23/UpBean
+d 21/SeasonsBean
+d 21/TagsBean
+d 24/BangumiDetailComment
+d 30/DataBean
+d 25/PageBean
+d 25/UpperBean
+d 25/HotsBean
+d 27/MemberBean
+d 26/LevelInfoBean
+d 26/PendantBean
+d 26/NameplateBean
+d 26/OfficialVerifyBean
+d 26/VipBean
+d 27/ContentBean
+d 25/RepliesBean
+d 29/MemberBeanX
+d 28/LevelInfoBeanX
+d 28/PendantBeanX
+d 28/NameplateBeanX
+d 28/OfficialVerifyBeanX
+d 28/VipBeanX
+d 29/ContentBeanX
+d 24/BangumiDetailRecommend
+d 32/ListBean
+d 31/TagsBean
+d 24/BangumiIndex
+d 33/CategoryBean
+d 24/BangumiSchedule
+d 24/MulBangumiDetail
+p com.yoyiyi.soleil.bean.bangumi.MulBangumiDetail 176
+d 176/Companion
+d 171/ActivityScope
+d 171/FragmentScope
+d 153/ArchivePresenter
+d 153/FavouritePresenter
+d 153/SubmitedVideoPresenter
+d 153/UpDetailPresenter
+d 154/AllRegionRankPositionPresenter
+d 154/AllRegionRankPresenter
+d 154/LivePresenter
+d 154/RegionTypePresenter
+d 154/RegionTypeRecommendPresenter
+d 34/AppExtKt
+d 34/GlideImageLoader
+d 34/BannerExtKt
+d 34/StringExtKt
+p com.yoyiyi.soleil.mvp.contract.recommend 177
+d 177/AllStationRankContract
+p com.yoyiyi.soleil.mvp.contract.recommend.AllStationRankContract 178
+d 178/View
+p com.yoyiyi.soleil.mvp.contract.recommend.AllStationRankContract.View 179
+d 179/DefaultImpls
+d 178/Presenter
+p com.yoyiyi.soleil.mvp.contract.recommend.AllStationRankContract.Presenter 180
+d 180/DefaultImpls
+d 178/DefaultImpls
+p com.yoyiyi.soleil.event 181
+d 181/Event
+d 159/RegionEntrancePositionEvent
+d 159/StartNavigationEvent
+d 159/VideoDetailEvent
+d 159/VideoDetailCommentEvent
+d 159/UpDetailArchiveEvent
+d 159/UpDetailSubmitedVideoEvent
+d 159/UpDetailFavourteEvent
+d 159/SearchArchiveEvent
+d 39/Dynamic
+d 38/ItemBean
+d 37/RecentBean
+d 36/TagBean
+d 35/CountBean
+d 39/MulDynamic
+p com.yoyiyi.soleil.bean.dynamic.MulDynamic 182
+d 182/Companion
+p com.yoyiyi.soleil.mvp.contract.app 183
+d 183/SplashContract
+p com.yoyiyi.soleil.mvp.contract.app.SplashContract 184
+d 184/View
+p com.yoyiyi.soleil.mvp.contract.app.SplashContract.View 185
+d 185/DefaultImpls
+d 184/Presenter
+p com.yoyiyi.soleil.mvp.contract.app.SplashContract.Presenter 186
+d 186/DefaultImpls
+d 184/DefaultImpls
+d 40/ActivityModule
+d 40/ApiModule
+d 40/AppModule
+d 40/FragmentModule
+p com.yoyiyi.soleil.mvp.contract.discover 187
+d 187/ActivityCenterContract
+p com.yoyiyi.soleil.mvp.contract.discover.ActivityCenterContract 188
+d 188/View
+p com.yoyiyi.soleil.mvp.contract.discover.ActivityCenterContract.View 189
+d 189/DefaultImpls
+d 188/Presenter
+p com.yoyiyi.soleil.mvp.contract.discover.ActivityCenterContract.Presenter 190
+d 190/DefaultImpls
+d 188/DefaultImpls
+d 187/GameCenterContract
+p com.yoyiyi.soleil.mvp.contract.discover.GameCenterContract 191
+d 191/View
+p com.yoyiyi.soleil.mvp.contract.discover.GameCenterContract.View 192
+d 192/DefaultImpls
+d 191/Presenter
+p com.yoyiyi.soleil.mvp.contract.discover.GameCenterContract.Presenter 193
+d 193/DefaultImpls
+d 191/DefaultImpls
+d 187/InterestContract
+p com.yoyiyi.soleil.mvp.contract.discover.InterestContract 194
+d 194/View
+p com.yoyiyi.soleil.mvp.contract.discover.InterestContract.View 195
+d 195/DefaultImpls
+d 194/Presenter
+p com.yoyiyi.soleil.mvp.contract.discover.InterestContract.Presenter 196
+d 196/DefaultImpls
+d 194/DefaultImpls
+d 187/TopicCenterContract
+p com.yoyiyi.soleil.mvp.contract.discover.TopicCenterContract 197
+d 197/View
+p com.yoyiyi.soleil.mvp.contract.discover.TopicCenterContract.View 198
+d 198/DefaultImpls
+d 197/Presenter
+p com.yoyiyi.soleil.mvp.contract.discover.TopicCenterContract.Presenter 199
+d 199/DefaultImpls
+d 197/DefaultImpls
+d 41/ChaseBangumiPresenter
+d 41/DiscoverPresenter
+d 41/DynamicPresenter
+d 41/LivePresenter
+d 41/RecommendPresenter
+d 41/RegionPresenter
+p com.yoyiyi.soleil.mvp.contract.app.video 200
+d 200/CommentContract
+p com.yoyiyi.soleil.mvp.contract.app.video.CommentContract 201
+d 201/View
+p com.yoyiyi.soleil.mvp.contract.app.video.CommentContract.View 202
+d 202/DefaultImpls
+d 201/Presenter
+p com.yoyiyi.soleil.mvp.contract.app.video.CommentContract.Presenter 203
+d 203/DefaultImpls
+d 201/DefaultImpls
+d 200/SummaryContract
+p com.yoyiyi.soleil.mvp.contract.app.video.SummaryContract 204
+d 204/View
+p com.yoyiyi.soleil.mvp.contract.app.video.SummaryContract.View 205
+d 205/DefaultImpls
+d 204/Presenter
+p com.yoyiyi.soleil.mvp.contract.app.video.SummaryContract.Presenter 206
+d 206/DefaultImpls
+d 204/DefaultImpls
+d 200/VideoDetailContract
+p com.yoyiyi.soleil.mvp.contract.app.video.VideoDetailContract 207
+d 207/View
+p com.yoyiyi.soleil.mvp.contract.app.video.VideoDetailContract.View 208
+d 208/DefaultImpls
+d 207/Presenter
+p com.yoyiyi.soleil.mvp.contract.app.video.VideoDetailContract.Presenter 209
+d 209/DefaultImpls
+d 207/DefaultImpls
+d 200/VideoPlayerContract
+p com.yoyiyi.soleil.mvp.contract.app.video.VideoPlayerContract 210
+d 210/View
+p com.yoyiyi.soleil.mvp.contract.app.video.VideoPlayerContract.View 211
+d 211/DefaultImpls
+d 210/Presenter
+p com.yoyiyi.soleil.mvp.contract.app.video.VideoPlayerContract.Presenter 212
+d 212/DefaultImpls
+d 210/DefaultImpls
+d 43/OkHttpHelper
+d 42/UserAgentInterceptor
+d 42/RewriteCacheControlInterceptor
+d 43/RetrofitHelper
+d 43/UrlHelper
+p com.yoyiyi.soleil.mvp.contract.home 213
+d 213/ChaseBangumiContract
+p com.yoyiyi.soleil.mvp.contract.home.ChaseBangumiContract 214
+d 214/View
+p com.yoyiyi.soleil.mvp.contract.home.ChaseBangumiContract.View 215
+d 215/DefaultImpls
+d 214/Presenter
+p com.yoyiyi.soleil.mvp.contract.home.ChaseBangumiContract.Presenter 216
+d 216/DefaultImpls
+d 214/DefaultImpls
+d 213/DiscoverContract
+p com.yoyiyi.soleil.mvp.contract.home.DiscoverContract 217
+d 217/View
+p com.yoyiyi.soleil.mvp.contract.home.DiscoverContract.View 218
+d 218/DefaultImpls
+d 217/Presenter
+p com.yoyiyi.soleil.mvp.contract.home.DiscoverContract.Presenter 219
+d 219/DefaultImpls
+d 217/DefaultImpls
+d 213/DynamicContract
+p com.yoyiyi.soleil.mvp.contract.home.DynamicContract 220
+d 220/View
+p com.yoyiyi.soleil.mvp.contract.home.DynamicContract.View 221
+d 221/DefaultImpls
+d 220/Presenter
+p com.yoyiyi.soleil.mvp.contract.home.DynamicContract.Presenter 222
+d 222/DefaultImpls
+d 220/DefaultImpls
+d 213/LiveContract
+p com.yoyiyi.soleil.mvp.contract.home.LiveContract 223
+d 223/View
+p com.yoyiyi.soleil.mvp.contract.home.LiveContract.View 224
+d 224/DefaultImpls
+d 223/Presenter
+p com.yoyiyi.soleil.mvp.contract.home.LiveContract.Presenter 225
+d 225/DefaultImpls
+d 223/DefaultImpls
+d 213/RecommendContract
+p com.yoyiyi.soleil.mvp.contract.home.RecommendContract 226
+d 226/View
+p com.yoyiyi.soleil.mvp.contract.home.RecommendContract.View 227
+d 227/DefaultImpls
+d 226/Presenter
+p com.yoyiyi.soleil.mvp.contract.home.RecommendContract.Presenter 228
+d 228/DefaultImpls
+d 226/DefaultImpls
+d 213/RegionContract
+p com.yoyiyi.soleil.mvp.contract.home.RegionContract 229
+d 229/View
+p com.yoyiyi.soleil.mvp.contract.home.RegionContract.View 230
+d 230/DefaultImpls
+d 229/Presenter
+p com.yoyiyi.soleil.mvp.contract.home.RegionContract.Presenter 231
+d 231/DefaultImpls
+d 229/DefaultImpls
+d 44/App
+d 45/Companion
+d 46/LiveEnter
+d 55/MulUpDetail
+p com.yoyiyi.soleil.bean.user.MulUpDetail 232
+d 232/Companion
+d 55/UpDetail
+d 54/DataBean
+d 48/ArchiveBean
+d 47/ItemBean
+d 48/CardBean
+d 49/LevelInfoBean
+d 49/NameplateBean
+d 49/OfficialVerifyBean
+d 49/PendantBean
+d 49/VipBean
+d 48/ElecBean
+d 51/ElecSetBean
+d 50/ElecListBean
+d 48/FavouriteBean
+d 53/ItemBeanX
+d 52/CoverBean
+d 48/ImagesBean
+d 48/LiveBean
+d 48/SettingBean
+d 55/UserDetail
+d 57/CardBean
+d 56/LevelInfoBean
+d 56/PendantBean
+d 56/NameplateBean
+d 56/OfficialVerifyBean
+d 155/NothingPresenter
+d 155/SplashPresenter
+d 60/Ad
+d 60/AllRegionRank
+d 59/RankBean
+d 58/ListBean
+d 60/Region
+d 62/Banner
+d 61/Top
+d 62/Body
+d 60/RegionEnter
+d 60/RegionRecommend
+d 64/BannerBean
+d 63/TopBean
+d 64/RecommendBean
+d 64/NewBean
+d 64/DynamicBean
+d 60/RegionTagType
+d 65/Children
+p com.yoyiyi.soleil.bean.region.RegionTagType.Children 233
+d 233/Companion
+d 65/Companion
+d 60/RegionType
+d 66/RecommendBean
+d 66/NewBean
+d 69/Movie
+d 68/DataBean
+d 67/ItemsBean
+d 69/MulSearchArchive
+p com.yoyiyi.soleil.bean.search.MulSearchArchive 234
+d 234/Companion
+d 69/Search
+d 72/DataBean
+d 71/ItemsBean
+d 70/ArchiveBean
+d 70/MovieBean
+d 70/SeasonBean
+d 71/NavBean
+d 69/SearchArchive
+d 74/ItemsBean
+d 73/ArchiveBean
+d 74/NavBean
+d 69/Season
+d 76/DataBean
+d 75/ItemsBean
+d 69/Up
+d 79/DataBean
+d 78/ItemsBean
+d 77/OfficialVerifyBean
+d 80/ApiService
+p com.yoyiyi.soleil.network.api.ApiService 235
+d 235/DefaultImpls
+d 80/AppService
+p com.yoyiyi.soleil.network.api.AppService 236
+d 236/DefaultImpls
+d 80/BangumiService
+p com.yoyiyi.soleil.network.api.BangumiService 237
+d 237/DefaultImpls
+d 80/Im9Service
+p com.yoyiyi.soleil.network.api.Im9Service 238
+d 238/DefaultImpls
+d 80/LiveService
+p com.yoyiyi.soleil.network.api.LiveService 239
+d 239/DefaultImpls
+d 80/RankService
+p com.yoyiyi.soleil.network.api.RankService 240
+d 240/DefaultImpls
+d 81/Constants
+d 82/BaseContract
+p com.yoyiyi.soleil.base.BaseContract 241
+d 241/BaseView
+p com.yoyiyi.soleil.base.BaseContract.BaseView 242
+d 242/DefaultImpls
+d 241/BasePresenter
+p com.yoyiyi.soleil.base.BaseContract.BasePresenter 243
+d 243/DefaultImpls
+d 241/DefaultImpls
+d 82/BaseInjectActivity
+d 82/BaseInjectFragment
+d 82/BaseListSubscriber
+d 82/BaseObjectSubscriber
+d 82/BaseSubscriber
+d 82/RxPresenter
+d 83/ActivityComponent
+p com.yoyiyi.soleil.di.component.ActivityComponent 244
+d 244/DefaultImpls
+d 83/AppComponent
+p com.yoyiyi.soleil.di.component.AppComponent 245
+d 245/DefaultImpls
+d 83/FragmentComponent
+p com.yoyiyi.soleil.di.component.FragmentComponent 246
+d 246/DefaultImpls
+d 86/AllStationRank
+d 85/RankBean
+d 84/ListBean
+d 86/MulRecommend
+p com.yoyiyi.soleil.bean.recommend.MulRecommend 247
+d 247/Companion
+d 86/Recommend
+d 88/Tag
+d 87/Count
+d 88/BannerItem
+d 88/DislikeReasons
+p com.yoyiyi.soleil.mvp.contract.region 248
+d 248/AllRegionRankContract
+p com.yoyiyi.soleil.mvp.contract.region.AllRegionRankContract 249
+d 249/View
+p com.yoyiyi.soleil.mvp.contract.region.AllRegionRankContract.View 250
+d 250/DefaultImpls
+d 249/Presenter
+p com.yoyiyi.soleil.mvp.contract.region.AllRegionRankContract.Presenter 251
+d 251/DefaultImpls
+d 249/DefaultImpls
+d 248/AllRegionRankPositionContract
+p com.yoyiyi.soleil.mvp.contract.region.AllRegionRankPositionContract 252
+d 252/View
+p com.yoyiyi.soleil.mvp.contract.region.AllRegionRankPositionContract.View 253
+d 253/DefaultImpls
+d 252/Presenter
+p com.yoyiyi.soleil.mvp.contract.region.AllRegionRankPositionContract.Presenter 254
+d 254/DefaultImpls
+d 252/DefaultImpls
+d 248/RegionTypeContract
+p com.yoyiyi.soleil.mvp.contract.region.RegionTypeContract 255
+d 255/View
+p com.yoyiyi.soleil.mvp.contract.region.RegionTypeContract.View 256
+d 256/DefaultImpls
+d 255/Presenter
+p com.yoyiyi.soleil.mvp.contract.region.RegionTypeContract.Presenter 257
+d 257/DefaultImpls
+d 255/DefaultImpls
+d 248/RegionTypeRecommendContract
+p com.yoyiyi.soleil.mvp.contract.region.RegionTypeRecommendContract 258
+d 258/View
+p com.yoyiyi.soleil.mvp.contract.region.RegionTypeRecommendContract.View 259
+d 259/DefaultImpls
+d 258/Presenter
+p com.yoyiyi.soleil.mvp.contract.region.RegionTypeRecommendContract.Presenter 260
+d 260/DefaultImpls
+d 258/DefaultImpls
+d 90/ActivityCenter
+d 89/ListBean
+d 90/Ceshi
+d 163/DataBean
+d 162/ResultBean
+d 160/CommunityInfoBean
+d 160/PostInfoBean
+d 161/PostImageListBean
+d 90/Community
+d 93/ResultBean
+d 91/CommunityInfoBean
+d 91/PostInfoBean
+d 92/PostImageListBean
+d 90/GameCenter
+d 94/GreetingsBean
+d 94/BookGiftBean
+d 94/GameListBean
+d 90/HotSearchTag
+d 95/ListBean
+d 90/InterestAd
+d 96/ResultBean
+d 90/InterestCategrory
+d 97/ResultBean
+d 90/MulInterest
+p com.yoyiyi.soleil.bean.discover.MulInterest 261
+d 261/Companion
+d 90/TopicCenter
+d 98/ListBean
+p com.yoyiyi.soleil.mvp.contract.search 262
+d 262/ArchiveContract
+p com.yoyiyi.soleil.mvp.contract.search.ArchiveContract 263
+d 263/View
+p com.yoyiyi.soleil.mvp.contract.search.ArchiveContract.View 264
+d 264/DefaultImpls
+d 263/Presenter
+p com.yoyiyi.soleil.mvp.contract.search.ArchiveContract.Presenter 265
+d 265/DefaultImpls
+d 263/DefaultImpls
+d 262/BaseSearchContract
+p com.yoyiyi.soleil.mvp.contract.search.BaseSearchContract 266
+d 266/View
+p com.yoyiyi.soleil.mvp.contract.search.BaseSearchContract.View 267
+d 267/DefaultImpls
+d 266/Presenter
+p com.yoyiyi.soleil.mvp.contract.search.BaseSearchContract.Presenter 268
+d 268/DefaultImpls
+d 266/DefaultImpls
+d 262/MovieContract
+p com.yoyiyi.soleil.mvp.contract.search.MovieContract 269
+d 269/View
+p com.yoyiyi.soleil.mvp.contract.search.MovieContract.View 270
+d 270/DefaultImpls
+d 269/Presenter
+p com.yoyiyi.soleil.mvp.contract.search.MovieContract.Presenter 271
+d 271/DefaultImpls
+d 269/DefaultImpls
+d 262/SearchContract
+p com.yoyiyi.soleil.mvp.contract.search.SearchContract 272
+d 272/View
+p com.yoyiyi.soleil.mvp.contract.search.SearchContract.View 273
+d 273/DefaultImpls
+d 272/Presenter
+p com.yoyiyi.soleil.mvp.contract.search.SearchContract.Presenter 274
+d 274/DefaultImpls
+d 272/DefaultImpls
+d 262/SeasonContract
+p com.yoyiyi.soleil.mvp.contract.search.SeasonContract 275
+d 275/View
+p com.yoyiyi.soleil.mvp.contract.search.SeasonContract.View 276
+d 276/DefaultImpls
+d 275/Presenter
+p com.yoyiyi.soleil.mvp.contract.search.SeasonContract.Presenter 277
+d 277/DefaultImpls
+d 275/DefaultImpls
+d 262/TotalSearchContract
+p com.yoyiyi.soleil.mvp.contract.search.TotalSearchContract 278
+d 278/View
+p com.yoyiyi.soleil.mvp.contract.search.TotalSearchContract.View 279
+d 279/DefaultImpls
+d 278/Presenter
+p com.yoyiyi.soleil.mvp.contract.search.TotalSearchContract.Presenter 280
+d 280/DefaultImpls
+d 278/DefaultImpls
+d 262/UpContract
+p com.yoyiyi.soleil.mvp.contract.search.UpContract 281
+d 281/View
+p com.yoyiyi.soleil.mvp.contract.search.UpContract.View 282
+d 282/DefaultImpls
+d 281/Presenter
+p com.yoyiyi.soleil.mvp.contract.search.UpContract.Presenter 283
+d 283/DefaultImpls
+d 281/DefaultImpls
+p com.yoyiyi.soleil.mvp.contract.app.up 284
+d 284/ArchiveContract
+p com.yoyiyi.soleil.mvp.contract.app.up.ArchiveContract 285
+d 285/View
+p com.yoyiyi.soleil.mvp.contract.app.up.ArchiveContract.View 286
+d 286/DefaultImpls
+d 285/Presenter
+p com.yoyiyi.soleil.mvp.contract.app.up.ArchiveContract.Presenter 287
+d 287/DefaultImpls
+d 285/DefaultImpls
+d 284/FavouriteContract
+p com.yoyiyi.soleil.mvp.contract.app.up.FavouriteContract 288
+d 288/View
+p com.yoyiyi.soleil.mvp.contract.app.up.FavouriteContract.View 289
+d 289/DefaultImpls
+d 288/Presenter
+p com.yoyiyi.soleil.mvp.contract.app.up.FavouriteContract.Presenter 290
+d 290/DefaultImpls
+d 288/DefaultImpls
+d 284/SubmitedVideoContract
+p com.yoyiyi.soleil.mvp.contract.app.up.SubmitedVideoContract 291
+d 291/View
+p com.yoyiyi.soleil.mvp.contract.app.up.SubmitedVideoContract.View 292
+d 292/DefaultImpls
+d 291/Presenter
+p com.yoyiyi.soleil.mvp.contract.app.up.SubmitedVideoContract.Presenter 293
+d 293/DefaultImpls
+d 291/DefaultImpls
+d 284/UpDetailContract
+p com.yoyiyi.soleil.mvp.contract.app.up.UpDetailContract 294
+d 294/View
+p com.yoyiyi.soleil.mvp.contract.app.up.UpDetailContract.View 295
+d 295/DefaultImpls
+d 294/Presenter
+p com.yoyiyi.soleil.mvp.contract.app.up.UpDetailContract.Presenter 296
+d 296/DefaultImpls
+d 294/DefaultImpls
+d 99/RxBus
+d 99/RxUtilsKt
+d 156/CommentPresenter
+d 156/SummaryPresenter
+d 156/VideoDetailPresenter
+d 156/VideoPlayerPresenter
+d 157/BangumiDetailPresenter
+d 157/BangumiIndexPresenter
+d 157/BangumiSchedulePresenter
+p com.yoyiyi.soleil.module.region.live 297
+d 297/LiveRegionActivity
+d 102/ChaseBangumi
+d 101/Follows
+d 100/NewEp
+d 100/UserSeason
+d 102/RecommendBangumi
+d 103/Ad
+d 103/RecommendCn
+d 104/Foot
+d 104/Recommend
+d 103/RecommendJp
+d 105/Foot
+d 105/Recommend
+p com.yoyiyi.soleil.mvp.contract.bangumi 298
+d 298/BangumiDetailContract
+p com.yoyiyi.soleil.mvp.contract.bangumi.BangumiDetailContract 299
+d 299/View
+p com.yoyiyi.soleil.mvp.contract.bangumi.BangumiDetailContract.View 300
+d 300/DefaultImpls
+d 299/Presenter
+p com.yoyiyi.soleil.mvp.contract.bangumi.BangumiDetailContract.Presenter 301
+d 301/DefaultImpls
+d 299/DefaultImpls
+d 298/BangumiIndexContract
+p com.yoyiyi.soleil.mvp.contract.bangumi.BangumiIndexContract 302
+d 302/View
+p com.yoyiyi.soleil.mvp.contract.bangumi.BangumiIndexContract.View 303
+d 303/DefaultImpls
+d 302/Presenter
+p com.yoyiyi.soleil.mvp.contract.bangumi.BangumiIndexContract.Presenter 304
+d 304/DefaultImpls
+d 302/DefaultImpls
+d 298/BangumiScheduleContract
+p com.yoyiyi.soleil.mvp.contract.bangumi.BangumiScheduleContract 305
+d 305/View
+p com.yoyiyi.soleil.mvp.contract.bangumi.BangumiScheduleContract.View 306
+d 306/DefaultImpls
+d 305/Presenter
+p com.yoyiyi.soleil.mvp.contract.bangumi.BangumiScheduleContract.Presenter 307
+d 307/DefaultImpls
+d 305/DefaultImpls
+d 107/LiveEntrance
+d 106/EntranceIconBean
+d 107/LivePartition
+d 108/Banner
+d 108/EntranceIcons
+d 109/EntranceIcon
+d 108/Navigator
+d 110/EntranceIcon
+d 108/Partitions
+d 112/Partition
+d 111/SubIcon
+d 112/Lives
+d 113/Cover
+d 113/Owner
+d 107/LiveRecommend
+d 118/RecommendData
+d 115/Partition
+d 114/SubIcon
+d 115/BannerData
+d 116/Cover
+d 116/Owner
+d 115/Lives
+d 117/Cover
+d 117/Owner
+d 164/HttpListResponse
+d 164/HttpResponse
+d 158/ActivityCenterPresenter
+d 158/GameCenterPresenter
+d 158/InterestPresenter
+d 158/TopicCenterPresenter
+p com.yoyiyi.soleil.mvp.contract.region.live 308
+d 308/LiveContract
+p com.yoyiyi.soleil.mvp.contract.region.live.LiveContract 309
+d 309/View
+p com.yoyiyi.soleil.mvp.contract.region.live.LiveContract.View 310
+d 310/DefaultImpls
+d 309/Presenter
+p com.yoyiyi.soleil.mvp.contract.region.live.LiveContract.Presenter 311
+d 311/DefaultImpls
+d 309/DefaultImpls
+d 165/RecommendFragment
+d 119/Companion
+d 165/ChaseBangumiFragment
+d 120/Companion
+d 165/HomeFragment
+d 121/Companion
+d 165/LiveFragment
+d 122/Companion
+d 165/BaseHomeFragment
+d 165/DynamicFragment
+d 123/Companion
+d 165/RegionFragment
+d 124/Companion
+d 165/DiscoverFragment
+d 125/Companion
+p com.yoyiyi.soleil.adapter.discover.section 312
+d 312/GameCenterGameListSection
+d 312/GameCenterUserSection
+d 312/GameCenterBookGiftSection
+d 133/SubmitedVideoFragment
+d 126/Companion
+d 133/BangumiFragment
+d 127/Companion
+d 133/FavouriteFragment
+d 128/Companion
+d 133/CoinsVideoFragment
+d 129/Companion
+d 133/GroupFragment
+d 130/Companion
+d 133/PlayGamesFragment
+d 131/Companion
+d 133/ArchiveFragment
+d 132/Companion
+d 133/UpDetailActivity
+d 134/DynamicAdapter
+d 134/MainAdapter
+d 134/ChaseFllowAdapter
+d 134/RegionEntranceAdapter
+d 134/RegionActivityCenterAdapter
+d 134/ChaseRecommendJPAdapter
+d 134/RecommendAdapter
+d 134/ChaseRecommendCNAdapter
+p com.yoyiyi.soleil.adapter.search 313
+d 313/MovieAdapter
+d 313/MulArchiveAdapter
+d 313/SeasonAdapter
+d 313/UpAdapter
+d 82/BaseFragment
+d 82/BaseRefreshFragment
+d 82/BaseActivity
+d 82/BaseRefreshActivity
+d 166/ActivityCenterActivity
+p com.yoyiyi.soleil.module.discover.ActivityCenterActivity 314
+d 314/Companion
+d 166/MineFragment
+d 166/InterestFragment
+d 166/InterestActivity
+d 166/GameCenterActivity
+d 166/AllGameActivity
+d 166/HomeFragment
+d 166/TopicCenterActivity
+d 135/MainActivity
+d 135/SplashActivity
+d 167/CommentFragment
+d 136/Companion
+d 167/VideoPlayerActivity
+d 167/VideoDetailActivity
+p com.yoyiyi.soleil.module.app.video.VideoDetailActivity 315
+d 315/CollapsingToolbarLayoutState
+d 167/SummaryFragment
+d 137/Companion
+d 138/SearchActivity
+d 138/BaseSearchFragment
+d 138/TotalSearchActivity
+d 139/SearchNavAdapter
+d 139/Companion
+d 138/SeasonFragment
+d 140/Companion
+d 138/MovieFragment
+d 141/Companion
+d 138/UpFragment
+d 142/Companion
+d 138/ArchiveFragment
+d 143/Companion
+p com.yoyiyi.soleil.adapter.app.video 316
+d 316/SummaryAdapter
+d 316/CommentAdapter
+d 168/LoginActivity
+d 168/BrowerActivity
+p com.yoyiyi.soleil.module.app.BrowerActivity 317
+d 317/WebClientBase
+d 317/WebClient
+d 317/Companion
+p com.yoyiyi.soleil.module.bangumi 318
+d 318/BangumiIndexActivity
+d 318/BangumiScheduleActivity
+d 144/Week
+d 318/BangumiDetailActivity
+p com.yoyiyi.soleil.adapter.region.sectiton 319
+d 319/RegionRecommendNewSection
+d 319/RegionRecommendBannerSection
+d 319/RegionRecommendEntranceSection
+d 319/RegionRecommendRecommendSection
+d 319/RegionRecommendDynamicSection
+d 319/RegionTypeRecommendSection
+d 319/RegionTypeNewSection
+d 172/BangumiDetailAdapter
+d 172/BangumiDetailRecommendAdapter
+d 172/BangumiDetailEpisodeAdapter
+d 172/BangumiIndexSection
+d 172/BangumiScheduleSection
+d 172/BangumiDetailSeasonAdapter
+p com.yoyiyi.soleil.adapter.home.section.chase 320
+d 320/ChaseRecommendCNSection
+d 320/ChaseIndexSection
+d 320/ChaseRecommendJPSection
+d 320/ChaseAdSection
+d 320/ChaseFollowSection
+p com.yoyiyi.soleil.adapter.region 321
+d 321/AllRegionRankAdapter
+d 321/RegionRecommendEntranceAdapter
+p com.yoyiyi.soleil.adapter.home.live 322
+d 322/LiveRecommendAdapter
+d 322/LiveEntranceAdapter
+d 322/LivePartitionAdapter
+p com.yoyiyi.soleil.adapter.home.section.region 323
+d 323/RegionTopicSection
+d 323/RegionSection
+d 323/RegionActivityCenterSection
+d 323/RegionEntranceSection
+d 149/AllRegionRankFragment
+d 145/Companion
+d 149/RegionTypeFragment
+d 146/Companion
+d 149/AllRegionRankActivity
+p com.yoyiyi.soleil.module.region.AllRegionRankActivity 324
+d 324/Companion
+d 149/RegionTypeRecommendFragment
+d 147/Companion
+d 149/AdActivity
+d 149/BaseRegionActivity
+d 148/BaseRegionTypeAdapter
+d 149/RegionTypeActivity
+p com.yoyiyi.soleil.module.region.RegionTypeActivity 325
+d 325/Companion
+p com.yoyiyi.soleil.adapter.discover 326
+d 326/IntersetCategroyAdapter
+d 326/InterestAdapter
+d 326/ActivityCenterAdapter
+d 326/TopicCenterAdapter
+d 326/GameCenterBookGiftAdapter
+p com.yoyiyi.soleil.adapter.app.up 327
+d 327/ArchiveAdapter
+d 327/SubmitedVideoAdapter
+d 327/ArchiveFavouriteAdapter
+d 327/UpAdapter
+d 327/FavouriteAdapter
+p com.yoyiyi.soleil.module.recommend 328
+d 328/AllStationRankFragment
+d 150/Companion
+d 328/AllStationRankActivity
+p com.yoyiyi.soleil.adapter.recommend 329
+d 329/AllStationRankAdapter
+d 169/OfflineDownloadActivity
+d 169/VipActivity
+d 107/MulLive
+p com.yoyiyi.soleil.bean.live.MulLive 330
+d 330/Companion
+d 322/LiveAdapter
